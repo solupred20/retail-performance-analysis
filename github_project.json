@@ -1,0 +1,57 @@
+{
+    "name": "Retail Performance Analysis — Project Board",
+    "description": "Task management board for the full retail analytics workflow.",
+    "columns": [
+        {
+            "name": "To-Do"
+        },
+        {
+            "name": "In Progress"
+        },
+        {
+            "name": "Done"
+        }
+    ],
+    "issues": [
+        {
+            "title": "Import dataset file",
+            "column": "To-Do"
+        },
+        {
+            "title": "Clean missing values",
+            "column": "To-Do"
+        },
+        {
+            "title": "Create time features",
+            "column": "To-Do"
+        },
+        {
+            "title": "Monthly sales chart",
+            "column": "In Progress"
+        },
+        {
+            "title": "Profit trend chart",
+            "column": "In Progress"
+        },
+        {
+            "title": "Category analysis",
+            "column": "To-Do"
+        },
+        {
+            "title": "Discount vs Profit",
+            "column": "To-Do"
+        },
+        {
+            "title": "Top products analysis",
+            "column": "To-Do"
+        },
+        {
+            "title": "PDF Report Creation",
+            "column": "Done"
+        },
+        {
+            "title": "PowerPoint Deck",
+            "column": "Done"
+        }
+    ]
+}
