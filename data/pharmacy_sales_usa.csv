@@ -1,0 +1,2001 @@
+Transaction_ID,Date,Product,Quantity,Unit_Price,Customer_Type,Store_Region,Category,Sales,Cost,Profit
+1,2023-04-13,Cholesterol Med,5,106.7,Cash,South,Prescription,533.5,330.19,203.31
+2,2023-12-15,Sleep Aid Tablets,4,21.45,Cash,North,Sleep Aid,85.8,53.36,32.44
+3,2023-09-28,Sleep Aid Tablets,5,149.55,Insurance,East,Sleep Aid,747.75,494.85,252.89999999999998
+4,2023-04-17,Allergy Relief,1,31.6,Cash,West,Allergy,31.6,19.56,12.040000000000003
+5,2023-03-13,Cholesterol Med,5,91.15,Insurance,North,Prescription,455.75,327.37,128.38
+6,2023-07-08,Blood Pressure Med,4,64.65,Insurance,West,Prescription,258.6,152.66,105.94000000000003
+7,2023-01-21,Pain Relief Gel,3,23.33,Cash,West,Pain Relief,69.99,45.22,24.769999999999996
+8,2023-04-13,Vitamin D3 1000IU,3,9.04,Cash,West,Vitamins,27.119999999999997,22.35,4.769999999999996
+9,2023-05-02,Acetaminophen 500mg,5,95.3,Cash,North,Pain Relief,476.5,320.57,155.93
+10,2023-08-03,Baby Aspirin,2,121.98,Cash,North,Pain Relief,243.96,188.94,55.02000000000001
+11,2023-11-27,Acetaminophen 500mg,3,127.09,Cash,East,Pain Relief,381.27,222.68,158.58999999999997
+12,2023-03-29,Nasal Spray,5,74.99,Insurance,West,Cold & Flu,374.95,234.07,140.88
+13,2023-04-10,Sleep Aid Tablets,4,117.73,Cash,South,Sleep Aid,470.92,373.06,97.86000000000001
+14,2023-12-26,Cough Syrup,5,102.56,Insurance,East,Cold & Flu,512.8,399.42,113.37999999999994
+15,2023-06-01,Vitamin D3 1000IU,3,110.02,Cash,North,Vitamins,330.06,219.77,110.28999999999999
+16,2023-05-11,Antihistamine,4,76.43,Cash,South,Allergy,305.72,255.68,50.04000000000002
+17,2023-05-30,Pain Relief Gel,5,96.84,Cash,North,Pain Relief,484.20000000000005,398.59,85.61000000000007
+18,2023-11-05,Ibuprofen 200mg,1,121.8,Insurance,South,Pain Relief,121.8,102.15,19.64999999999999
+19,2023-09-15,Insulin Pen,4,62.69,Cash,East,Prescription,250.76,170.11,80.64999999999998
+20,2023-12-10,Amoxicillin 500mg,1,121.87,Insurance,South,Prescription,121.87,74.25,47.620000000000005
+21,2023-10-21,Allergy Relief,2,90.84,Insurance,East,Allergy,181.68,134.08,47.599999999999994
+22,2023-07-11,Cough Syrup,4,29.06,Insurance,North,Cold & Flu,116.24,87.81,28.429999999999993
+23,2023-10-04,Cough Syrup,1,8.58,Cash,South,Cold & Flu,8.58,5.04,3.54
+24,2023-06-10,Blood Pressure Med,3,57.6,Insurance,West,Prescription,172.8,135.81,36.99000000000001
+25,2023-11-10,Cough Syrup,3,84.27,Cash,West,Cold & Flu,252.81,140.42,112.39000000000001
+26,2023-01-22,Ibuprofen 200mg,2,126.77,Insurance,North,Pain Relief,253.54,176.16,77.38
+27,2023-09-10,Ibuprofen 200mg,4,23.49,Cash,South,Pain Relief,93.96,61.01,32.949999999999996
+28,2023-08-24,Amoxicillin 500mg,4,121.03,Insurance,West,Prescription,484.12,373.78,110.34000000000003
+29,2023-12-11,Baby Aspirin,4,130.14,Cash,East,Pain Relief,520.56,335.15,185.40999999999997
+30,2023-02-18,Cholesterol Med,2,26.85,Cash,South,Prescription,53.7,42.85,10.850000000000001
+31,2023-02-28,Antihistamine,4,128.48,Cash,South,Allergy,513.92,374.38,139.53999999999996
+32,2023-06-19,Vitamin D3 1000IU,3,148.76,Insurance,West,Vitamins,446.28,351.74,94.53999999999996
+33,2023-07-07,Cough Syrup,1,110.39,Insurance,East,Cold & Flu,110.39,93.48,16.909999999999997
+34,2023-09-28,Acetaminophen 500mg,3,118.79,Cash,East,Pain Relief,356.37,268.61,87.75999999999999
+35,2023-07-09,Antacid Tablets,3,149.19,Insurance,East,Digestive Health,447.57,378.41,69.15999999999997
+36,2023-06-24,Blood Pressure Med,1,92.79,Insurance,South,Prescription,92.79,51.84,40.95
+37,2023-02-20,Blood Pressure Med,3,49.64,Insurance,North,Prescription,148.92000000000002,97.01,51.91000000000001
+38,2023-12-30,Baby Aspirin,2,126.44,Insurance,South,Pain Relief,252.88,147.27,105.60999999999999
+39,2023-02-24,Acetaminophen 500mg,1,94.1,Insurance,South,Pain Relief,94.1,59.16,34.94
+40,2023-09-01,Nasal Spray,3,89.27,Insurance,West,Cold & Flu,267.81,214.69,53.120000000000005
+41,2023-11-16,Acetaminophen 500mg,5,41.78,Insurance,North,Pain Relief,208.9,116.92,91.98
+42,2023-05-11,Pain Relief Gel,3,114.67,Cash,East,Pain Relief,344.01,242.89,101.12
+43,2023-11-03,Nasal Spray,2,16.84,Cash,West,Cold & Flu,33.68,24.25,9.43
+44,2023-05-15,Insulin Pen,4,139.02,Insurance,South,Prescription,556.08,399.46,156.62000000000006
+45,2023-01-21,Sleep Aid Tablets,3,52.24,Cash,North,Sleep Aid,156.72,108.54,48.17999999999999
+46,2023-11-25,Antacid Tablets,4,23.53,Cash,East,Digestive Health,94.12,74.09,20.03
+47,2023-06-16,Sleep Aid Tablets,5,69.14,Cash,East,Sleep Aid,345.7,203.98,141.72
+48,2023-10-01,Blood Pressure Med,3,11.16,Insurance,South,Prescription,33.480000000000004,21.53,11.950000000000003
+49,2023-03-30,Acetaminophen 500mg,1,104.27,Insurance,East,Pain Relief,104.27,76.61,27.659999999999997
+50,2023-11-12,Insulin Pen,4,135.89,Insurance,East,Prescription,543.56,411.63,131.92999999999995
+51,2023-01-14,Cholesterol Med,5,126.4,Insurance,North,Prescription,632.0,424.23,207.76999999999998
+52,2023-08-30,Allergy Relief,1,23.47,Insurance,West,Allergy,23.47,19.07,4.399999999999999
+53,2023-09-22,Vitamin D3 1000IU,1,23.31,Cash,North,Vitamins,23.31,15.73,7.579999999999998
+54,2023-12-12,Insulin Pen,1,122.95,Insurance,West,Prescription,122.95,82.48,40.47
+55,2023-02-22,Baby Aspirin,1,139.02,Cash,West,Pain Relief,139.02,77.97,61.05000000000001
+56,2023-12-06,Pain Relief Gel,3,71.8,Insurance,West,Pain Relief,215.39999999999998,154.08,61.319999999999965
+57,2023-04-02,Vitamin D3 1000IU,3,77.35,Cash,East,Vitamins,232.04999999999998,176.96,55.089999999999975
+58,2023-09-21,Acetaminophen 500mg,3,51.15,Insurance,North,Pain Relief,153.45,89.67,63.77999999999999
+59,2023-02-04,Antihistamine,5,134.67,Insurance,East,Allergy,673.3499999999999,432.04,241.3099999999999
+60,2023-07-25,Cholesterol Med,5,98.51,Insurance,South,Prescription,492.55,386.34,106.21000000000004
+61,2023-03-22,Insulin Pen,5,46.8,Insurance,North,Prescription,234.0,154.39,79.61000000000001
+62,2023-02-19,Antacid Tablets,2,48.32,Insurance,West,Digestive Health,96.64,60.16,36.480000000000004
+63,2023-12-26,Acetaminophen 500mg,5,134.22,Insurance,East,Pain Relief,671.1,504.44,166.66000000000003
+64,2023-01-02,Cough Syrup,3,6.98,Cash,East,Cold & Flu,20.94,12.75,8.190000000000001
+65,2023-02-23,Ibuprofen 200mg,3,51.8,Insurance,North,Pain Relief,155.39999999999998,127.23,28.169999999999973
+66,2023-04-16,Insulin Pen,2,85.38,Cash,North,Prescription,170.76,99.33,71.42999999999999
+67,2023-09-17,Antacid Tablets,2,26.49,Insurance,West,Digestive Health,52.98,40.37,12.61
+68,2023-11-06,Pain Relief Gel,5,18.35,Cash,West,Pain Relief,91.75,64.21,27.540000000000006
+69,2023-07-10,Allergy Relief,4,123.22,Cash,South,Allergy,492.88,399.72,93.15999999999997
+70,2023-08-06,Cough Syrup,2,134.69,Cash,West,Cold & Flu,269.38,158.36,111.01999999999998
+71,2023-02-13,Sleep Aid Tablets,1,124.42,Cash,East,Sleep Aid,124.42,93.73,30.689999999999998
+72,2023-06-11,Allergy Relief,3,135.32,Cash,South,Allergy,405.96,292.95,113.00999999999999
+73,2023-07-21,Sleep Aid Tablets,1,85.2,Cash,South,Sleep Aid,85.2,59.13,26.07
+74,2023-09-27,Acetaminophen 500mg,3,122.78,Insurance,South,Pain Relief,368.34000000000003,256.89,111.45000000000005
+75,2023-12-17,Ibuprofen 200mg,3,60.69,Cash,North,Pain Relief,182.07,139.57,42.5
+76,2023-10-31,Insulin Pen,2,101.61,Insurance,West,Prescription,203.22,168.94,34.28
+77,2023-09-28,Insulin Pen,2,148.38,Insurance,South,Prescription,296.76,171.34,125.41999999999999
+78,2023-08-03,Antihistamine,1,37.73,Cash,North,Allergy,37.73,20.97,16.759999999999998
+79,2023-09-09,Blood Pressure Med,3,61.54,Cash,North,Prescription,184.62,146.17,38.45000000000002
+80,2023-07-09,Antihistamine,1,74.61,Insurance,South,Allergy,74.61,43.46,31.15
+81,2023-10-23,Baby Aspirin,4,25.01,Cash,South,Pain Relief,100.04,84.63,15.41000000000001
+82,2023-08-01,Acetaminophen 500mg,1,16.75,Cash,East,Pain Relief,16.75,12.32,4.43
+83,2023-07-27,Acetaminophen 500mg,5,125.31,Cash,South,Pain Relief,626.55,466.94,159.60999999999996
+84,2023-08-25,Ibuprofen 200mg,1,146.64,Cash,East,Pain Relief,146.64,89.4,57.23999999999998
+85,2023-12-04,Antihistamine,5,63.69,Cash,South,Allergy,318.45,198.11,120.33999999999997
+86,2023-02-22,Antacid Tablets,5,17.71,Cash,South,Digestive Health,88.55000000000001,66.22,22.330000000000013
+87,2023-10-07,Sleep Aid Tablets,5,14.54,Cash,West,Sleep Aid,72.69999999999999,59.83,12.86999999999999
+88,2023-08-05,Antacid Tablets,4,134.24,Insurance,South,Digestive Health,536.96,453.58,83.38000000000005
+89,2023-09-09,Ibuprofen 200mg,1,72.25,Cash,South,Pain Relief,72.25,44.03,28.22
+90,2023-07-07,Cholesterol Med,1,51.4,Insurance,East,Prescription,51.4,30.34,21.06
+91,2023-02-10,Blood Pressure Med,4,74.09,Insurance,East,Prescription,296.36,168.01,128.35000000000002
+92,2023-06-06,Antacid Tablets,3,51.15,Insurance,West,Digestive Health,153.45,124.37,29.079999999999984
+93,2023-01-15,Nasal Spray,2,75.91,Insurance,South,Cold & Flu,151.82,96.92,54.89999999999999
+94,2023-10-28,Baby Aspirin,1,129.64,Cash,South,Pain Relief,129.64,71.37,58.26999999999998
+95,2023-03-06,Vitamin D3 1000IU,2,90.88,Insurance,East,Vitamins,181.76,112.17,69.58999999999999
+96,2023-12-11,Ibuprofen 200mg,4,105.72,Insurance,North,Pain Relief,422.88,275.77,147.11
+97,2023-11-23,Ibuprofen 200mg,3,57.88,Insurance,North,Pain Relief,173.64000000000001,147.12,26.52000000000001
+98,2023-01-09,Amoxicillin 500mg,3,112.08,Insurance,North,Prescription,336.24,237.74,98.5
+99,2023-12-10,Sleep Aid Tablets,3,101.66,Insurance,East,Sleep Aid,304.98,186.47,118.51000000000002
+100,2023-05-09,Baby Aspirin,4,22.34,Cash,East,Pain Relief,89.36,58.12,31.240000000000002
+101,2023-05-16,Cough Syrup,5,88.03,Cash,North,Cold & Flu,440.15,285.7,154.45
+102,2023-03-04,Cough Syrup,5,42.23,Insurance,North,Cold & Flu,211.14999999999998,117.38,93.76999999999998
+103,2023-05-19,Nasal Spray,2,121.59,Cash,South,Cold & Flu,243.18,143.61,99.57
+104,2023-03-22,Antihistamine,5,66.76,Cash,East,Allergy,333.8,253.21,80.59
+105,2023-06-12,Baby Aspirin,5,149.23,Insurance,East,Pain Relief,746.15,437.3,308.84999999999997
+106,2023-10-16,Cholesterol Med,3,18.41,Insurance,North,Prescription,55.230000000000004,34.2,21.03
+107,2023-09-18,Acetaminophen 500mg,3,118.15,Insurance,North,Pain Relief,354.45000000000005,232.24,122.21000000000004
+108,2023-08-19,Acetaminophen 500mg,2,102.69,Cash,West,Pain Relief,205.38,159.65,45.72999999999999
+109,2023-02-10,Allergy Relief,1,116.29,Insurance,East,Allergy,116.29,84.28,32.010000000000005
+110,2023-01-28,Sleep Aid Tablets,2,49.59,Cash,West,Sleep Aid,99.18,75.05,24.13000000000001
+111,2023-05-15,Nasal Spray,2,76.35,Cash,South,Cold & Flu,152.7,109.96,42.739999999999995
+112,2023-07-20,Ibuprofen 200mg,4,120.49,Cash,West,Pain Relief,481.96,363.92,118.03999999999996
+113,2023-11-24,Nasal Spray,4,38.72,Insurance,North,Cold & Flu,154.88,85.32,69.56
+114,2023-09-25,Nasal Spray,2,37.77,Cash,East,Cold & Flu,75.54,62.64,12.900000000000006
+115,2023-02-02,Pain Relief Gel,2,84.9,Insurance,East,Pain Relief,169.8,99.04,70.76
+116,2023-02-17,Nasal Spray,2,80.92,Insurance,West,Cold & Flu,161.84,108.74,53.10000000000001
+117,2023-03-03,Cough Syrup,5,45.93,Insurance,West,Cold & Flu,229.65,179.43,50.22
+118,2023-08-04,Pain Relief Gel,4,48.22,Insurance,South,Pain Relief,192.88,131.27,61.609999999999985
+119,2023-10-20,Sleep Aid Tablets,2,45.29,Insurance,South,Sleep Aid,90.58,75.55,15.030000000000001
+120,2023-04-09,Nasal Spray,3,116.87,Cash,North,Cold & Flu,350.61,242.02,108.59
+121,2023-06-21,Blood Pressure Med,3,99.53,Cash,North,Prescription,298.59000000000003,242.6,55.99000000000004
+122,2023-12-26,Vitamin D3 1000IU,5,125.7,Cash,North,Vitamins,628.5,498.56,129.94
+123,2023-08-02,Acetaminophen 500mg,5,146.44,Cash,West,Pain Relief,732.2,618.19,114.00999999999999
+124,2023-02-04,Pain Relief Gel,1,73.75,Cash,West,Pain Relief,73.75,61.06,12.689999999999998
+125,2023-08-15,Allergy Relief,1,14.67,Insurance,East,Allergy,14.67,12.02,2.6500000000000004
+126,2023-04-11,Baby Aspirin,1,11.97,Insurance,North,Pain Relief,11.97,9.21,2.76
+127,2023-05-11,Vitamin D3 1000IU,5,47.87,Cash,West,Vitamins,239.35,157.99,81.35999999999999
+128,2023-09-14,Allergy Relief,5,140.22,Cash,East,Allergy,701.1,407.93,293.17
+129,2023-01-05,Amoxicillin 500mg,5,80.87,Cash,North,Prescription,404.35,305.93,98.42000000000002
+130,2023-08-06,Allergy Relief,3,44.41,Insurance,South,Allergy,133.23,112.39,20.83999999999999
+131,2023-09-12,Acetaminophen 500mg,5,62.88,Insurance,South,Pain Relief,314.40000000000003,241.45,72.95000000000005
+132,2023-12-25,Acetaminophen 500mg,3,91.8,Insurance,West,Pain Relief,275.4,228.2,47.19999999999999
+133,2023-10-10,Pain Relief Gel,1,99.68,Cash,East,Pain Relief,99.68,78.88,20.80000000000001
+134,2023-07-26,Nasal Spray,1,27.32,Cash,South,Cold & Flu,27.32,16.36,10.96
+135,2023-01-15,Insulin Pen,1,146.67,Cash,East,Prescription,146.67,91.63,55.03999999999999
+136,2023-12-12,Amoxicillin 500mg,2,83.99,Cash,East,Prescription,167.98,109.62,58.359999999999985
+137,2023-02-11,Pain Relief Gel,2,24.67,Insurance,South,Pain Relief,49.34,29.63,19.710000000000004
+138,2023-06-28,Blood Pressure Med,4,134.58,Cash,East,Prescription,538.32,390.01,148.31000000000006
+139,2023-03-04,Ibuprofen 200mg,4,15.82,Cash,South,Pain Relief,63.28,53.32,9.96
+140,2023-12-18,Antacid Tablets,4,136.62,Cash,West,Digestive Health,546.48,425.4,121.08000000000004
+141,2023-08-19,Baby Aspirin,2,149.5,Insurance,North,Pain Relief,299.0,202.43,96.57
+142,2023-08-29,Allergy Relief,2,106.56,Insurance,North,Allergy,213.12,117.5,95.62
+143,2023-02-21,Insulin Pen,4,116.71,Cash,West,Prescription,466.84,300.64,166.2
+144,2023-04-06,Nasal Spray,4,53.91,Insurance,South,Cold & Flu,215.64,152.68,62.95999999999998
+145,2023-08-10,Cough Syrup,5,141.53,Insurance,South,Cold & Flu,707.65,458.04,249.60999999999996
+146,2023-08-19,Sleep Aid Tablets,4,81.81,Insurance,South,Sleep Aid,327.24,190.88,136.36
+147,2023-08-25,Ibuprofen 200mg,5,111.2,Insurance,South,Pain Relief,556.0,379.65,176.35000000000002
+148,2023-05-23,Cholesterol Med,3,139.0,Insurance,West,Prescription,417.0,261.03,155.97000000000003
+149,2023-06-20,Antihistamine,2,146.4,Cash,North,Allergy,292.8,240.91,51.890000000000015
+150,2023-01-29,Insulin Pen,4,125.81,Cash,East,Prescription,503.24,292.14,211.10000000000002
+151,2023-02-05,Sleep Aid Tablets,2,48.94,Cash,East,Sleep Aid,97.88,55.28,42.599999999999994
+152,2023-01-13,Cough Syrup,2,145.15,Insurance,North,Cold & Flu,290.3,160.13,130.17000000000002
+153,2023-06-09,Amoxicillin 500mg,2,96.08,Insurance,West,Prescription,192.16,124.6,67.56
+154,2023-11-23,Cholesterol Med,3,139.94,Insurance,East,Prescription,419.82,314.07,105.75
+155,2023-07-06,Pain Relief Gel,1,103.04,Insurance,North,Pain Relief,103.04,79.25,23.790000000000006
+156,2023-08-31,Nasal Spray,4,49.55,Cash,West,Cold & Flu,198.2,135.96,62.23999999999998
+157,2023-03-27,Ibuprofen 200mg,1,58.65,Cash,East,Pain Relief,58.65,44.3,14.350000000000001
+158,2023-10-11,Ibuprofen 200mg,1,84.82,Cash,South,Pain Relief,84.82,55.81,29.00999999999999
+159,2023-03-07,Ibuprofen 200mg,1,119.55,Cash,South,Pain Relief,119.55,89.7,29.849999999999994
+160,2023-06-19,Amoxicillin 500mg,2,51.11,Cash,West,Prescription,102.22,57.47,44.75
+161,2023-02-14,Cholesterol Med,5,89.06,Cash,South,Prescription,445.3,297.12,148.18
+162,2023-03-03,Allergy Relief,2,55.12,Insurance,West,Allergy,110.24,86.79,23.44999999999999
+163,2023-05-14,Antihistamine,2,123.29,Insurance,North,Allergy,246.58,195.02,51.56
+164,2023-10-11,Blood Pressure Med,1,72.68,Cash,North,Prescription,72.68,55.59,17.090000000000003
+165,2023-01-28,Amoxicillin 500mg,2,16.12,Insurance,East,Prescription,32.24,19.71,12.530000000000001
+166,2023-04-18,Antacid Tablets,1,29.08,Cash,West,Digestive Health,29.08,18.15,10.93
+167,2023-02-13,Baby Aspirin,5,13.86,Cash,East,Pain Relief,69.3,58.82,10.479999999999997
+168,2023-12-06,Baby Aspirin,4,77.4,Insurance,East,Pain Relief,309.6,179.88,129.72000000000003
+169,2023-10-13,Antihistamine,1,20.42,Cash,North,Allergy,20.42,12.34,8.080000000000002
+170,2023-11-27,Acetaminophen 500mg,5,21.55,Cash,East,Pain Relief,107.75,63.47,44.28
+171,2023-05-08,Baby Aspirin,4,141.45,Cash,South,Pain Relief,565.8,366.81,198.98999999999995
+172,2023-12-14,Nasal Spray,3,131.53,Insurance,East,Cold & Flu,394.59000000000003,241.9,152.69000000000003
+173,2023-08-19,Amoxicillin 500mg,1,70.55,Insurance,West,Prescription,70.55,49.34,21.209999999999994
+174,2023-07-09,Cough Syrup,1,147.94,Insurance,South,Cold & Flu,147.94,102.49,45.45
+175,2023-08-13,Antihistamine,3,5.03,Insurance,North,Allergy,15.09,12.38,2.709999999999999
+176,2023-10-10,Antacid Tablets,3,94.03,Cash,West,Digestive Health,282.09000000000003,158.09,124.00000000000003
+177,2023-05-01,Acetaminophen 500mg,1,94.38,Insurance,South,Pain Relief,94.38,60.97,33.41
+178,2023-04-26,Allergy Relief,3,71.33,Insurance,West,Allergy,213.99,156.0,57.99000000000001
+179,2023-08-21,Cholesterol Med,2,62.56,Insurance,South,Prescription,125.12,91.52,33.60000000000001
+180,2023-09-16,Cough Syrup,4,71.03,Cash,West,Cold & Flu,284.12,197.19,86.93
+181,2023-12-25,Pain Relief Gel,4,65.17,Insurance,West,Pain Relief,260.68,207.16,53.52000000000001
+182,2023-07-17,Antihistamine,4,110.92,Insurance,South,Allergy,443.68,252.37,191.31
+183,2023-05-17,Nasal Spray,2,24.63,Cash,North,Cold & Flu,49.26,39.14,10.119999999999997
+184,2023-11-14,Cholesterol Med,3,33.66,Cash,North,Prescription,100.97999999999999,70.53,30.44999999999999
+185,2023-06-14,Cough Syrup,5,31.18,Cash,West,Cold & Flu,155.9,92.0,63.900000000000006
+186,2023-08-13,Acetaminophen 500mg,3,43.06,Cash,West,Pain Relief,129.18,105.37,23.810000000000002
+187,2023-11-03,Cough Syrup,1,81.16,Insurance,North,Cold & Flu,81.16,60.45,20.709999999999994
+188,2023-08-22,Sleep Aid Tablets,4,21.13,Cash,North,Sleep Aid,84.52,50.63,33.88999999999999
+189,2023-06-21,Cholesterol Med,3,130.88,Insurance,East,Prescription,392.64,219.92,172.72
+190,2023-06-01,Vitamin D3 1000IU,5,48.12,Insurance,North,Vitamins,240.6,142.52,98.07999999999998
+191,2023-11-11,Sleep Aid Tablets,1,28.57,Insurance,West,Sleep Aid,28.57,20.93,7.640000000000001
+192,2023-06-09,Blood Pressure Med,2,102.97,Insurance,South,Prescription,205.94,124.34,81.6
+193,2023-04-06,Insulin Pen,2,10.52,Insurance,North,Prescription,21.04,13.0,8.04
+194,2023-08-21,Allergy Relief,5,94.9,Cash,East,Allergy,474.5,264.55,209.95
+195,2023-06-29,Baby Aspirin,1,106.24,Insurance,East,Pain Relief,106.24,81.47,24.769999999999996
+196,2023-04-23,Acetaminophen 500mg,4,36.16,Insurance,East,Pain Relief,144.64,114.72,29.919999999999987
+197,2023-11-14,Cholesterol Med,3,11.08,Insurance,South,Prescription,33.24,26.23,7.010000000000002
+198,2023-02-21,Blood Pressure Med,1,57.73,Cash,North,Prescription,57.73,33.96,23.769999999999996
+199,2023-09-25,Blood Pressure Med,2,19.3,Insurance,North,Prescription,38.6,31.69,6.91
+200,2023-10-22,Pain Relief Gel,5,21.89,Insurance,North,Pain Relief,109.45,82.27,27.180000000000007
+201,2023-04-23,Cough Syrup,5,41.87,Cash,South,Cold & Flu,209.35,171.51,37.84
+202,2023-04-11,Insulin Pen,3,47.84,Insurance,South,Prescription,143.52,98.19,45.33000000000001
+203,2023-04-23,Blood Pressure Med,5,81.85,Insurance,West,Prescription,409.25,278.73,130.51999999999998
+204,2023-03-22,Insulin Pen,5,103.37,Cash,East,Prescription,516.85,405.91,110.94
+205,2023-07-06,Sleep Aid Tablets,1,90.95,Insurance,East,Sleep Aid,90.95,52.57,38.38
+206,2023-04-23,Cough Syrup,4,26.51,Insurance,North,Cold & Flu,106.04,74.89,31.150000000000006
+207,2023-01-02,Cholesterol Med,3,29.95,Insurance,South,Prescription,89.85,71.96,17.89
+208,2023-05-10,Sleep Aid Tablets,1,132.42,Insurance,South,Sleep Aid,132.42,105.81,26.609999999999985
+209,2023-08-08,Nasal Spray,4,85.96,Insurance,North,Cold & Flu,343.84,287.74,56.099999999999966
+210,2023-02-23,Vitamin D3 1000IU,1,131.14,Cash,North,Vitamins,131.14,99.6,31.539999999999992
+211,2023-12-09,Blood Pressure Med,1,58.87,Cash,West,Prescription,58.87,36.05,22.82
+212,2023-08-12,Amoxicillin 500mg,5,94.09,Cash,East,Prescription,470.45000000000005,261.61,208.84000000000003
+213,2023-08-13,Sleep Aid Tablets,4,80.93,Insurance,East,Sleep Aid,323.72,224.6,99.12000000000003
+214,2023-05-06,Vitamin D3 1000IU,3,51.27,Insurance,East,Vitamins,153.81,108.3,45.510000000000005
+215,2023-05-10,Cough Syrup,3,73.14,Insurance,West,Cold & Flu,219.42000000000002,136.5,82.92000000000002
+216,2023-02-22,Pain Relief Gel,4,77.86,Cash,North,Pain Relief,311.44,182.94,128.5
+217,2023-06-21,Allergy Relief,5,34.11,Insurance,North,Allergy,170.55,123.8,46.750000000000014
+218,2023-08-06,Amoxicillin 500mg,2,50.68,Insurance,East,Prescription,101.36,78.99,22.370000000000005
+219,2023-06-09,Acetaminophen 500mg,1,119.75,Insurance,East,Pain Relief,119.75,101.54,18.209999999999994
+220,2023-07-17,Baby Aspirin,5,137.79,Cash,West,Pain Relief,688.9499999999999,535.65,153.29999999999995
+221,2023-09-04,Pain Relief Gel,4,57.17,Cash,South,Pain Relief,228.68,180.22,48.46000000000001
+222,2023-11-20,Vitamin D3 1000IU,1,49.51,Insurance,South,Vitamins,49.51,36.39,13.119999999999997
+223,2023-07-22,Cough Syrup,3,33.3,Insurance,East,Cold & Flu,99.89999999999999,84.49,15.409999999999997
+224,2023-07-03,Vitamin D3 1000IU,2,103.38,Insurance,West,Vitamins,206.76,153.41,53.349999999999994
+225,2023-05-03,Baby Aspirin,3,51.85,Cash,East,Pain Relief,155.55,125.7,29.85000000000001
+226,2023-09-12,Blood Pressure Med,4,148.22,Cash,South,Prescription,592.88,494.31,98.57
+227,2023-10-21,Pain Relief Gel,1,52.22,Cash,East,Pain Relief,52.22,43.29,8.93
+228,2023-10-07,Sleep Aid Tablets,4,62.15,Insurance,South,Sleep Aid,248.6,165.18,83.41999999999999
+229,2023-11-21,Cholesterol Med,1,92.48,Cash,South,Prescription,92.48,53.05,39.43000000000001
+230,2023-04-08,Amoxicillin 500mg,5,121.24,Insurance,South,Prescription,606.1999999999999,364.67,241.52999999999992
+231,2023-07-17,Antacid Tablets,2,73.08,Insurance,North,Digestive Health,146.16,82.98,63.17999999999999
+232,2023-08-28,Antihistamine,5,66.29,Cash,North,Allergy,331.45000000000005,192.78,138.67000000000004
+233,2023-05-24,Vitamin D3 1000IU,5,149.37,Insurance,East,Vitamins,746.85,452.14,294.71000000000004
+234,2023-04-07,Baby Aspirin,4,6.52,Cash,South,Pain Relief,26.08,17.01,9.069999999999997
+235,2023-07-20,Acetaminophen 500mg,2,134.78,Insurance,North,Pain Relief,269.56,192.21,77.35
+236,2023-05-04,Acetaminophen 500mg,1,26.63,Insurance,East,Pain Relief,26.63,20.33,6.300000000000001
+237,2023-07-06,Ibuprofen 200mg,1,118.96,Cash,East,Pain Relief,118.96,72.96,46.0
+238,2023-11-22,Pain Relief Gel,3,94.6,Insurance,East,Pain Relief,283.79999999999995,213.35,70.44999999999996
+239,2023-12-15,Vitamin D3 1000IU,1,54.57,Insurance,East,Vitamins,54.57,41.54,13.030000000000001
+240,2023-09-16,Antihistamine,4,131.71,Insurance,East,Allergy,526.84,378.05,148.79000000000002
+241,2023-05-28,Nasal Spray,5,6.87,Insurance,West,Cold & Flu,34.35,28.2,6.150000000000002
+242,2023-09-09,Baby Aspirin,5,37.87,Insurance,South,Pain Relief,189.35,110.45,78.89999999999999
+243,2023-12-12,Blood Pressure Med,5,87.2,Insurance,East,Prescription,436.0,262.97,173.02999999999997
+244,2023-05-27,Insulin Pen,2,55.97,Insurance,West,Prescription,111.94,75.96,35.980000000000004
+245,2023-05-28,Sleep Aid Tablets,1,93.5,Insurance,South,Sleep Aid,93.5,54.98,38.52
+246,2023-12-18,Cholesterol Med,4,8.5,Cash,North,Prescription,34.0,24.48,9.52
+247,2023-07-18,Antihistamine,2,21.89,Cash,East,Allergy,43.78,29.31,14.470000000000002
+248,2023-11-04,Insulin Pen,3,23.43,Insurance,West,Prescription,70.28999999999999,44.66,25.629999999999995
+249,2023-05-08,Pain Relief Gel,4,32.45,Insurance,North,Pain Relief,129.8,78.01,51.790000000000006
+250,2023-02-08,Sleep Aid Tablets,4,71.6,Cash,West,Sleep Aid,286.4,186.33,100.06999999999996
+251,2023-12-04,Insulin Pen,4,114.06,Insurance,South,Prescription,456.24,334.14,122.10000000000002
+252,2023-12-26,Sleep Aid Tablets,5,136.3,Cash,South,Sleep Aid,681.5,492.54,188.95999999999998
+253,2023-05-09,Antacid Tablets,4,126.13,Cash,North,Digestive Health,504.52,302.25,202.26999999999998
+254,2023-09-24,Ibuprofen 200mg,1,33.55,Cash,West,Pain Relief,33.55,19.71,13.839999999999996
+255,2023-05-31,Antihistamine,4,68.97,Insurance,East,Allergy,275.88,153.94,121.94
+256,2023-10-25,Pain Relief Gel,5,33.91,Insurance,East,Pain Relief,169.54999999999998,93.88,75.66999999999999
+257,2023-04-09,Antihistamine,4,43.35,Insurance,North,Allergy,173.4,141.14,32.26000000000002
+258,2023-09-20,Antacid Tablets,3,78.01,Cash,North,Digestive Health,234.03000000000003,131.88,102.15000000000003
+259,2023-09-09,Vitamin D3 1000IU,3,14.88,Cash,North,Vitamins,44.64,34.34,10.299999999999997
+260,2023-05-24,Vitamin D3 1000IU,5,36.64,Cash,West,Vitamins,183.2,148.68,34.51999999999998
+261,2023-12-12,Vitamin D3 1000IU,1,140.63,Insurance,East,Vitamins,140.63,81.48,59.14999999999999
+262,2023-04-22,Allergy Relief,1,72.59,Cash,East,Allergy,72.59,49.43,23.160000000000004
+263,2023-03-01,Insulin Pen,2,69.58,Cash,East,Prescription,139.16,116.71,22.450000000000003
+264,2023-01-02,Allergy Relief,5,7.11,Insurance,North,Allergy,35.550000000000004,28.45,7.100000000000005
+265,2023-10-31,Ibuprofen 200mg,4,40.87,Cash,East,Pain Relief,163.48,113.93,49.54999999999998
+266,2023-09-11,Cholesterol Med,5,130.61,Cash,South,Prescription,653.0500000000001,508.58,144.47000000000008
+267,2023-05-20,Antacid Tablets,2,28.87,Insurance,North,Digestive Health,57.74,46.19,11.550000000000004
+268,2023-02-06,Pain Relief Gel,5,65.19,Insurance,East,Pain Relief,325.95,213.3,112.64999999999998
+269,2023-06-09,Antihistamine,5,7.08,Cash,West,Allergy,35.4,28.94,6.459999999999997
+270,2023-01-09,Sleep Aid Tablets,2,74.36,Insurance,North,Sleep Aid,148.72,102.79,45.92999999999999
+271,2023-08-21,Blood Pressure Med,1,8.05,Cash,South,Prescription,8.05,5.7,2.3500000000000005
+272,2023-04-09,Pain Relief Gel,4,123.84,Insurance,South,Pain Relief,495.36,421.01,74.35000000000002
+273,2023-05-27,Insulin Pen,2,124.6,Cash,West,Prescription,249.2,200.11,49.089999999999975
+274,2023-10-31,Allergy Relief,3,119.22,Insurance,West,Allergy,357.65999999999997,235.53,122.12999999999997
+275,2023-07-27,Allergy Relief,1,46.09,Cash,North,Allergy,46.09,25.49,20.600000000000005
+276,2023-05-11,Cough Syrup,3,126.4,Insurance,North,Cold & Flu,379.20000000000005,279.79,99.41000000000003
+277,2023-06-01,Allergy Relief,1,83.73,Insurance,South,Allergy,83.73,63.73,20.000000000000007
+278,2023-02-23,Cholesterol Med,4,59.2,Insurance,West,Prescription,236.8,176.47,60.33000000000001
+279,2023-04-30,Nasal Spray,4,95.67,Insurance,North,Cold & Flu,382.68,321.59,61.09000000000003
+280,2023-06-10,Antihistamine,5,6.79,Insurance,South,Allergy,33.95,27.46,6.490000000000002
+281,2023-04-26,Nasal Spray,3,25.73,Insurance,West,Cold & Flu,77.19,52.85,24.339999999999996
+282,2023-03-16,Sleep Aid Tablets,1,112.63,Insurance,South,Sleep Aid,112.63,64.07,48.56
+283,2023-04-23,Antihistamine,4,40.4,Cash,East,Allergy,161.6,111.96,49.64
+284,2023-04-14,Antacid Tablets,2,91.71,Cash,West,Digestive Health,183.42,138.81,44.609999999999985
+285,2023-12-06,Antihistamine,4,60.84,Insurance,North,Allergy,243.36,178.22,65.14000000000001
+286,2023-09-11,Nasal Spray,2,128.95,Insurance,North,Cold & Flu,257.9,183.48,74.41999999999999
+287,2023-08-15,Pain Relief Gel,1,143.1,Cash,East,Pain Relief,143.1,98.83,44.269999999999996
+288,2023-04-22,Antihistamine,4,133.12,Cash,West,Allergy,532.48,339.79,192.69
+289,2023-04-09,Antacid Tablets,4,44.24,Insurance,South,Digestive Health,176.96,112.05,64.91000000000001
+290,2023-06-02,Antacid Tablets,1,33.15,Cash,North,Digestive Health,33.15,23.21,9.939999999999998
+291,2023-12-15,Ibuprofen 200mg,4,73.79,Cash,East,Pain Relief,295.16,176.56,118.60000000000002
+292,2023-12-04,Antihistamine,2,6.06,Insurance,East,Allergy,12.12,7.9,4.219999999999999
+293,2023-07-13,Blood Pressure Med,4,8.74,Insurance,West,Prescription,34.96,22.63,12.330000000000002
+294,2023-11-06,Cough Syrup,3,85.23,Insurance,West,Cold & Flu,255.69,185.67,70.02000000000001
+295,2023-06-12,Vitamin D3 1000IU,5,80.47,Cash,North,Vitamins,402.35,229.34,173.01000000000002
+296,2023-07-27,Acetaminophen 500mg,2,149.21,Insurance,East,Pain Relief,298.42,238.41,60.01000000000002
+297,2023-06-18,Antacid Tablets,3,34.27,Insurance,South,Digestive Health,102.81,73.89,28.92
+298,2023-06-10,Amoxicillin 500mg,1,42.43,Cash,East,Prescription,42.43,31.88,10.55
+299,2023-03-09,Vitamin D3 1000IU,2,21.46,Insurance,South,Vitamins,42.92,32.66,10.260000000000005
+300,2023-10-16,Cholesterol Med,5,138.04,Cash,South,Prescription,690.1999999999999,439.96,250.23999999999995
+301,2023-10-04,Insulin Pen,5,117.78,Cash,North,Prescription,588.9,407.0,181.89999999999998
+302,2023-10-31,Antihistamine,1,124.24,Cash,East,Allergy,124.24,103.97,20.269999999999996
+303,2023-05-15,Nasal Spray,1,135.9,Cash,South,Cold & Flu,135.9,106.0,29.900000000000006
+304,2023-07-14,Acetaminophen 500mg,2,81.11,Cash,West,Pain Relief,162.22,136.41,25.810000000000002
+305,2023-05-08,Amoxicillin 500mg,4,70.42,Cash,South,Prescription,281.68,217.99,63.69
+306,2023-02-02,Vitamin D3 1000IU,1,52.91,Insurance,West,Vitamins,52.91,31.89,21.019999999999996
+307,2023-06-25,Antihistamine,4,90.44,Insurance,West,Allergy,361.76,205.97,155.79
+308,2023-01-22,Ibuprofen 200mg,3,70.87,Insurance,East,Pain Relief,212.61,153.78,58.83000000000001
+309,2023-08-26,Insulin Pen,5,70.48,Cash,West,Prescription,352.40000000000003,231.65,120.75000000000003
+310,2023-06-07,Acetaminophen 500mg,4,140.85,Insurance,South,Pain Relief,563.4,356.43,206.96999999999997
+311,2023-02-07,Cough Syrup,5,147.68,Cash,West,Cold & Flu,738.4000000000001,584.93,153.47000000000014
+312,2023-08-18,Sleep Aid Tablets,4,120.49,Insurance,East,Sleep Aid,481.96,318.14,163.82
+313,2023-12-31,Ibuprofen 200mg,3,114.73,Cash,North,Pain Relief,344.19,222.04,122.15
+314,2023-02-20,Amoxicillin 500mg,1,103.68,Insurance,South,Prescription,103.68,83.46,20.220000000000013
+315,2023-09-21,Cholesterol Med,3,29.08,Cash,South,Prescription,87.24,70.13,17.11
+316,2023-10-10,Acetaminophen 500mg,1,13.57,Insurance,East,Pain Relief,13.57,8.91,4.66
+317,2023-01-27,Ibuprofen 200mg,1,105.16,Cash,East,Pain Relief,105.16,84.1,21.060000000000002
+318,2023-08-14,Insulin Pen,5,110.67,Insurance,East,Prescription,553.35,445.58,107.77000000000004
+319,2023-10-04,Cough Syrup,3,11.81,Cash,East,Cold & Flu,35.43,23.99,11.440000000000001
+320,2023-10-13,Ibuprofen 200mg,4,139.57,Insurance,South,Pain Relief,558.28,318.19,240.08999999999997
+321,2023-04-07,Allergy Relief,3,18.22,Insurance,North,Allergy,54.66,30.09,24.569999999999997
+322,2023-10-11,Cough Syrup,5,46.46,Insurance,West,Cold & Flu,232.3,164.23,68.07000000000002
+323,2023-11-13,Sleep Aid Tablets,1,102.5,Cash,West,Sleep Aid,102.5,66.96,35.540000000000006
+324,2023-10-31,Amoxicillin 500mg,5,29.63,Cash,North,Prescription,148.15,125.8,22.35000000000001
+325,2023-05-27,Cholesterol Med,2,13.04,Cash,North,Prescription,26.08,20.39,5.689999999999998
+326,2023-01-04,Insulin Pen,2,53.02,Cash,North,Prescription,106.04,82.54,23.5
+327,2023-02-04,Blood Pressure Med,4,116.07,Cash,East,Prescription,464.28,388.4,75.88
+328,2023-07-11,Antihistamine,5,64.98,Insurance,South,Allergy,324.90000000000003,265.22,59.68000000000001
+329,2023-02-18,Nasal Spray,4,99.68,Cash,South,Cold & Flu,398.72,257.36,141.36
+330,2023-01-17,Baby Aspirin,4,89.04,Insurance,South,Pain Relief,356.16,213.62,142.54000000000002
+331,2023-06-21,Pain Relief Gel,2,8.22,Insurance,East,Pain Relief,16.44,12.72,3.7200000000000006
+332,2023-08-08,Pain Relief Gel,4,148.34,Cash,South,Pain Relief,593.36,393.68,199.68
+333,2023-06-07,Nasal Spray,2,11.01,Insurance,East,Cold & Flu,22.02,15.24,6.779999999999999
+334,2023-02-15,Baby Aspirin,1,145.33,Cash,South,Pain Relief,145.33,107.42,37.91000000000001
+335,2023-01-06,Nasal Spray,5,84.73,Cash,North,Cold & Flu,423.65000000000003,348.39,75.26000000000005
+336,2023-04-09,Acetaminophen 500mg,4,144.66,Cash,West,Pain Relief,578.64,391.0,187.64
+337,2023-08-21,Amoxicillin 500mg,2,21.64,Insurance,West,Prescription,43.28,33.97,9.310000000000002
+338,2023-02-06,Insulin Pen,3,76.11,Cash,East,Prescription,228.32999999999998,143.96,84.36999999999998
+339,2023-10-07,Cough Syrup,4,29.58,Cash,South,Cold & Flu,118.32,89.85,28.47
+340,2023-12-15,Acetaminophen 500mg,1,12.39,Cash,West,Pain Relief,12.39,6.82,5.57
+341,2023-10-29,Amoxicillin 500mg,1,94.54,Insurance,North,Prescription,94.54,76.71,17.830000000000013
+342,2023-06-30,Antihistamine,3,35.13,Cash,North,Allergy,105.39000000000001,58.93,46.460000000000015
+343,2023-04-05,Allergy Relief,2,90.22,Insurance,North,Allergy,180.44,137.82,42.620000000000005
+344,2023-04-09,Pain Relief Gel,4,21.29,Insurance,East,Pain Relief,85.16,48.02,37.13999999999999
+345,2023-07-07,Insulin Pen,2,53.14,Cash,East,Prescription,106.28,66.94,39.34
+346,2023-04-26,Nasal Spray,1,118.34,Insurance,South,Cold & Flu,118.34,82.74,35.60000000000001
+347,2023-07-10,Ibuprofen 200mg,2,68.37,Insurance,North,Pain Relief,136.74,92.43,44.31
+348,2023-09-10,Blood Pressure Med,1,96.02,Cash,South,Prescription,96.02,58.34,37.67999999999999
+349,2023-06-10,Insulin Pen,2,98.88,Cash,South,Prescription,197.76,128.57,69.19
+350,2023-09-13,Antacid Tablets,3,127.34,Cash,North,Digestive Health,382.02,293.51,88.50999999999999
+351,2023-11-19,Cholesterol Med,5,52.11,Insurance,South,Prescription,260.55,195.61,64.94
+352,2023-05-08,Baby Aspirin,3,104.66,Cash,West,Pain Relief,313.98,179.45,134.53000000000003
+353,2023-01-18,Amoxicillin 500mg,3,144.43,Insurance,East,Prescription,433.29,335.45,97.84000000000003
+354,2023-10-08,Vitamin D3 1000IU,5,110.89,Insurance,South,Vitamins,554.45,313.77,240.68000000000006
+355,2023-08-11,Antihistamine,5,76.03,Insurance,North,Allergy,380.15,271.0,109.14999999999998
+356,2023-02-23,Allergy Relief,4,96.45,Insurance,East,Allergy,385.8,242.29,143.51000000000002
+357,2023-02-27,Antihistamine,4,112.25,Insurance,East,Allergy,449.0,326.11,122.88999999999999
+358,2023-11-19,Insulin Pen,3,93.78,Cash,South,Prescription,281.34000000000003,176.79,104.55000000000004
+359,2023-12-26,Pain Relief Gel,3,7.42,Cash,West,Pain Relief,22.259999999999998,18.82,3.4399999999999977
+360,2023-06-23,Baby Aspirin,1,33.24,Insurance,South,Pain Relief,33.24,21.37,11.870000000000001
+361,2023-10-07,Vitamin D3 1000IU,1,122.52,Insurance,West,Vitamins,122.52,76.28,46.239999999999995
+362,2023-04-24,Antacid Tablets,4,44.53,Cash,East,Digestive Health,178.12,112.85,65.27000000000001
+363,2023-10-15,Cough Syrup,4,111.08,Cash,South,Cold & Flu,444.32,363.87,80.44999999999999
+364,2023-12-08,Ibuprofen 200mg,1,58.96,Insurance,North,Pain Relief,58.96,43.68,15.280000000000001
+365,2023-05-31,Vitamin D3 1000IU,1,80.67,Insurance,South,Vitamins,80.67,62.05,18.620000000000005
+366,2023-05-07,Amoxicillin 500mg,2,14.86,Cash,West,Prescription,29.72,24.53,5.189999999999998
+367,2023-06-04,Nasal Spray,2,31.28,Cash,West,Cold & Flu,62.56,51.52,11.04
+368,2023-09-30,Antacid Tablets,1,143.79,Insurance,South,Digestive Health,143.79,110.96,32.83
+369,2023-04-14,Ibuprofen 200mg,2,134.07,Cash,West,Pain Relief,268.14,163.39,104.75
+370,2023-10-26,Blood Pressure Med,5,99.58,Cash,East,Prescription,497.9,399.82,98.07999999999998
+371,2023-09-03,Allergy Relief,4,71.65,Insurance,South,Allergy,286.6,175.15,111.45000000000002
+372,2023-06-25,Nasal Spray,4,102.99,Insurance,West,Cold & Flu,411.96,318.39,93.57
+373,2023-02-08,Insulin Pen,1,94.7,Insurance,South,Prescription,94.7,71.56,23.14
+374,2023-06-19,Vitamin D3 1000IU,3,87.44,Cash,South,Vitamins,262.32,204.0,58.31999999999999
+375,2023-09-04,Pain Relief Gel,1,13.58,Insurance,North,Pain Relief,13.58,9.64,3.9399999999999995
+376,2023-01-26,Ibuprofen 200mg,2,96.76,Cash,South,Pain Relief,193.52,143.52,50.0
+377,2023-12-21,Cholesterol Med,3,116.49,Insurance,North,Prescription,349.46999999999997,292.16,57.309999999999945
+378,2023-11-02,Acetaminophen 500mg,2,149.14,Insurance,West,Pain Relief,298.28,173.1,125.17999999999998
+379,2023-01-13,Cholesterol Med,5,6.61,Cash,North,Prescription,33.050000000000004,21.24,11.810000000000006
+380,2023-11-12,Cough Syrup,2,110.88,Cash,North,Cold & Flu,221.76,162.64,59.120000000000005
+381,2023-11-09,Cholesterol Med,5,87.91,Insurance,North,Prescription,439.54999999999995,368.88,70.66999999999996
+382,2023-02-05,Blood Pressure Med,5,67.94,Insurance,East,Prescription,339.7,196.57,143.13
+383,2023-06-22,Cough Syrup,2,23.5,Cash,North,Cold & Flu,47.0,26.17,20.83
+384,2023-01-20,Antacid Tablets,2,64.32,Insurance,South,Digestive Health,128.64,72.9,55.73999999999998
+385,2023-11-17,Allergy Relief,5,56.38,Cash,North,Allergy,281.90000000000003,159.48,122.42000000000004
+386,2023-09-21,Antacid Tablets,3,48.91,Cash,South,Digestive Health,146.73,120.66,26.069999999999993
+387,2023-05-22,Acetaminophen 500mg,5,110.98,Insurance,North,Pain Relief,554.9,425.26,129.64
+388,2023-05-23,Amoxicillin 500mg,4,106.61,Cash,East,Prescription,426.44,321.17,105.26999999999998
+389,2023-04-02,Allergy Relief,5,90.41,Cash,West,Allergy,452.04999999999995,319.5,132.54999999999995
+390,2023-12-20,Cholesterol Med,3,141.11,Cash,North,Prescription,423.33000000000004,332.14,91.19000000000005
+391,2023-11-18,Pain Relief Gel,4,55.73,Insurance,North,Pain Relief,222.92,133.02,89.89999999999998
+392,2023-10-15,Antihistamine,1,40.35,Cash,East,Allergy,40.35,26.94,13.41
+393,2023-08-03,Amoxicillin 500mg,1,100.11,Insurance,North,Prescription,100.11,69.78,30.33
+394,2023-12-08,Allergy Relief,3,33.83,Insurance,South,Allergy,101.49,59.18,42.309999999999995
+395,2023-02-20,Allergy Relief,5,50.68,Insurance,North,Allergy,253.4,171.26,82.14000000000001
+396,2023-06-02,Acetaminophen 500mg,2,37.57,Cash,North,Pain Relief,75.14,48.46,26.68
+397,2023-07-05,Insulin Pen,3,15.03,Cash,West,Prescription,45.089999999999996,25.28,19.809999999999995
+398,2023-03-04,Cholesterol Med,4,124.99,Insurance,West,Prescription,499.96,295.49,204.46999999999997
+399,2023-07-09,Acetaminophen 500mg,4,41.91,Insurance,North,Pain Relief,167.64,130.63,37.00999999999999
+400,2023-05-05,Allergy Relief,1,73.59,Cash,East,Allergy,73.59,40.87,32.720000000000006
+401,2023-05-30,Ibuprofen 200mg,4,11.28,Insurance,West,Pain Relief,45.12,37.46,7.659999999999997
+402,2023-11-10,Amoxicillin 500mg,3,106.4,Insurance,North,Prescription,319.20000000000005,183.84,135.36000000000004
+403,2023-02-27,Acetaminophen 500mg,4,52.93,Cash,West,Pain Relief,211.72,167.21,44.50999999999999
+404,2023-12-08,Insulin Pen,3,112.99,Insurance,North,Prescription,338.96999999999997,277.81,61.15999999999997
+405,2023-11-01,Baby Aspirin,2,64.8,Cash,West,Pain Relief,129.6,107.87,21.72999999999999
+406,2023-06-29,Vitamin D3 1000IU,1,33.38,Cash,West,Vitamins,33.38,27.05,6.330000000000002
+407,2023-06-19,Antacid Tablets,4,79.41,Insurance,South,Digestive Health,317.64,202.1,115.53999999999999
+408,2023-11-22,Allergy Relief,3,23.92,Cash,North,Allergy,71.76,46.64,25.120000000000005
+409,2023-09-28,Cholesterol Med,5,68.88,Cash,North,Prescription,344.4,233.49,110.90999999999997
+410,2023-02-23,Antihistamine,1,51.01,Cash,North,Allergy,51.01,30.19,20.819999999999997
+411,2023-04-11,Vitamin D3 1000IU,2,137.23,Insurance,North,Vitamins,274.46,152.79,121.66999999999999
+412,2023-09-21,Cough Syrup,3,13.83,Insurance,West,Cold & Flu,41.49,33.64,7.850000000000001
+413,2023-02-22,Pain Relief Gel,2,105.63,Insurance,South,Pain Relief,211.26,151.31,59.94999999999999
+414,2023-03-01,Pain Relief Gel,2,31.5,Cash,South,Pain Relief,63.0,46.15,16.85
+415,2023-04-18,Sleep Aid Tablets,4,51.26,Cash,East,Sleep Aid,205.04,169.79,35.25
+416,2023-01-05,Sleep Aid Tablets,4,65.25,Insurance,North,Sleep Aid,261.0,195.63,65.37
+417,2023-04-13,Nasal Spray,3,136.66,Insurance,East,Cold & Flu,409.98,310.46,99.52000000000004
+418,2023-07-15,Insulin Pen,5,40.17,Cash,West,Prescription,200.85000000000002,157.89,42.960000000000036
+419,2023-09-19,Antihistamine,3,18.24,Insurance,East,Allergy,54.72,32.01,22.71
+420,2023-12-31,Baby Aspirin,5,51.21,Insurance,North,Pain Relief,256.05,168.49,87.56
+421,2023-12-16,Baby Aspirin,2,20.18,Insurance,South,Pain Relief,40.36,33.92,6.439999999999998
+422,2023-02-16,Nasal Spray,1,23.65,Insurance,South,Cold & Flu,23.65,19.56,4.09
+423,2023-12-21,Insulin Pen,3,88.21,Insurance,North,Prescription,264.63,215.73,48.900000000000006
+424,2023-11-07,Cholesterol Med,3,13.83,Cash,West,Prescription,41.49,28.45,13.040000000000003
+425,2023-11-04,Ibuprofen 200mg,5,9.48,Insurance,North,Pain Relief,47.400000000000006,38.26,9.140000000000008
+426,2023-05-24,Cholesterol Med,2,108.59,Insurance,West,Prescription,217.18,122.6,94.58000000000001
+427,2023-09-26,Antacid Tablets,2,57.44,Cash,South,Digestive Health,114.88,68.3,46.58
+428,2023-05-04,Vitamin D3 1000IU,5,23.18,Cash,West,Vitamins,115.9,78.14,37.760000000000005
+429,2023-04-16,Amoxicillin 500mg,2,41.77,Cash,North,Prescription,83.54,58.06,25.480000000000004
+430,2023-06-07,Baby Aspirin,4,98.1,Cash,North,Pain Relief,392.4,246.84,145.55999999999997
+431,2023-05-27,Pain Relief Gel,1,44.95,Insurance,North,Pain Relief,44.95,29.53,15.420000000000002
+432,2023-05-25,Insulin Pen,3,76.71,Insurance,West,Prescription,230.13,137.81,92.32
+433,2023-04-30,Cholesterol Med,1,22.65,Insurance,West,Prescription,22.65,15.78,6.869999999999999
+434,2023-11-15,Amoxicillin 500mg,3,90.27,Insurance,West,Prescription,270.81,213.44,57.370000000000005
+435,2023-10-02,Antacid Tablets,4,50.83,Cash,South,Digestive Health,203.32,152.17,51.150000000000006
+436,2023-04-02,Allergy Relief,2,95.91,Cash,East,Allergy,191.82,111.7,80.11999999999999
+437,2023-02-27,Cough Syrup,5,122.22,Insurance,East,Cold & Flu,611.1,425.49,185.61
+438,2023-12-12,Vitamin D3 1000IU,4,93.69,Insurance,North,Vitamins,374.76,284.55,90.20999999999998
+439,2023-08-17,Antacid Tablets,1,47.88,Insurance,South,Digestive Health,47.88,33.95,13.93
+440,2023-04-27,Antacid Tablets,5,42.08,Insurance,West,Digestive Health,210.39999999999998,140.44,69.95999999999998
+441,2023-11-14,Cholesterol Med,2,52.48,Cash,North,Prescription,104.96,77.31,27.64999999999999
+442,2023-10-06,Ibuprofen 200mg,4,28.87,Insurance,South,Pain Relief,115.48,97.07,18.41000000000001
+443,2023-05-07,Nasal Spray,5,31.27,Cash,North,Cold & Flu,156.35,90.44,65.91
+444,2023-05-09,Baby Aspirin,4,119.65,Cash,South,Pain Relief,478.6,319.23,159.37
+445,2023-02-27,Cough Syrup,4,60.79,Cash,South,Cold & Flu,243.16,163.4,79.75999999999999
+446,2023-05-02,Vitamin D3 1000IU,2,68.22,Cash,East,Vitamins,136.44,98.66,37.78
+447,2023-01-01,Allergy Relief,3,91.14,Insurance,North,Allergy,273.42,162.86,110.56
+448,2023-08-27,Allergy Relief,5,90.5,Insurance,West,Allergy,452.5,272.85,179.64999999999998
+449,2023-10-17,Acetaminophen 500mg,2,14.77,Insurance,East,Pain Relief,29.54,18.78,10.759999999999998
+450,2023-04-06,Antacid Tablets,4,125.57,Insurance,East,Digestive Health,502.28,420.29,81.98999999999995
+451,2023-05-06,Insulin Pen,2,30.71,Cash,West,Prescription,61.42,47.31,14.11
+452,2023-04-28,Ibuprofen 200mg,3,109.85,Cash,South,Pain Relief,329.54999999999995,246.67,82.87999999999997
+453,2023-02-17,Cough Syrup,5,117.04,Cash,West,Cold & Flu,585.2,465.29,119.91000000000003
+454,2023-03-30,Cholesterol Med,3,108.66,Insurance,North,Prescription,325.98,191.77,134.21
+455,2023-08-25,Allergy Relief,1,88.95,Cash,West,Allergy,88.95,71.85,17.10000000000001
+456,2023-09-29,Vitamin D3 1000IU,5,7.12,Cash,South,Vitamins,35.6,25.93,9.670000000000002
+457,2023-07-08,Acetaminophen 500mg,3,57.25,Cash,West,Pain Relief,171.75,111.74,60.010000000000005
+458,2023-07-11,Pain Relief Gel,4,92.7,Cash,South,Pain Relief,370.8,294.7,76.10000000000002
+459,2023-03-10,Baby Aspirin,5,61.18,Insurance,South,Pain Relief,305.9,241.9,63.99999999999997
+460,2023-10-05,Vitamin D3 1000IU,5,130.2,Cash,North,Vitamins,651.0,523.22,127.77999999999997
+461,2023-12-15,Ibuprofen 200mg,2,49.78,Cash,West,Pain Relief,99.56,58.21,41.35
+462,2023-09-04,Insulin Pen,4,47.56,Insurance,West,Prescription,190.24,159.96,30.28
+463,2023-03-17,Acetaminophen 500mg,1,43.57,Insurance,North,Pain Relief,43.57,36.51,7.060000000000002
+464,2023-06-03,Pain Relief Gel,3,53.25,Insurance,South,Pain Relief,159.75,104.99,54.760000000000005
+465,2023-05-24,Acetaminophen 500mg,2,85.82,Cash,West,Pain Relief,171.64,97.8,73.83999999999999
+466,2023-03-27,Nasal Spray,3,107.52,Cash,North,Cold & Flu,322.56,193.57,128.99
+467,2023-07-04,Cough Syrup,1,101.07,Cash,South,Cold & Flu,101.07,85.69,15.379999999999995
+468,2023-10-12,Acetaminophen 500mg,1,122.12,Cash,North,Pain Relief,122.12,87.79,34.33
+469,2023-08-08,Blood Pressure Med,5,133.46,Insurance,West,Prescription,667.3000000000001,438.41,228.89000000000004
+470,2023-03-10,Nasal Spray,1,123.33,Cash,North,Cold & Flu,123.33,78.49,44.84
+471,2023-02-16,Nasal Spray,3,7.75,Cash,East,Cold & Flu,23.25,14.58,8.67
+472,2023-04-04,Ibuprofen 200mg,4,111.71,Insurance,South,Pain Relief,446.84,334.79,112.04999999999995
+473,2023-08-26,Blood Pressure Med,4,35.22,Insurance,East,Prescription,140.88,95.21,45.67
+474,2023-07-23,Amoxicillin 500mg,5,24.27,Insurance,East,Prescription,121.35,101.89,19.459999999999994
+475,2023-08-06,Vitamin D3 1000IU,3,97.58,Cash,South,Vitamins,292.74,221.06,71.68
+476,2023-12-07,Baby Aspirin,3,51.36,Cash,South,Pain Relief,154.07999999999998,121.36,32.719999999999985
+477,2023-02-08,Insulin Pen,1,13.28,Cash,North,Prescription,13.28,8.47,4.809999999999999
+478,2023-04-10,Antihistamine,3,24.96,Cash,South,Allergy,74.88,42.96,31.919999999999995
+479,2023-10-16,Vitamin D3 1000IU,2,5.13,Cash,East,Vitamins,10.26,7.14,3.12
+480,2023-09-11,Acetaminophen 500mg,1,135.97,Insurance,East,Pain Relief,135.97,87.62,48.349999999999994
+481,2023-08-10,Insulin Pen,2,8.57,Insurance,West,Prescription,17.14,10.47,6.67
+482,2023-12-23,Allergy Relief,5,35.37,Cash,South,Allergy,176.85,147.81,29.039999999999992
+483,2023-01-23,Amoxicillin 500mg,4,65.36,Cash,East,Prescription,261.44,178.61,82.82999999999998
+484,2023-09-07,Allergy Relief,5,56.7,Cash,West,Allergy,283.5,170.78,112.72
+485,2023-01-10,Blood Pressure Med,4,137.2,Cash,West,Prescription,548.8,334.55,214.24999999999994
+486,2023-09-03,Sleep Aid Tablets,5,10.84,Cash,North,Sleep Aid,54.2,34.37,19.830000000000005
+487,2023-11-21,Allergy Relief,3,79.27,Insurance,East,Allergy,237.81,202.09,35.72
+488,2023-04-10,Cholesterol Med,2,103.67,Insurance,North,Prescription,207.34,130.71,76.63
+489,2023-10-17,Cough Syrup,4,140.1,Insurance,East,Cold & Flu,560.4,363.5,196.89999999999998
+490,2023-06-29,Vitamin D3 1000IU,1,94.95,Cash,North,Vitamins,94.95,71.0,23.950000000000003
+491,2023-08-11,Antihistamine,2,121.54,Cash,North,Allergy,243.08,155.13,87.95000000000002
+492,2023-09-07,Cholesterol Med,1,17.14,Insurance,South,Prescription,17.14,10.54,6.600000000000001
+493,2023-05-27,Sleep Aid Tablets,2,60.96,Insurance,North,Sleep Aid,121.92,72.86,49.06
+494,2023-04-06,Ibuprofen 200mg,2,59.22,Cash,South,Pain Relief,118.44,76.25,42.19
+495,2023-09-14,Antihistamine,5,133.51,Insurance,West,Allergy,667.55,388.36,279.18999999999994
+496,2023-11-21,Allergy Relief,4,26.95,Insurance,East,Allergy,107.8,59.89,47.91
+497,2023-01-04,Acetaminophen 500mg,4,27.02,Cash,West,Pain Relief,108.08,85.53,22.549999999999997
+498,2023-01-16,Pain Relief Gel,2,52.64,Insurance,East,Pain Relief,105.28,62.26,43.02
+499,2023-10-07,Amoxicillin 500mg,3,12.9,Insurance,West,Prescription,38.7,30.29,8.410000000000004
+500,2023-12-02,Baby Aspirin,3,31.46,Insurance,East,Pain Relief,94.38,74.49,19.89
+501,2023-09-04,Antacid Tablets,1,144.96,Cash,North,Digestive Health,144.96,103.12,41.84
+502,2023-09-15,Antihistamine,1,67.09,Insurance,East,Allergy,67.09,43.13,23.96
+503,2023-06-09,Baby Aspirin,5,96.64,Insurance,East,Pain Relief,483.2,286.78,196.42000000000002
+504,2023-12-06,Baby Aspirin,2,110.29,Insurance,West,Pain Relief,220.58,170.08,50.5
+505,2023-06-01,Allergy Relief,1,58.21,Cash,West,Allergy,58.21,42.52,15.689999999999998
+506,2023-06-27,Amoxicillin 500mg,1,26.35,Cash,West,Prescription,26.35,19.67,6.68
+507,2023-06-12,Insulin Pen,2,34.95,Insurance,South,Prescription,69.9,38.63,31.270000000000003
+508,2023-02-02,Vitamin D3 1000IU,5,50.42,Cash,South,Vitamins,252.10000000000002,208.8,43.30000000000001
+509,2023-06-28,Baby Aspirin,1,97.23,Insurance,East,Pain Relief,97.23,55.41,41.82000000000001
+510,2023-04-11,Nasal Spray,5,62.75,Cash,East,Cold & Flu,313.75,207.09,106.66
+511,2023-09-25,Sleep Aid Tablets,4,5.99,Cash,North,Sleep Aid,23.96,16.07,7.890000000000001
+512,2023-11-19,Cough Syrup,5,80.89,Insurance,North,Cold & Flu,404.45,222.61,181.83999999999997
+513,2023-03-06,Amoxicillin 500mg,3,138.62,Insurance,East,Prescription,415.86,290.74,125.12
+514,2023-06-17,Acetaminophen 500mg,3,122.75,Insurance,South,Pain Relief,368.25,285.7,82.55000000000001
+515,2023-11-26,Blood Pressure Med,5,124.66,Cash,East,Prescription,623.3,496.76,126.53999999999996
+516,2023-02-12,Acetaminophen 500mg,3,120.28,Insurance,North,Pain Relief,360.84000000000003,293.66,67.18
+517,2023-02-13,Amoxicillin 500mg,4,51.94,Cash,South,Prescription,207.76,144.67,63.09
+518,2023-10-12,Acetaminophen 500mg,2,115.95,Cash,South,Pain Relief,231.9,171.42,60.48000000000002
+519,2023-01-12,Baby Aspirin,3,25.76,Insurance,North,Pain Relief,77.28,44.35,32.93
+520,2023-04-05,Vitamin D3 1000IU,3,100.37,Cash,East,Vitamins,301.11,209.7,91.41000000000003
+521,2023-10-29,Acetaminophen 500mg,5,98.03,Insurance,West,Pain Relief,490.15,292.35,197.79999999999995
+522,2023-09-10,Antihistamine,4,8.71,Cash,East,Allergy,34.84,23.03,11.810000000000002
+523,2023-08-30,Nasal Spray,2,119.26,Insurance,East,Cold & Flu,238.52,154.75,83.77000000000001
+524,2023-02-04,Acetaminophen 500mg,5,135.97,Cash,North,Pain Relief,679.85,460.3,219.55
+525,2023-08-03,Nasal Spray,5,43.78,Cash,South,Cold & Flu,218.9,157.93,60.97
+526,2023-12-03,Pain Relief Gel,4,122.8,Insurance,North,Pain Relief,491.2,403.21,87.99000000000001
+527,2023-03-31,Allergy Relief,2,16.95,Cash,East,Allergy,33.9,22.66,11.239999999999998
+528,2023-09-21,Ibuprofen 200mg,4,92.0,Insurance,West,Pain Relief,368.0,310.72,57.27999999999997
+529,2023-04-03,Vitamin D3 1000IU,2,75.42,Cash,West,Vitamins,150.84,117.31,33.53
+530,2023-03-31,Sleep Aid Tablets,4,84.16,Cash,West,Sleep Aid,336.64,236.81,99.82999999999998
+531,2023-04-25,Baby Aspirin,5,139.3,Cash,North,Pain Relief,696.5,517.64,178.86
+532,2023-04-15,Ibuprofen 200mg,5,131.34,Insurance,South,Pain Relief,656.7,381.32,275.38000000000005
+533,2023-07-15,Baby Aspirin,1,118.84,Insurance,North,Pain Relief,118.84,95.47,23.370000000000005
+534,2023-11-10,Allergy Relief,3,44.69,Insurance,West,Allergy,134.07,97.16,36.91
+535,2023-04-24,Baby Aspirin,4,137.21,Insurance,East,Pain Relief,548.84,464.22,84.62
+536,2023-03-16,Pain Relief Gel,1,19.14,Insurance,South,Pain Relief,19.14,14.18,4.960000000000001
+537,2023-08-05,Vitamin D3 1000IU,3,128.73,Cash,North,Vitamins,386.18999999999994,309.04,77.14999999999992
+538,2023-10-04,Amoxicillin 500mg,4,52.58,Cash,North,Prescription,210.32,166.14,44.18000000000001
+539,2023-09-06,Amoxicillin 500mg,2,12.8,Insurance,South,Prescription,25.6,16.73,8.870000000000001
+540,2023-06-13,Nasal Spray,3,102.06,Cash,South,Cold & Flu,306.18,192.25,113.93
+541,2023-12-23,Allergy Relief,5,38.54,Cash,East,Allergy,192.7,130.87,61.829999999999984
+542,2023-07-11,Nasal Spray,1,40.32,Cash,South,Cold & Flu,40.32,27.83,12.490000000000002
+543,2023-08-15,Pain Relief Gel,3,49.38,Cash,East,Pain Relief,148.14000000000001,92.15,55.99000000000001
+544,2023-06-26,Cough Syrup,3,14.23,Insurance,West,Cold & Flu,42.69,34.94,7.75
+545,2023-04-09,Acetaminophen 500mg,5,30.68,Cash,West,Pain Relief,153.4,109.34,44.06
+546,2023-02-05,Antacid Tablets,4,5.75,Insurance,North,Digestive Health,23.0,19.4,3.6000000000000014
+547,2023-04-06,Cough Syrup,2,69.58,Insurance,West,Cold & Flu,139.16,110.35,28.810000000000002
+548,2023-06-01,Acetaminophen 500mg,5,17.22,Cash,West,Pain Relief,86.1,61.71,24.389999999999993
+549,2023-05-31,Vitamin D3 1000IU,2,103.98,Insurance,East,Vitamins,207.96,173.46,34.5
+550,2023-07-09,Nasal Spray,4,39.17,Cash,North,Cold & Flu,156.68,109.91,46.77000000000001
+551,2023-08-12,Sleep Aid Tablets,3,141.82,Cash,South,Sleep Aid,425.46,347.23,78.22999999999996
+552,2023-02-06,Vitamin D3 1000IU,2,131.33,Cash,North,Vitamins,262.66,172.68,89.98000000000002
+553,2023-09-25,Pain Relief Gel,1,46.97,Insurance,West,Pain Relief,46.97,31.17,15.799999999999997
+554,2023-07-02,Cholesterol Med,1,118.57,Insurance,South,Prescription,118.57,80.09,38.47999999999999
+555,2023-01-13,Cholesterol Med,5,121.47,Insurance,North,Prescription,607.35,433.64,173.71000000000004
+556,2023-10-06,Cholesterol Med,4,148.05,Cash,North,Prescription,592.2,424.04,168.16000000000003
+557,2023-08-05,Pain Relief Gel,5,91.69,Cash,North,Pain Relief,458.45,320.42,138.02999999999997
+558,2023-12-21,Sleep Aid Tablets,5,16.89,Cash,North,Sleep Aid,84.45,54.2,30.25
+559,2023-12-27,Baby Aspirin,5,98.79,Insurance,East,Pain Relief,493.95000000000005,409.07,84.88000000000005
+560,2023-10-13,Vitamin D3 1000IU,1,95.62,Cash,North,Vitamins,95.62,69.48,26.14
+561,2023-09-30,Acetaminophen 500mg,1,97.56,Cash,West,Pain Relief,97.56,65.59,31.97
+562,2023-03-03,Pain Relief Gel,5,49.54,Insurance,West,Pain Relief,247.7,184.62,63.079999999999984
+563,2023-03-25,Cholesterol Med,1,129.65,Insurance,East,Prescription,129.65,101.18,28.47
+564,2023-08-05,Sleep Aid Tablets,4,144.12,Insurance,South,Sleep Aid,576.48,483.22,93.25999999999999
+565,2023-12-08,Allergy Relief,5,36.57,Cash,South,Allergy,182.85,127.97,54.879999999999995
+566,2023-07-06,Pain Relief Gel,1,17.78,Cash,West,Pain Relief,17.78,10.38,7.4
+567,2023-01-19,Blood Pressure Med,2,33.21,Cash,West,Prescription,66.42,45.31,21.11
+568,2023-06-26,Baby Aspirin,5,123.98,Insurance,East,Pain Relief,619.9,430.02,189.88
+569,2023-04-10,Acetaminophen 500mg,5,103.11,Insurance,South,Pain Relief,515.55,422.29,93.25999999999993
+570,2023-08-21,Cholesterol Med,4,97.23,Insurance,South,Prescription,388.92,259.97,128.95
+571,2023-03-17,Insulin Pen,3,63.26,Insurance,North,Prescription,189.78,158.66,31.120000000000005
+572,2023-09-22,Amoxicillin 500mg,3,88.79,Cash,North,Prescription,266.37,185.27,81.1
+573,2023-10-11,Sleep Aid Tablets,4,49.64,Cash,North,Sleep Aid,198.56,167.21,31.349999999999994
+574,2023-07-25,Amoxicillin 500mg,4,74.19,Cash,East,Prescription,296.76,163.95,132.81
+575,2023-08-11,Cough Syrup,4,119.99,Cash,West,Cold & Flu,479.96,393.4,86.56
+576,2023-02-21,Amoxicillin 500mg,3,147.28,Cash,East,Prescription,441.84000000000003,366.43,75.41000000000003
+577,2023-12-05,Acetaminophen 500mg,4,140.21,Cash,South,Pain Relief,560.84,470.16,90.68
+578,2023-05-24,Antihistamine,1,140.41,Cash,West,Allergy,140.41,77.78,62.629999999999995
+579,2023-03-10,Nasal Spray,5,63.32,Cash,North,Cold & Flu,316.6,190.44,126.16000000000003
+580,2023-04-09,Acetaminophen 500mg,5,72.97,Insurance,East,Pain Relief,364.85,272.23,92.62
+581,2023-01-25,Baby Aspirin,2,107.32,Insurance,East,Pain Relief,214.64,119.69,94.94999999999999
+582,2023-02-22,Blood Pressure Med,2,138.72,Cash,North,Prescription,277.44,157.89,119.55000000000001
+583,2023-05-31,Acetaminophen 500mg,5,25.59,Insurance,East,Pain Relief,127.95,78.86,49.09
+584,2023-05-24,Pain Relief Gel,1,49.12,Cash,North,Pain Relief,49.12,34.57,14.549999999999997
+585,2023-02-26,Sleep Aid Tablets,3,25.19,Cash,South,Sleep Aid,75.57000000000001,53.94,21.63000000000001
+586,2023-02-08,Antacid Tablets,3,93.74,Insurance,West,Digestive Health,281.21999999999997,157.56,123.65999999999997
+587,2023-04-19,Sleep Aid Tablets,1,49.41,Cash,South,Sleep Aid,49.41,29.7,19.709999999999997
+588,2023-06-30,Nasal Spray,3,52.29,Cash,South,Cold & Flu,156.87,109.8,47.07000000000001
+589,2023-02-11,Insulin Pen,4,15.28,Cash,North,Prescription,61.12,44.51,16.61
+590,2023-07-05,Amoxicillin 500mg,5,55.72,Cash,East,Prescription,278.6,165.63,112.97000000000003
+591,2023-08-11,Nasal Spray,5,130.06,Cash,South,Cold & Flu,650.3,435.47,214.82999999999993
+592,2023-05-02,Amoxicillin 500mg,1,38.8,Cash,South,Prescription,38.8,31.87,6.929999999999996
+593,2023-05-13,Cough Syrup,3,105.8,Cash,South,Cold & Flu,317.4,269.69,47.70999999999998
+594,2023-06-12,Nasal Spray,2,96.3,Insurance,East,Cold & Flu,192.6,162.97,29.629999999999995
+595,2023-08-03,Cholesterol Med,2,130.21,Insurance,East,Prescription,260.42,212.11,48.31
+596,2023-08-09,Baby Aspirin,3,24.18,Cash,North,Pain Relief,72.53999999999999,48.49,24.04999999999999
+597,2023-08-23,Baby Aspirin,2,146.75,Insurance,South,Pain Relief,293.5,221.88,71.62
+598,2023-11-27,Amoxicillin 500mg,1,89.48,Cash,West,Prescription,89.48,60.4,29.080000000000005
+599,2023-05-26,Insulin Pen,1,149.34,Cash,East,Prescription,149.34,111.19,38.150000000000006
+600,2023-08-27,Cholesterol Med,3,137.17,Cash,North,Prescription,411.51,264.53,146.98000000000002
+601,2023-03-17,Ibuprofen 200mg,2,37.12,Cash,South,Pain Relief,74.24,54.33,19.909999999999997
+602,2023-01-09,Vitamin D3 1000IU,1,13.14,Insurance,West,Vitamins,13.14,9.29,3.8500000000000014
+603,2023-03-15,Vitamin D3 1000IU,1,42.07,Insurance,East,Vitamins,42.07,23.45,18.62
+604,2023-09-10,Insulin Pen,4,81.5,Insurance,West,Prescription,326.0,256.63,69.37
+605,2023-08-18,Antacid Tablets,4,29.88,Insurance,East,Digestive Health,119.52,66.16,53.36
+606,2023-01-07,Ibuprofen 200mg,1,29.28,Cash,North,Pain Relief,29.28,18.68,10.600000000000001
+607,2023-06-23,Cough Syrup,3,72.08,Insurance,West,Cold & Flu,216.24,119.32,96.92000000000002
+608,2023-05-21,Insulin Pen,5,9.82,Cash,South,Prescription,49.1,32.55,16.550000000000004
+609,2023-06-17,Cholesterol Med,5,22.67,Cash,South,Prescription,113.35000000000001,64.49,48.860000000000014
+610,2023-06-19,Vitamin D3 1000IU,1,65.3,Insurance,East,Vitamins,65.3,53.81,11.489999999999995
+611,2023-10-10,Pain Relief Gel,1,14.15,Cash,South,Pain Relief,14.15,9.55,4.6
+612,2023-05-02,Vitamin D3 1000IU,1,62.53,Insurance,West,Vitamins,62.53,43.01,19.520000000000003
+613,2023-07-13,Vitamin D3 1000IU,3,73.73,Insurance,North,Vitamins,221.19,144.87,76.32
+614,2023-01-05,Cholesterol Med,4,70.43,Insurance,East,Prescription,281.72,207.98,73.74000000000004
+615,2023-01-29,Allergy Relief,1,131.03,Insurance,West,Allergy,131.03,102.9,28.129999999999995
+616,2023-06-14,Insulin Pen,1,81.86,Insurance,East,Prescription,81.86,60.94,20.92
+617,2023-12-05,Acetaminophen 500mg,2,72.86,Cash,North,Pain Relief,145.72,112.85,32.870000000000005
+618,2023-05-16,Sleep Aid Tablets,3,64.55,Insurance,East,Sleep Aid,193.64999999999998,159.14,34.50999999999999
+619,2023-12-31,Cough Syrup,1,123.56,Insurance,South,Cold & Flu,123.56,99.97,23.590000000000003
+620,2023-11-17,Vitamin D3 1000IU,2,134.78,Cash,South,Vitamins,269.56,202.77,66.78999999999999
+621,2023-12-08,Sleep Aid Tablets,5,128.72,Insurance,East,Sleep Aid,643.6,395.42,248.18
+622,2023-05-25,Baby Aspirin,1,102.66,Insurance,North,Pain Relief,102.66,76.1,26.560000000000002
+623,2023-11-23,Pain Relief Gel,1,24.92,Cash,North,Pain Relief,24.92,17.49,7.430000000000003
+624,2023-08-05,Amoxicillin 500mg,2,45.15,Cash,South,Prescription,90.3,69.09,21.209999999999994
+625,2023-10-28,Insulin Pen,3,11.68,Insurance,North,Prescription,35.04,28.03,7.009999999999998
+626,2023-05-12,Blood Pressure Med,1,139.97,Cash,East,Prescription,139.97,108.17,31.799999999999997
+627,2023-10-19,Cholesterol Med,5,100.82,Insurance,West,Prescription,504.09999999999997,405.28,98.82
+628,2023-03-11,Allergy Relief,1,113.22,Cash,East,Allergy,113.22,64.44,48.78
+629,2023-09-09,Baby Aspirin,5,50.18,Insurance,South,Pain Relief,250.9,140.38,110.52000000000001
+630,2023-10-02,Insulin Pen,4,127.62,Insurance,South,Prescription,510.48,320.35,190.13
+631,2023-12-30,Cough Syrup,4,42.64,Insurance,South,Cold & Flu,170.56,139.89,30.670000000000016
+632,2023-07-01,Pain Relief Gel,5,5.24,Cash,North,Pain Relief,26.200000000000003,20.88,5.320000000000004
+633,2023-06-16,Allergy Relief,3,59.58,Insurance,East,Allergy,178.74,134.92,43.82000000000002
+634,2023-04-01,Cough Syrup,1,87.76,Cash,West,Cold & Flu,87.76,66.72,21.040000000000006
+635,2023-07-21,Baby Aspirin,1,74.41,Insurance,East,Pain Relief,74.41,57.15,17.259999999999998
+636,2023-12-12,Insulin Pen,4,130.0,Insurance,West,Prescription,520.0,433.05,86.94999999999999
+637,2023-01-19,Acetaminophen 500mg,5,20.28,Insurance,East,Pain Relief,101.4,81.09,20.310000000000002
+638,2023-02-08,Baby Aspirin,1,85.3,Insurance,South,Pain Relief,85.3,62.87,22.43
+639,2023-05-06,Blood Pressure Med,1,79.38,Insurance,West,Prescription,79.38,59.51,19.869999999999997
+640,2023-06-22,Cough Syrup,3,45.8,Cash,East,Cold & Flu,137.39999999999998,84.38,53.01999999999998
+641,2023-05-21,Allergy Relief,2,124.22,Cash,North,Allergy,248.44,185.63,62.81
+642,2023-08-30,Allergy Relief,4,114.16,Cash,North,Allergy,456.64,309.33,147.31
+643,2023-08-08,Sleep Aid Tablets,4,111.26,Insurance,East,Sleep Aid,445.04,265.19,179.85000000000002
+644,2023-05-06,Cough Syrup,2,132.05,Insurance,South,Cold & Flu,264.1,209.15,54.95000000000002
+645,2023-02-27,Antihistamine,1,109.8,Cash,West,Allergy,109.8,77.2,32.599999999999994
+646,2023-05-28,Insulin Pen,3,38.62,Insurance,East,Prescription,115.85999999999999,97.7,18.159999999999982
+647,2023-11-13,Antihistamine,3,107.31,Insurance,North,Allergy,321.93,204.27,117.66
+648,2023-12-27,Antacid Tablets,4,49.62,Insurance,West,Digestive Health,198.48,137.79,60.69
+649,2023-01-01,Insulin Pen,3,40.12,Cash,North,Prescription,120.35999999999999,82.37,37.98999999999998
+650,2023-12-14,Cough Syrup,2,15.59,Cash,North,Cold & Flu,31.18,18.28,12.899999999999999
+651,2023-07-09,Ibuprofen 200mg,1,112.88,Cash,East,Pain Relief,112.88,76.51,36.36999999999999
+652,2023-07-10,Pain Relief Gel,2,108.1,Cash,North,Pain Relief,216.2,137.56,78.63999999999999
+653,2023-11-08,Cough Syrup,5,39.0,Cash,West,Cold & Flu,195.0,116.63,78.37
+654,2023-04-27,Antihistamine,4,113.66,Insurance,South,Allergy,454.64,288.54,166.09999999999997
+655,2023-05-14,Acetaminophen 500mg,3,138.09,Insurance,East,Pain Relief,414.27,256.84,157.43
+656,2023-02-27,Pain Relief Gel,5,20.66,Insurance,West,Pain Relief,103.3,79.56,23.739999999999995
+657,2023-02-13,Cough Syrup,3,38.73,Insurance,East,Cold & Flu,116.19,64.98,51.209999999999994
+658,2023-06-22,Cough Syrup,1,113.79,Cash,North,Cold & Flu,113.79,83.66,30.13000000000001
+659,2023-06-09,Acetaminophen 500mg,1,44.8,Cash,North,Pain Relief,44.8,34.86,9.939999999999998
+660,2023-06-22,Cough Syrup,1,95.58,Insurance,West,Cold & Flu,95.58,66.35,29.230000000000004
+661,2023-11-13,Pain Relief Gel,3,16.77,Cash,West,Pain Relief,50.31,41.73,8.580000000000005
+662,2023-10-30,Vitamin D3 1000IU,5,70.57,Insurance,South,Vitamins,352.84999999999997,269.0,83.84999999999997
+663,2023-05-29,Ibuprofen 200mg,1,112.17,Insurance,West,Pain Relief,112.17,86.86,25.310000000000002
+664,2023-03-21,Amoxicillin 500mg,5,104.54,Insurance,West,Prescription,522.7,318.37,204.33000000000004
+665,2023-08-01,Ibuprofen 200mg,3,123.19,Insurance,East,Pain Relief,369.57,289.44,80.13
+666,2023-07-22,Cholesterol Med,5,132.23,Cash,North,Prescription,661.15,528.67,132.48000000000002
+667,2023-09-09,Blood Pressure Med,3,117.11,Insurance,West,Prescription,351.33,231.31,120.01999999999998
+668,2023-08-17,Sleep Aid Tablets,3,102.38,Cash,South,Sleep Aid,307.14,188.59,118.54999999999998
+669,2023-06-13,Cough Syrup,4,9.6,Insurance,West,Cold & Flu,38.4,25.56,12.84
+670,2023-08-15,Vitamin D3 1000IU,3,82.57,Insurance,North,Vitamins,247.70999999999998,191.2,56.50999999999999
+671,2023-05-27,Insulin Pen,3,10.47,Insurance,West,Prescription,31.410000000000004,21.21,10.200000000000003
+672,2023-01-20,Cough Syrup,2,122.17,Insurance,East,Cold & Flu,244.34,188.39,55.95000000000002
+673,2023-02-16,Antihistamine,1,51.51,Cash,North,Allergy,51.51,30.09,21.419999999999998
+674,2023-08-21,Baby Aspirin,4,86.55,Insurance,West,Pain Relief,346.2,274.12,72.07999999999998
+675,2023-11-01,Vitamin D3 1000IU,4,45.52,Cash,East,Vitamins,182.08,113.98,68.10000000000001
+676,2023-01-14,Acetaminophen 500mg,4,118.46,Insurance,North,Pain Relief,473.84,296.0,177.83999999999997
+677,2023-05-23,Vitamin D3 1000IU,2,133.54,Insurance,West,Vitamins,267.08,194.2,72.88
+678,2023-01-01,Cholesterol Med,3,62.8,Insurance,East,Prescription,188.39999999999998,107.58,80.81999999999998
+679,2023-02-23,Acetaminophen 500mg,1,130.12,Cash,South,Pain Relief,130.12,72.59,57.53
+680,2023-09-16,Antacid Tablets,5,43.73,Insurance,East,Digestive Health,218.64999999999998,137.38,81.26999999999998
+681,2023-05-24,Amoxicillin 500mg,3,82.53,Insurance,South,Prescription,247.59,176.14,71.45000000000002
+682,2023-01-12,Nasal Spray,2,129.52,Insurance,West,Cold & Flu,259.04,213.0,46.04000000000002
+683,2023-11-26,Pain Relief Gel,3,52.25,Insurance,East,Pain Relief,156.75,126.02,30.730000000000004
+684,2023-08-12,Vitamin D3 1000IU,3,143.34,Insurance,South,Vitamins,430.02,299.78,130.24
+685,2023-09-29,Pain Relief Gel,2,22.67,Cash,North,Pain Relief,45.34,25.44,19.900000000000002
+686,2023-12-24,Allergy Relief,4,7.65,Cash,East,Allergy,30.6,21.74,8.860000000000003
+687,2023-06-05,Antihistamine,4,136.1,Insurance,West,Allergy,544.4,414.53,129.87
+688,2023-01-08,Cough Syrup,1,14.95,Insurance,North,Cold & Flu,14.95,9.74,5.209999999999999
+689,2023-05-02,Antihistamine,1,148.82,Cash,South,Allergy,148.82,86.81,62.00999999999999
+690,2023-12-14,Pain Relief Gel,4,142.95,Insurance,East,Pain Relief,571.8,362.28,209.51999999999998
+691,2023-06-13,Ibuprofen 200mg,5,24.87,Cash,East,Pain Relief,124.35000000000001,97.18,27.17
+692,2023-03-31,Nasal Spray,3,82.95,Insurance,West,Cold & Flu,248.85000000000002,163.09,85.76000000000002
+693,2023-05-16,Ibuprofen 200mg,5,31.81,Insurance,North,Pain Relief,159.04999999999998,126.22,32.829999999999984
+694,2023-07-05,Antacid Tablets,3,67.08,Cash,East,Digestive Health,201.24,129.97,71.27000000000001
+695,2023-11-12,Nasal Spray,4,13.91,Insurance,East,Cold & Flu,55.64,33.33,22.310000000000002
+696,2023-06-27,Nasal Spray,1,37.47,Cash,North,Cold & Flu,37.47,25.51,11.959999999999997
+697,2023-01-28,Ibuprofen 200mg,1,57.67,Cash,East,Pain Relief,57.67,39.54,18.130000000000003
+698,2023-08-08,Acetaminophen 500mg,5,68.6,Cash,North,Pain Relief,343.0,190.31,152.69
+699,2023-12-23,Cholesterol Med,1,146.74,Insurance,North,Prescription,146.74,85.86,60.88000000000001
+700,2023-02-10,Pain Relief Gel,4,122.14,Cash,North,Pain Relief,488.56,295.81,192.75
+701,2023-08-16,Ibuprofen 200mg,5,111.92,Cash,West,Pain Relief,559.6,326.85,232.75
+702,2023-07-11,Antihistamine,3,82.87,Insurance,North,Allergy,248.61,162.21,86.4
+703,2023-05-25,Acetaminophen 500mg,1,126.8,Insurance,North,Pain Relief,126.8,106.43,20.36999999999999
+704,2023-07-20,Antihistamine,2,54.2,Insurance,South,Allergy,108.4,76.18,32.22
+705,2023-07-31,Cholesterol Med,1,107.79,Insurance,South,Prescription,107.79,79.58,28.210000000000008
+706,2023-08-08,Antacid Tablets,3,149.1,Insurance,West,Digestive Health,447.29999999999995,293.84,153.45999999999998
+707,2023-08-28,Cough Syrup,5,50.62,Insurance,North,Cold & Flu,253.1,163.77,89.32999999999998
+708,2023-02-15,Cholesterol Med,3,102.73,Cash,South,Prescription,308.19,171.64,136.55
+709,2023-02-04,Blood Pressure Med,2,127.43,Insurance,South,Prescription,254.86,178.43,76.43
+710,2023-09-10,Insulin Pen,4,137.79,Cash,East,Prescription,551.16,383.1,168.05999999999995
+711,2023-03-23,Acetaminophen 500mg,1,109.1,Insurance,North,Pain Relief,109.1,65.17,43.92999999999999
+712,2023-09-13,Antacid Tablets,5,46.12,Cash,South,Digestive Health,230.6,179.71,50.889999999999986
+713,2023-07-16,Blood Pressure Med,4,52.31,Cash,West,Prescription,209.24,146.01,63.23000000000002
+714,2023-10-30,Allergy Relief,3,8.01,Insurance,East,Allergy,24.03,15.66,8.370000000000001
+715,2023-01-10,Antacid Tablets,5,115.33,Insurance,East,Digestive Health,576.65,342.57,234.07999999999998
+716,2023-11-08,Ibuprofen 200mg,4,11.2,Cash,North,Pain Relief,44.8,32.06,12.739999999999995
+717,2023-10-13,Sleep Aid Tablets,5,130.37,Insurance,North,Sleep Aid,651.85,505.73,146.12
+718,2023-08-30,Ibuprofen 200mg,2,22.21,Insurance,East,Pain Relief,44.42,28.19,16.23
+719,2023-09-08,Cholesterol Med,2,29.92,Cash,West,Prescription,59.84,36.84,23.0
+720,2023-12-31,Insulin Pen,1,74.1,Cash,North,Prescription,74.1,52.36,21.739999999999995
+721,2023-01-05,Antacid Tablets,1,111.99,Cash,North,Digestive Health,111.99,66.81,45.17999999999999
+722,2023-04-29,Pain Relief Gel,2,25.16,Insurance,East,Pain Relief,50.32,37.74,12.579999999999998
+723,2023-10-16,Amoxicillin 500mg,5,68.81,Insurance,East,Prescription,344.05,251.71,92.34
+724,2023-03-06,Cough Syrup,2,75.01,Insurance,North,Cold & Flu,150.02,86.43,63.59
+725,2023-05-26,Cholesterol Med,1,35.78,Insurance,South,Prescription,35.78,20.07,15.71
+726,2023-08-12,Ibuprofen 200mg,2,21.76,Cash,North,Pain Relief,43.52,32.03,11.490000000000002
+727,2023-08-27,Insulin Pen,2,126.28,Insurance,South,Prescription,252.56,161.21,91.35
+728,2023-06-26,Cough Syrup,5,77.86,Cash,East,Cold & Flu,389.3,224.21,165.09
+729,2023-09-24,Antacid Tablets,4,7.09,Insurance,South,Digestive Health,28.36,22.06,6.300000000000001
+730,2023-12-07,Pain Relief Gel,1,121.43,Insurance,West,Pain Relief,121.43,78.23,43.2
+731,2023-10-09,Antacid Tablets,5,147.22,Cash,East,Digestive Health,736.1,506.35,229.75
+732,2023-03-04,Nasal Spray,2,92.86,Insurance,North,Cold & Flu,185.72,115.34,70.38
+733,2023-08-05,Insulin Pen,2,78.04,Insurance,North,Prescription,156.08,115.22,40.860000000000014
+734,2023-12-08,Blood Pressure Med,4,132.37,Cash,East,Prescription,529.48,339.1,190.38
+735,2023-11-11,Ibuprofen 200mg,1,143.11,Insurance,East,Pain Relief,143.11,120.27,22.840000000000018
+736,2023-10-10,Pain Relief Gel,1,114.41,Cash,West,Pain Relief,114.41,87.05,27.36
+737,2023-06-26,Amoxicillin 500mg,3,69.59,Cash,East,Prescription,208.77,123.39,85.38000000000001
+738,2023-04-08,Antacid Tablets,1,90.87,Cash,North,Digestive Health,90.87,61.34,29.53
+739,2023-04-15,Amoxicillin 500mg,4,106.64,Cash,West,Prescription,426.56,283.93,142.63
+740,2023-04-09,Antacid Tablets,3,33.17,Insurance,North,Digestive Health,99.51,70.68,28.83
+741,2023-11-07,Ibuprofen 200mg,3,69.84,Insurance,South,Pain Relief,209.52,168.16,41.360000000000014
+742,2023-01-06,Cough Syrup,2,125.32,Insurance,East,Cold & Flu,250.64,181.72,68.91999999999999
+743,2023-07-16,Vitamin D3 1000IU,2,99.94,Cash,South,Vitamins,199.88,113.63,86.25
+744,2023-12-17,Cough Syrup,1,64.62,Insurance,North,Cold & Flu,64.62,48.25,16.370000000000005
+745,2023-05-13,Antacid Tablets,3,101.19,Insurance,South,Digestive Health,303.57,167.72,135.85
+746,2023-12-24,Antihistamine,2,22.14,Insurance,South,Allergy,44.28,34.71,9.57
+747,2023-09-16,Sleep Aid Tablets,4,63.22,Insurance,North,Sleep Aid,252.88,189.66,63.22
+748,2023-01-23,Baby Aspirin,2,120.0,Cash,North,Pain Relief,240.0,154.23,85.77000000000001
+749,2023-02-22,Vitamin D3 1000IU,2,36.97,Cash,East,Vitamins,73.94,47.15,26.79
+750,2023-06-14,Blood Pressure Med,3,31.96,Insurance,South,Prescription,95.88,75.7,20.179999999999993
+751,2023-07-21,Vitamin D3 1000IU,3,142.87,Cash,West,Vitamins,428.61,336.46,92.15000000000003
+752,2023-03-24,Sleep Aid Tablets,5,35.44,Insurance,West,Sleep Aid,177.2,116.19,61.00999999999999
+753,2023-05-25,Amoxicillin 500mg,4,42.83,Insurance,North,Prescription,171.32,109.59,61.72999999999999
+754,2023-03-26,Insulin Pen,3,145.59,Insurance,North,Prescription,436.77,313.58,123.19
+755,2023-03-19,Amoxicillin 500mg,1,111.53,Cash,South,Prescription,111.53,61.62,49.910000000000004
+756,2023-01-01,Cholesterol Med,4,106.44,Insurance,North,Prescription,425.76,244.73,181.03
+757,2023-02-20,Amoxicillin 500mg,4,128.67,Cash,West,Prescription,514.68,302.56,212.11999999999995
+758,2023-06-22,Blood Pressure Med,3,21.79,Cash,East,Prescription,65.37,39.59,25.78
+759,2023-07-24,Antihistamine,4,107.36,Insurance,East,Allergy,429.44,302.16,127.27999999999997
+760,2023-09-17,Cough Syrup,3,78.03,Cash,South,Cold & Flu,234.09,198.43,35.66
+761,2023-10-15,Cough Syrup,2,125.23,Cash,East,Cold & Flu,250.46,186.79,63.670000000000016
+762,2023-02-03,Baby Aspirin,5,78.68,Insurance,North,Pain Relief,393.40000000000003,223.6,169.80000000000004
+763,2023-12-14,Allergy Relief,2,94.93,Cash,North,Allergy,189.86,134.36,55.5
+764,2023-04-05,Antacid Tablets,3,74.27,Cash,North,Digestive Health,222.81,155.74,67.07
+765,2023-03-13,Antihistamine,3,74.33,Insurance,North,Allergy,222.99,132.29,90.70000000000002
+766,2023-02-08,Allergy Relief,2,116.36,Insurance,South,Allergy,232.72,192.25,40.47
+767,2023-06-03,Sleep Aid Tablets,1,96.14,Cash,East,Sleep Aid,96.14,65.59,30.549999999999997
+768,2023-09-07,Cholesterol Med,1,96.82,Insurance,West,Prescription,96.82,82.14,14.679999999999993
+769,2023-06-11,Ibuprofen 200mg,1,70.29,Insurance,East,Pain Relief,70.29,47.52,22.770000000000003
+770,2023-04-28,Sleep Aid Tablets,3,82.01,Cash,North,Sleep Aid,246.03000000000003,180.19,65.84000000000003
+771,2023-09-16,Antacid Tablets,4,113.13,Cash,West,Digestive Health,452.52,263.11,189.40999999999997
+772,2023-11-02,Antacid Tablets,3,124.76,Insurance,South,Digestive Health,374.28000000000003,256.86,117.42000000000002
+773,2023-09-25,Nasal Spray,4,106.0,Cash,North,Cold & Flu,424.0,263.57,160.43
+774,2023-02-23,Nasal Spray,2,138.99,Insurance,North,Cold & Flu,277.98,222.57,55.410000000000025
+775,2023-08-24,Acetaminophen 500mg,5,123.95,Insurance,West,Pain Relief,619.75,486.61,133.14
+776,2023-08-10,Sleep Aid Tablets,4,86.47,Cash,South,Sleep Aid,345.88,275.75,70.13
+777,2023-09-08,Acetaminophen 500mg,1,102.35,Cash,West,Pain Relief,102.35,78.51,23.83999999999999
+778,2023-11-09,Amoxicillin 500mg,3,139.31,Insurance,South,Prescription,417.93,334.26,83.67000000000002
+779,2023-04-22,Ibuprofen 200mg,2,94.78,Insurance,North,Pain Relief,189.56,115.68,73.88
+780,2023-09-12,Vitamin D3 1000IU,1,124.6,Insurance,East,Vitamins,124.6,85.43,39.16999999999999
+781,2023-10-30,Baby Aspirin,2,104.88,Insurance,North,Pain Relief,209.76,158.9,50.859999999999985
+782,2023-07-26,Vitamin D3 1000IU,5,85.03,Cash,East,Vitamins,425.15,315.13,110.01999999999998
+783,2023-08-17,Baby Aspirin,3,40.07,Insurance,East,Pain Relief,120.21000000000001,91.95,28.260000000000005
+784,2023-12-07,Nasal Spray,3,66.77,Cash,South,Cold & Flu,200.31,123.65,76.66
+785,2023-03-07,Nasal Spray,5,145.32,Cash,West,Cold & Flu,726.5999999999999,421.09,305.50999999999993
+786,2023-03-16,Nasal Spray,3,100.38,Insurance,South,Cold & Flu,301.14,248.45,52.69
+787,2023-04-13,Antihistamine,4,86.84,Cash,North,Allergy,347.36,249.42,97.94000000000003
+788,2023-07-11,Insulin Pen,2,140.28,Cash,West,Prescription,280.56,167.26,113.30000000000001
+789,2023-09-09,Baby Aspirin,1,90.04,Insurance,East,Pain Relief,90.04,70.95,19.090000000000003
+790,2023-08-14,Sleep Aid Tablets,5,81.28,Cash,East,Sleep Aid,406.4,335.07,71.32999999999998
+791,2023-10-21,Acetaminophen 500mg,4,115.1,Cash,North,Pain Relief,460.4,276.64,183.76
+792,2023-11-02,Antihistamine,1,108.34,Insurance,West,Allergy,108.34,86.15,22.189999999999998
+793,2023-04-08,Cough Syrup,1,33.01,Insurance,North,Cold & Flu,33.01,27.4,5.609999999999999
+794,2023-12-04,Vitamin D3 1000IU,5,73.34,Insurance,North,Vitamins,366.70000000000005,304.91,61.79000000000002
+795,2023-10-13,Cholesterol Med,4,73.51,Insurance,South,Prescription,294.04,242.36,51.68000000000001
+796,2023-12-01,Blood Pressure Med,1,59.84,Insurance,North,Prescription,59.84,42.72,17.120000000000005
+797,2023-12-13,Antacid Tablets,1,80.01,Insurance,West,Digestive Health,80.01,52.56,27.450000000000003
+798,2023-11-04,Acetaminophen 500mg,4,64.9,Insurance,North,Pain Relief,259.6,143.35,116.25000000000003
+799,2023-09-06,Allergy Relief,3,33.91,Cash,West,Allergy,101.72999999999999,57.81,43.91999999999999
+800,2023-06-15,Pain Relief Gel,1,64.79,Cash,East,Pain Relief,64.79,43.97,20.820000000000007
+801,2023-12-01,Cough Syrup,2,15.48,Insurance,North,Cold & Flu,30.96,20.74,10.220000000000002
+802,2023-01-30,Sleep Aid Tablets,4,88.49,Cash,West,Sleep Aid,353.96,214.29,139.67
+803,2023-09-04,Cholesterol Med,1,128.78,Cash,East,Prescription,128.78,86.11,42.67
+804,2023-04-16,Acetaminophen 500mg,5,110.17,Insurance,West,Pain Relief,550.85,331.83,219.02000000000004
+805,2023-02-20,Blood Pressure Med,2,57.26,Cash,East,Prescription,114.52,92.15,22.36999999999999
+806,2023-03-22,Antihistamine,1,17.63,Insurance,South,Allergy,17.63,11.27,6.359999999999999
+807,2023-05-13,Sleep Aid Tablets,2,34.31,Cash,North,Sleep Aid,68.62,50.06,18.560000000000002
+808,2023-10-12,Ibuprofen 200mg,2,84.1,Insurance,North,Pain Relief,168.2,117.88,50.31999999999999
+809,2023-05-18,Antacid Tablets,3,35.02,Cash,East,Digestive Health,105.06,59.42,45.64
+810,2023-07-03,Acetaminophen 500mg,2,83.88,Cash,South,Pain Relief,167.76,139.69,28.069999999999993
+811,2023-11-26,Insulin Pen,3,38.58,Cash,West,Prescription,115.74,81.96,33.78
+812,2023-09-30,Nasal Spray,4,128.09,Insurance,South,Cold & Flu,512.36,331.76,180.60000000000002
+813,2023-12-06,Nasal Spray,3,62.6,Cash,West,Cold & Flu,187.8,112.2,75.60000000000001
+814,2023-03-10,Antacid Tablets,5,40.6,Cash,West,Digestive Health,203.0,132.27,70.72999999999999
+815,2023-02-03,Blood Pressure Med,1,122.79,Insurance,North,Prescription,122.79,68.29,54.5
+816,2023-09-19,Baby Aspirin,4,54.71,Insurance,East,Pain Relief,218.84,144.23,74.61000000000001
+817,2023-02-22,Cholesterol Med,4,21.17,Cash,North,Prescription,84.68,60.08,24.60000000000001
+818,2023-07-24,Antihistamine,5,87.71,Cash,North,Allergy,438.54999999999995,355.91,82.63999999999993
+819,2023-05-06,Nasal Spray,3,89.33,Cash,North,Cold & Flu,267.99,202.66,65.33000000000001
+820,2023-08-23,Acetaminophen 500mg,1,108.63,Cash,West,Pain Relief,108.63,63.38,45.24999999999999
+821,2023-02-12,Allergy Relief,3,39.83,Insurance,North,Allergy,119.49,71.02,48.47
+822,2023-08-28,Vitamin D3 1000IU,2,69.35,Cash,West,Vitamins,138.7,94.1,44.599999999999994
+823,2023-04-21,Baby Aspirin,3,45.94,Cash,East,Pain Relief,137.82,83.89,53.92999999999999
+824,2023-09-06,Vitamin D3 1000IU,4,16.74,Insurance,West,Vitamins,66.96,37.39,29.569999999999993
+825,2023-05-31,Cough Syrup,1,132.11,Cash,West,Cold & Flu,132.11,104.57,27.54000000000002
+826,2023-07-02,Cholesterol Med,3,110.69,Cash,South,Prescription,332.07,184.58,147.48999999999998
+827,2023-12-02,Amoxicillin 500mg,1,48.71,Cash,North,Prescription,48.71,38.93,9.780000000000001
+828,2023-04-05,Baby Aspirin,1,91.91,Insurance,North,Pain Relief,91.91,54.52,37.38999999999999
+829,2023-01-08,Ibuprofen 200mg,2,34.18,Insurance,North,Pain Relief,68.36,57.59,10.769999999999996
+830,2023-12-26,Antacid Tablets,2,134.08,Cash,North,Digestive Health,268.16,196.07,72.09000000000003
+831,2023-07-03,Cough Syrup,4,21.66,Cash,South,Cold & Flu,86.64,66.76,19.879999999999995
+832,2023-10-08,Amoxicillin 500mg,5,5.56,Insurance,South,Prescription,27.799999999999997,16.21,11.589999999999996
+833,2023-07-14,Antihistamine,1,77.79,Cash,South,Allergy,77.79,62.9,14.890000000000008
+834,2023-12-18,Baby Aspirin,5,89.55,Cash,South,Pain Relief,447.75,358.99,88.75999999999999
+835,2023-07-14,Insulin Pen,4,88.95,Insurance,North,Prescription,355.8,265.39,90.41000000000003
+836,2023-06-04,Insulin Pen,1,12.9,Insurance,West,Prescription,12.9,9.04,3.860000000000001
+837,2023-04-03,Ibuprofen 200mg,1,50.54,Insurance,East,Pain Relief,50.54,38.74,11.799999999999997
+838,2023-06-09,Cholesterol Med,5,77.38,Cash,South,Prescription,386.9,213.48,173.42
+839,2023-03-02,Nasal Spray,3,36.4,Cash,West,Cold & Flu,109.19999999999999,79.47,29.72999999999999
+840,2023-05-02,Sleep Aid Tablets,2,131.53,Cash,South,Sleep Aid,263.06,211.56,51.5
+841,2023-02-20,Acetaminophen 500mg,3,17.63,Cash,North,Pain Relief,52.89,34.75,18.14
+842,2023-10-04,Cough Syrup,5,75.67,Insurance,North,Cold & Flu,378.35,220.38,157.97000000000003
+843,2023-01-05,Pain Relief Gel,2,105.26,Cash,West,Pain Relief,210.52,142.37,68.15
+844,2023-04-02,Baby Aspirin,3,42.95,Cash,West,Pain Relief,128.85000000000002,98.97,29.880000000000024
+845,2023-06-19,Cough Syrup,2,95.51,Insurance,West,Cold & Flu,191.02,111.21,79.81000000000002
+846,2023-11-13,Baby Aspirin,1,125.26,Insurance,North,Pain Relief,125.26,76.64,48.620000000000005
+847,2023-01-22,Antacid Tablets,3,32.6,Cash,North,Digestive Health,97.80000000000001,58.12,39.680000000000014
+848,2023-11-22,Baby Aspirin,2,138.0,Insurance,East,Pain Relief,276.0,217.79,58.21000000000001
+849,2023-01-01,Antacid Tablets,2,85.27,Insurance,West,Digestive Health,170.54,97.01,73.52999999999999
+850,2023-05-13,Baby Aspirin,2,48.39,Cash,East,Pain Relief,96.78,73.16,23.620000000000005
+851,2023-08-21,Insulin Pen,3,67.47,Cash,South,Prescription,202.41,133.58,68.82999999999998
+852,2023-01-12,Insulin Pen,4,50.27,Cash,East,Prescription,201.08,156.19,44.890000000000015
+853,2023-12-12,Cholesterol Med,3,110.14,Cash,South,Prescription,330.42,277.33,53.09000000000003
+854,2023-02-15,Blood Pressure Med,5,120.46,Insurance,South,Prescription,602.3,351.96,250.33999999999997
+855,2023-02-03,Allergy Relief,3,125.78,Insurance,East,Allergy,377.34000000000003,243.13,134.21000000000004
+856,2023-03-19,Allergy Relief,2,147.94,Cash,West,Allergy,295.88,234.64,61.24000000000001
+857,2023-08-06,Blood Pressure Med,1,119.74,Cash,South,Prescription,119.74,75.42,44.31999999999999
+858,2023-10-28,Nasal Spray,3,92.2,Insurance,West,Cold & Flu,276.6,169.98,106.62000000000003
+859,2023-03-14,Allergy Relief,3,54.19,Cash,North,Allergy,162.57,129.67,32.900000000000006
+860,2023-10-09,Cholesterol Med,2,83.97,Cash,South,Prescription,167.94,142.1,25.840000000000003
+861,2023-09-06,Pain Relief Gel,1,10.95,Cash,North,Pain Relief,10.95,7.85,3.0999999999999996
+862,2023-02-16,Pain Relief Gel,1,113.0,Cash,East,Pain Relief,113.0,71.58,41.42
+863,2023-05-01,Acetaminophen 500mg,5,69.66,Insurance,West,Pain Relief,348.29999999999995,233.21,115.08999999999995
+864,2023-08-02,Acetaminophen 500mg,3,7.9,Cash,East,Pain Relief,23.700000000000003,14.24,9.460000000000003
+865,2023-08-27,Pain Relief Gel,1,14.06,Insurance,South,Pain Relief,14.06,10.95,3.110000000000001
+866,2023-02-25,Cough Syrup,1,61.18,Cash,North,Cold & Flu,61.18,47.85,13.329999999999998
+867,2023-12-16,Sleep Aid Tablets,4,89.6,Cash,South,Sleep Aid,358.4,291.21,67.19
+868,2023-04-17,Vitamin D3 1000IU,4,72.31,Insurance,East,Vitamins,289.24,161.39,127.85000000000002
+869,2023-11-15,Blood Pressure Med,1,94.78,Cash,West,Prescription,94.78,68.11,26.67
+870,2023-02-17,Acetaminophen 500mg,5,74.64,Insurance,West,Pain Relief,373.2,229.25,143.95
+871,2023-03-02,Sleep Aid Tablets,1,100.95,Cash,South,Sleep Aid,100.95,65.85,35.10000000000001
+872,2023-12-03,Sleep Aid Tablets,2,36.77,Cash,South,Sleep Aid,73.54,57.76,15.780000000000008
+873,2023-01-26,Amoxicillin 500mg,3,21.36,Cash,North,Prescription,64.08,38.94,25.14
+874,2023-10-19,Insulin Pen,5,91.48,Cash,East,Prescription,457.40000000000003,339.16,118.24000000000001
+875,2023-09-14,Antacid Tablets,2,75.28,Cash,South,Digestive Health,150.56,112.37,38.19
+876,2023-01-08,Cholesterol Med,5,8.9,Insurance,North,Prescription,44.5,37.21,7.289999999999999
+877,2023-04-23,Pain Relief Gel,2,60.17,Insurance,South,Pain Relief,120.34,94.17,26.17
+878,2023-12-21,Allergy Relief,3,20.39,Cash,West,Allergy,61.17,48.39,12.780000000000001
+879,2023-09-10,Blood Pressure Med,3,82.05,Cash,North,Prescription,246.14999999999998,174.64,71.50999999999999
+880,2023-06-29,Cough Syrup,4,62.39,Insurance,North,Cold & Flu,249.56,151.24,98.32
+881,2023-07-26,Pain Relief Gel,2,93.91,Insurance,South,Pain Relief,187.82,127.28,60.53999999999999
+882,2023-10-30,Ibuprofen 200mg,4,121.81,Cash,East,Pain Relief,487.24,348.3,138.94
+883,2023-05-07,Antacid Tablets,2,48.45,Cash,West,Digestive Health,96.9,73.02,23.88000000000001
+884,2023-02-25,Amoxicillin 500mg,4,144.5,Insurance,East,Prescription,578.0,423.28,154.72000000000003
+885,2023-08-02,Sleep Aid Tablets,3,82.67,Cash,North,Sleep Aid,248.01,165.72,82.28999999999999
+886,2023-01-14,Allergy Relief,5,94.65,Insurance,East,Allergy,473.25,297.96,175.29000000000002
+887,2023-01-28,Amoxicillin 500mg,4,103.7,Cash,North,Prescription,414.8,249.07,165.73000000000002
+888,2023-03-19,Insulin Pen,2,101.68,Insurance,East,Prescription,203.36,154.18,49.18000000000001
+889,2023-08-04,Pain Relief Gel,2,79.09,Insurance,South,Pain Relief,158.18,117.63,40.55000000000001
+890,2023-12-31,Baby Aspirin,3,67.17,Cash,East,Pain Relief,201.51,152.38,49.129999999999995
+891,2023-06-03,Insulin Pen,2,12.8,Insurance,North,Prescription,25.6,16.94,8.66
+892,2023-01-14,Cholesterol Med,1,8.2,Cash,West,Prescription,8.2,5.16,3.039999999999999
+893,2023-07-06,Sleep Aid Tablets,5,56.9,Cash,West,Sleep Aid,284.5,221.32,63.18000000000001
+894,2023-11-08,Nasal Spray,4,53.38,Cash,West,Cold & Flu,213.52,166.99,46.53
+895,2023-01-07,Cough Syrup,5,61.22,Cash,North,Cold & Flu,306.1,210.19,95.91000000000003
+896,2023-01-03,Sleep Aid Tablets,3,25.06,Insurance,East,Sleep Aid,75.17999999999999,55.15,20.029999999999994
+897,2023-04-21,Antacid Tablets,4,112.03,Cash,West,Digestive Health,448.12,296.68,151.44
+898,2023-08-26,Antihistamine,4,129.26,Cash,West,Allergy,517.04,393.25,123.78999999999996
+899,2023-12-29,Antihistamine,1,141.11,Cash,West,Allergy,141.11,112.99,28.12000000000002
+900,2023-08-27,Antacid Tablets,3,76.39,Cash,South,Digestive Health,229.17000000000002,173.36,55.81
+901,2023-10-01,Ibuprofen 200mg,2,106.63,Insurance,North,Pain Relief,213.26,150.09,63.16999999999999
+902,2023-10-21,Cholesterol Med,1,129.05,Cash,North,Prescription,129.05,88.73,40.32000000000001
+903,2023-08-15,Cough Syrup,1,65.65,Insurance,North,Cold & Flu,65.65,48.76,16.890000000000008
+904,2023-01-15,Amoxicillin 500mg,5,49.86,Insurance,North,Prescription,249.3,187.96,61.34
+905,2023-07-11,Ibuprofen 200mg,5,140.83,Insurance,North,Pain Relief,704.1500000000001,505.31,198.8400000000001
+906,2023-04-29,Vitamin D3 1000IU,5,79.77,Cash,South,Vitamins,398.84999999999997,294.14,104.70999999999998
+907,2023-01-28,Antacid Tablets,1,77.1,Cash,East,Digestive Health,77.1,44.64,32.459999999999994
+908,2023-07-21,Amoxicillin 500mg,2,30.87,Cash,South,Prescription,61.74,51.59,10.149999999999999
+909,2023-02-08,Antihistamine,4,20.68,Cash,West,Allergy,82.72,65.12,17.599999999999994
+910,2023-09-30,Acetaminophen 500mg,5,127.11,Insurance,South,Pain Relief,635.55,420.85,214.69999999999993
+911,2023-08-19,Blood Pressure Med,2,94.05,Insurance,North,Prescription,188.1,135.21,52.889999999999986
+912,2023-03-27,Nasal Spray,3,52.24,Cash,South,Cold & Flu,156.72,88.42,68.3
+913,2023-05-06,Antihistamine,5,32.8,Cash,North,Allergy,164.0,92.23,71.77
+914,2023-10-27,Cough Syrup,4,85.55,Cash,South,Cold & Flu,342.2,213.96,128.23999999999998
+915,2023-01-25,Baby Aspirin,3,89.67,Cash,North,Pain Relief,269.01,203.62,65.38999999999999
+916,2023-05-25,Insulin Pen,3,35.01,Cash,West,Prescription,105.03,84.62,20.409999999999997
+917,2023-01-13,Blood Pressure Med,4,128.45,Cash,North,Prescription,513.8,368.78,145.01999999999998
+918,2023-07-31,Blood Pressure Med,5,17.22,Cash,South,Prescription,86.1,61.1,24.999999999999993
+919,2023-01-25,Acetaminophen 500mg,1,56.63,Insurance,West,Pain Relief,56.63,37.98,18.650000000000006
+920,2023-03-09,Nasal Spray,4,103.66,Insurance,South,Cold & Flu,414.64,248.15,166.48999999999998
+921,2023-03-08,Pain Relief Gel,4,44.75,Insurance,West,Pain Relief,179.0,104.81,74.19
+922,2023-08-21,Nasal Spray,4,125.01,Insurance,East,Cold & Flu,500.04,389.13,110.91000000000003
+923,2023-04-19,Vitamin D3 1000IU,3,112.28,Cash,East,Vitamins,336.84000000000003,278.99,57.85000000000002
+924,2023-05-26,Vitamin D3 1000IU,2,119.41,Cash,East,Vitamins,238.82,164.19,74.63
+925,2023-04-21,Allergy Relief,1,22.27,Cash,South,Allergy,22.27,16.65,5.620000000000001
+926,2023-08-16,Antihistamine,5,25.38,Cash,South,Allergy,126.89999999999999,104.61,22.289999999999992
+927,2023-04-21,Antihistamine,5,46.54,Cash,West,Allergy,232.7,134.28,98.41999999999999
+928,2023-02-03,Antihistamine,2,80.12,Insurance,West,Allergy,160.24,125.17,35.07000000000001
+929,2023-04-21,Allergy Relief,4,113.46,Cash,West,Allergy,453.84,333.59,120.25
+930,2023-09-21,Cholesterol Med,1,126.3,Insurance,West,Prescription,126.3,92.15,34.14999999999999
+931,2023-08-24,Ibuprofen 200mg,5,107.13,Cash,North,Pain Relief,535.65,341.62,194.02999999999997
+932,2023-03-24,Baby Aspirin,5,139.65,Insurance,East,Pain Relief,698.25,527.3,170.95000000000005
+933,2023-02-11,Baby Aspirin,4,112.12,Cash,North,Pain Relief,448.48,353.6,94.88
+934,2023-04-11,Nasal Spray,2,49.41,Insurance,North,Cold & Flu,98.82,57.7,41.11999999999999
+935,2023-01-06,Acetaminophen 500mg,1,43.44,Cash,North,Pain Relief,43.44,30.84,12.599999999999998
+936,2023-06-29,Cough Syrup,2,105.95,Cash,North,Cold & Flu,211.9,122.98,88.92
+937,2023-10-09,Nasal Spray,2,32.97,Cash,East,Cold & Flu,65.94,53.53,12.409999999999997
+938,2023-11-16,Vitamin D3 1000IU,1,18.44,Cash,North,Vitamins,18.44,12.95,5.490000000000002
+939,2023-08-14,Blood Pressure Med,1,82.17,Insurance,West,Prescription,82.17,65.11,17.060000000000002
+940,2023-11-11,Amoxicillin 500mg,5,124.14,Cash,South,Prescription,620.7,409.93,210.77000000000004
+941,2023-12-31,Sleep Aid Tablets,5,19.7,Insurance,West,Sleep Aid,98.5,57.87,40.63
+942,2023-08-17,Insulin Pen,1,119.82,Cash,South,Prescription,119.82,67.39,52.42999999999999
+943,2023-10-16,Allergy Relief,3,122.68,Insurance,West,Allergy,368.04,233.5,134.54000000000002
+944,2023-05-30,Antacid Tablets,5,74.93,Cash,West,Digestive Health,374.65000000000003,233.51,141.14000000000004
+945,2023-10-04,Amoxicillin 500mg,3,13.31,Cash,South,Prescription,39.93,28.67,11.259999999999998
+946,2023-07-17,Cough Syrup,1,30.32,Insurance,East,Cold & Flu,30.32,16.87,13.45
+947,2023-03-11,Antihistamine,5,107.58,Cash,North,Allergy,537.9,379.85,158.04999999999995
+948,2023-04-22,Vitamin D3 1000IU,2,108.21,Cash,West,Vitamins,216.42,144.47,71.94999999999999
+949,2023-01-04,Sleep Aid Tablets,1,135.26,Insurance,East,Sleep Aid,135.26,97.81,37.44999999999999
+950,2023-12-16,Pain Relief Gel,4,89.49,Cash,North,Pain Relief,357.96,272.31,85.64999999999998
+951,2023-11-27,Vitamin D3 1000IU,3,23.0,Insurance,East,Vitamins,69.0,51.08,17.92
+952,2023-11-14,Vitamin D3 1000IU,1,22.61,Cash,East,Vitamins,22.61,19.11,3.5
+953,2023-12-16,Antihistamine,1,109.56,Insurance,North,Allergy,109.56,64.8,44.760000000000005
+954,2023-04-05,Antacid Tablets,5,31.65,Insurance,West,Digestive Health,158.25,107.44,50.81
+955,2023-06-01,Allergy Relief,5,52.62,Insurance,East,Allergy,263.09999999999997,178.24,84.85999999999996
+956,2023-11-07,Amoxicillin 500mg,5,75.65,Insurance,West,Prescription,378.25,255.36,122.88999999999999
+957,2023-05-17,Antihistamine,4,8.59,Cash,West,Allergy,34.36,25.74,8.620000000000001
+958,2023-09-04,Cough Syrup,5,41.08,Cash,West,Cold & Flu,205.39999999999998,143.15,62.24999999999997
+959,2023-08-31,Allergy Relief,1,64.14,Insurance,North,Allergy,64.14,45.23,18.910000000000004
+960,2023-01-31,Cough Syrup,5,45.55,Cash,South,Cold & Flu,227.75,154.8,72.94999999999999
+961,2023-02-09,Allergy Relief,2,24.77,Cash,West,Allergy,49.54,41.99,7.549999999999997
+962,2023-08-17,Antacid Tablets,5,110.56,Cash,South,Digestive Health,552.8,457.87,94.92999999999995
+963,2023-02-05,Insulin Pen,4,122.91,Insurance,South,Prescription,491.64,315.79,175.84999999999997
+964,2023-08-11,Cough Syrup,2,42.33,Cash,East,Cold & Flu,84.66,49.4,35.26
+965,2023-01-06,Antihistamine,1,117.29,Cash,West,Allergy,117.29,94.06,23.230000000000004
+966,2023-11-18,Allergy Relief,1,60.91,Insurance,West,Allergy,60.91,51.72,9.189999999999998
+967,2023-08-08,Baby Aspirin,3,78.47,Cash,West,Pain Relief,235.41,150.14,85.27000000000001
+968,2023-03-16,Vitamin D3 1000IU,2,129.12,Insurance,South,Vitamins,258.24,169.75,88.49000000000001
+969,2023-01-04,Cholesterol Med,3,113.74,Insurance,North,Prescription,341.21999999999997,284.06,57.15999999999997
+970,2023-12-01,Nasal Spray,2,121.74,Insurance,South,Cold & Flu,243.48,185.86,57.619999999999976
+971,2023-05-14,Pain Relief Gel,2,24.84,Cash,West,Pain Relief,49.68,31.73,17.95
+972,2023-04-28,Vitamin D3 1000IU,4,15.11,Cash,West,Vitamins,60.44,43.78,16.659999999999997
+973,2023-04-04,Ibuprofen 200mg,3,134.54,Insurance,West,Pain Relief,403.62,336.32,67.30000000000001
+974,2023-03-03,Insulin Pen,4,61.24,Insurance,South,Prescription,244.96,194.39,50.57000000000002
+975,2023-07-13,Insulin Pen,2,46.74,Insurance,West,Prescription,93.48,72.22,21.260000000000005
+976,2023-12-01,Vitamin D3 1000IU,1,110.08,Insurance,East,Vitamins,110.08,84.88,25.200000000000003
+977,2023-07-22,Pain Relief Gel,2,126.28,Insurance,West,Pain Relief,252.56,152.4,100.16
+978,2023-01-26,Baby Aspirin,4,130.06,Insurance,North,Pain Relief,520.24,414.84,105.40000000000003
+979,2023-06-22,Amoxicillin 500mg,3,50.82,Cash,East,Prescription,152.46,96.48,55.980000000000004
+980,2023-10-27,Antacid Tablets,3,128.57,Insurance,West,Digestive Health,385.71,319.8,65.90999999999997
+981,2023-05-13,Cough Syrup,4,10.94,Insurance,East,Cold & Flu,43.76,28.85,14.909999999999997
+982,2023-11-22,Antihistamine,3,12.2,Insurance,West,Allergy,36.599999999999994,29.55,7.049999999999994
+983,2023-04-28,Insulin Pen,5,95.41,Cash,North,Prescription,477.04999999999995,300.48,176.56999999999994
+984,2023-11-20,Vitamin D3 1000IU,1,14.15,Cash,West,Vitamins,14.15,9.97,4.18
+985,2023-10-02,Vitamin D3 1000IU,1,52.07,Cash,East,Vitamins,52.07,30.31,21.76
+986,2023-07-31,Antacid Tablets,1,102.55,Cash,North,Digestive Health,102.55,76.71,25.840000000000003
+987,2023-08-13,Baby Aspirin,3,53.9,Insurance,South,Pain Relief,161.7,129.49,32.20999999999998
+988,2023-01-20,Antacid Tablets,3,31.04,Cash,North,Digestive Health,93.12,71.29,21.83
+989,2023-04-23,Acetaminophen 500mg,2,45.8,Insurance,North,Pain Relief,91.6,64.76,26.83999999999999
+990,2023-05-20,Baby Aspirin,2,71.35,Insurance,North,Pain Relief,142.7,80.42,62.27999999999999
+991,2023-02-16,Acetaminophen 500mg,1,73.93,Insurance,East,Pain Relief,73.93,61.36,12.570000000000007
+992,2023-01-01,Amoxicillin 500mg,5,118.54,Insurance,North,Prescription,592.7,451.43,141.27000000000004
+993,2023-03-31,Sleep Aid Tablets,2,113.77,Insurance,West,Sleep Aid,227.54,176.06,51.47999999999999
+994,2023-05-22,Cholesterol Med,2,71.24,Insurance,North,Prescription,142.48,112.33,30.14999999999999
+995,2023-11-16,Cholesterol Med,3,127.62,Cash,North,Prescription,382.86,296.46,86.40000000000003
+996,2023-02-07,Amoxicillin 500mg,5,21.56,Cash,West,Prescription,107.8,73.56,34.239999999999995
+997,2023-10-20,Ibuprofen 200mg,1,42.03,Cash,West,Pain Relief,42.03,32.37,9.660000000000004
+998,2023-05-19,Sleep Aid Tablets,2,125.06,Cash,South,Sleep Aid,250.12,184.47,65.65
+999,2023-12-22,Baby Aspirin,5,59.81,Cash,North,Pain Relief,299.05,241.1,57.95000000000002
+1000,2023-11-29,Amoxicillin 500mg,5,147.27,Insurance,East,Prescription,736.35,582.26,154.09000000000003
+1001,2023-09-16,Allergy Relief,1,72.61,Cash,North,Allergy,72.61,40.84,31.769999999999996
+1002,2023-06-10,Antacid Tablets,5,119.83,Cash,North,Digestive Health,599.15,397.64,201.51
+1003,2023-06-27,Pain Relief Gel,5,63.33,Cash,West,Pain Relief,316.65,177.46,139.18999999999997
+1004,2023-01-10,Cholesterol Med,5,66.62,Insurance,South,Prescription,333.1,193.41,139.69000000000003
+1005,2023-09-18,Baby Aspirin,2,60.52,Insurance,North,Pain Relief,121.04,88.41,32.63000000000001
+1006,2023-05-18,Antihistamine,1,109.27,Insurance,East,Allergy,109.27,88.74,20.53
+1007,2023-06-21,Allergy Relief,5,84.39,Cash,North,Allergy,421.95,247.24,174.70999999999998
+1008,2023-01-13,Cough Syrup,5,141.85,Cash,East,Cold & Flu,709.25,486.07,223.18
+1009,2023-06-17,Sleep Aid Tablets,2,41.38,Cash,West,Sleep Aid,82.76,68.13,14.63000000000001
+1010,2023-05-10,Vitamin D3 1000IU,1,19.58,Cash,South,Vitamins,19.58,15.55,4.029999999999998
+1011,2023-03-25,Amoxicillin 500mg,3,62.02,Cash,North,Prescription,186.06,131.34,54.72
+1012,2023-11-17,Pain Relief Gel,2,94.42,Insurance,South,Pain Relief,188.84,147.57,41.27000000000001
+1013,2023-11-15,Vitamin D3 1000IU,1,129.82,Cash,North,Vitamins,129.82,91.76,38.05999999999999
+1014,2023-04-11,Baby Aspirin,5,55.2,Insurance,East,Pain Relief,276.0,164.89,111.11000000000001
+1015,2023-11-25,Insulin Pen,1,99.8,Cash,South,Prescription,99.8,58.62,41.18
+1016,2023-09-30,Ibuprofen 200mg,1,55.78,Insurance,North,Pain Relief,55.78,33.83,21.950000000000003
+1017,2023-09-22,Insulin Pen,1,94.5,Insurance,West,Prescription,94.5,61.92,32.58
+1018,2023-02-07,Ibuprofen 200mg,3,133.3,Insurance,East,Pain Relief,399.90000000000003,331.58,68.32000000000005
+1019,2023-04-04,Acetaminophen 500mg,1,38.55,Insurance,South,Pain Relief,38.55,30.45,8.099999999999998
+1020,2023-04-05,Sleep Aid Tablets,3,63.62,Cash,North,Sleep Aid,190.85999999999999,129.75,61.109999999999985
+1021,2023-11-01,Vitamin D3 1000IU,5,149.02,Cash,South,Vitamins,745.1,520.02,225.08000000000004
+1022,2023-03-10,Ibuprofen 200mg,3,130.94,Cash,North,Pain Relief,392.82,247.35,145.47
+1023,2023-11-14,Blood Pressure Med,5,86.87,Insurance,East,Prescription,434.35,330.67,103.68
+1024,2023-08-24,Cholesterol Med,5,79.91,Cash,West,Prescription,399.54999999999995,315.98,83.56999999999994
+1025,2023-11-30,Blood Pressure Med,3,46.27,Cash,East,Prescription,138.81,86.29,52.519999999999996
+1026,2023-05-17,Sleep Aid Tablets,2,80.0,Cash,South,Sleep Aid,160.0,90.01,69.99
+1027,2023-03-17,Blood Pressure Med,4,127.99,Cash,South,Prescription,511.96,377.4,134.56
+1028,2023-02-04,Nasal Spray,1,104.35,Insurance,North,Cold & Flu,104.35,75.0,29.349999999999994
+1029,2023-01-01,Cholesterol Med,4,47.06,Insurance,East,Prescription,188.24,126.24,62.000000000000014
+1030,2023-10-23,Allergy Relief,1,34.21,Cash,North,Allergy,34.21,25.42,8.79
+1031,2023-11-16,Pain Relief Gel,1,43.46,Cash,East,Pain Relief,43.46,31.08,12.380000000000003
+1032,2023-03-01,Ibuprofen 200mg,5,29.62,Cash,South,Pain Relief,148.1,92.59,55.50999999999999
+1033,2023-11-16,Ibuprofen 200mg,1,18.87,Insurance,North,Pain Relief,18.87,12.63,6.24
+1034,2023-12-15,Allergy Relief,1,65.77,Insurance,North,Allergy,65.77,44.62,21.15
+1035,2023-11-24,Vitamin D3 1000IU,3,21.43,Insurance,East,Vitamins,64.28999999999999,52.34,11.949999999999989
+1036,2023-09-24,Vitamin D3 1000IU,4,29.93,Cash,West,Vitamins,119.72,100.36,19.36
+1037,2023-12-27,Sleep Aid Tablets,3,84.36,Insurance,East,Sleep Aid,253.07999999999998,206.99,46.089999999999975
+1038,2023-08-17,Blood Pressure Med,1,28.87,Insurance,West,Prescription,28.87,22.11,6.760000000000002
+1039,2023-09-27,Sleep Aid Tablets,5,14.26,Insurance,East,Sleep Aid,71.3,51.73,19.57
+1040,2023-11-12,Allergy Relief,3,51.02,Insurance,South,Allergy,153.06,115.83,37.230000000000004
+1041,2023-10-13,Sleep Aid Tablets,3,36.95,Insurance,North,Sleep Aid,110.85000000000001,92.2,18.650000000000006
+1042,2023-10-18,Baby Aspirin,2,79.72,Cash,East,Pain Relief,159.44,99.65,59.78999999999999
+1043,2023-08-01,Cholesterol Med,1,19.84,Cash,South,Prescription,19.84,14.1,5.74
+1044,2023-06-14,Blood Pressure Med,5,114.01,Cash,East,Prescription,570.0500000000001,431.46,138.5900000000001
+1045,2023-01-05,Insulin Pen,3,136.4,Cash,North,Prescription,409.20000000000005,308.44,100.76000000000005
+1046,2023-12-05,Nasal Spray,3,112.8,Insurance,East,Cold & Flu,338.4,211.73,126.66999999999999
+1047,2023-03-19,Antihistamine,5,82.26,Cash,West,Allergy,411.3,298.61,112.69
+1048,2023-03-03,Cough Syrup,1,129.8,Cash,North,Cold & Flu,129.8,102.38,27.420000000000016
+1049,2023-05-12,Nasal Spray,2,105.76,Cash,West,Cold & Flu,211.52,146.48,65.04000000000002
+1050,2023-03-30,Vitamin D3 1000IU,3,6.53,Insurance,South,Vitamins,19.59,15.44,4.15
+1051,2023-08-25,Pain Relief Gel,2,62.14,Cash,South,Pain Relief,124.28,81.77,42.510000000000005
+1052,2023-02-11,Antihistamine,4,128.39,Insurance,East,Allergy,513.56,427.09,86.46999999999997
+1053,2023-03-30,Acetaminophen 500mg,1,55.15,Insurance,West,Pain Relief,55.15,39.17,15.979999999999997
+1054,2023-10-23,Amoxicillin 500mg,4,10.11,Insurance,West,Prescription,40.44,29.47,10.969999999999999
+1055,2023-11-24,Pain Relief Gel,4,113.2,Cash,North,Pain Relief,452.8,253.3,199.5
+1056,2023-10-22,Blood Pressure Med,4,121.3,Insurance,West,Prescription,485.2,291.64,193.56
+1057,2023-04-14,Ibuprofen 200mg,1,28.29,Cash,West,Pain Relief,28.29,20.93,7.359999999999999
+1058,2023-01-14,Baby Aspirin,1,82.91,Cash,North,Pain Relief,82.91,56.04,26.869999999999997
+1059,2023-10-15,Baby Aspirin,5,32.83,Cash,North,Pain Relief,164.14999999999998,115.31,48.839999999999975
+1060,2023-06-28,Allergy Relief,2,109.29,Insurance,West,Allergy,218.58,124.35,94.23000000000002
+1061,2023-05-05,Pain Relief Gel,2,44.37,Insurance,East,Pain Relief,88.74,71.01,17.72999999999999
+1062,2023-12-19,Allergy Relief,5,50.85,Cash,North,Allergy,254.25,199.68,54.56999999999999
+1063,2023-01-23,Ibuprofen 200mg,5,127.52,Insurance,North,Pain Relief,637.6,386.13,251.47000000000003
+1064,2023-03-04,Blood Pressure Med,4,74.07,Insurance,West,Prescription,296.28,219.34,76.93999999999997
+1065,2023-05-23,Pain Relief Gel,5,102.11,Insurance,West,Pain Relief,510.55,406.14,104.41000000000003
+1066,2023-06-02,Amoxicillin 500mg,3,63.34,Cash,North,Prescription,190.02,141.04,48.98000000000002
+1067,2023-05-25,Cough Syrup,2,48.21,Insurance,West,Cold & Flu,96.42,62.01,34.410000000000004
+1068,2023-08-13,Amoxicillin 500mg,5,95.69,Insurance,North,Prescription,478.45,357.32,121.13
+1069,2023-11-05,Antihistamine,3,27.45,Cash,East,Allergy,82.35,50.49,31.859999999999992
+1070,2023-04-14,Amoxicillin 500mg,3,59.08,Insurance,East,Prescription,177.24,114.4,62.84
+1071,2023-04-14,Baby Aspirin,3,35.31,Cash,North,Pain Relief,105.93,65.89,40.040000000000006
+1072,2023-02-08,Antihistamine,3,105.89,Insurance,North,Allergy,317.67,227.79,89.88000000000002
+1073,2023-07-17,Amoxicillin 500mg,4,141.91,Insurance,South,Prescription,567.64,330.63,237.01
+1074,2023-05-14,Cough Syrup,3,149.35,Insurance,South,Cold & Flu,448.04999999999995,371.88,76.16999999999996
+1075,2023-03-08,Pain Relief Gel,4,70.29,Insurance,West,Pain Relief,281.16,182.77,98.39000000000001
+1076,2023-06-28,Cough Syrup,4,41.62,Insurance,West,Cold & Flu,166.48,102.5,63.97999999999999
+1077,2023-02-11,Vitamin D3 1000IU,3,69.21,Insurance,North,Vitamins,207.63,145.13,62.5
+1078,2023-01-15,Ibuprofen 200mg,2,127.85,Cash,North,Pain Relief,255.7,161.88,93.82
+1079,2023-04-21,Cough Syrup,3,34.87,Insurance,South,Cold & Flu,104.60999999999999,74.32,30.289999999999992
+1080,2023-06-06,Antihistamine,3,143.05,Insurance,South,Allergy,429.15000000000003,280.9,148.25000000000006
+1081,2023-10-16,Cough Syrup,3,54.57,Insurance,North,Cold & Flu,163.71,96.53,67.18
+1082,2023-08-19,Vitamin D3 1000IU,2,147.94,Cash,East,Vitamins,295.88,186.34,109.53999999999999
+1083,2023-06-06,Allergy Relief,1,126.6,Cash,East,Allergy,126.6,86.28,40.31999999999999
+1084,2023-02-07,Antihistamine,1,122.24,Cash,West,Allergy,122.24,68.34,53.89999999999999
+1085,2023-04-07,Vitamin D3 1000IU,4,51.1,Insurance,North,Vitamins,204.4,159.68,44.72
+1086,2023-10-16,Baby Aspirin,4,6.27,Insurance,North,Pain Relief,25.08,18.47,6.609999999999999
+1087,2023-09-11,Insulin Pen,2,60.41,Cash,West,Prescription,120.82,88.25,32.56999999999999
+1088,2023-07-15,Insulin Pen,5,48.76,Cash,South,Prescription,243.79999999999998,174.03,69.76999999999998
+1089,2023-03-27,Acetaminophen 500mg,1,10.42,Cash,South,Pain Relief,10.42,7.58,2.84
+1090,2023-11-18,Amoxicillin 500mg,4,78.28,Insurance,East,Prescription,313.12,260.01,53.110000000000014
+1091,2023-01-10,Ibuprofen 200mg,1,63.44,Cash,North,Pain Relief,63.44,35.06,28.379999999999995
+1092,2023-01-05,Antacid Tablets,2,97.01,Insurance,South,Digestive Health,194.02,109.49,84.53000000000002
+1093,2023-05-03,Nasal Spray,2,95.07,Insurance,East,Cold & Flu,190.14,115.5,74.63999999999999
+1094,2023-11-26,Vitamin D3 1000IU,5,22.51,Insurance,East,Vitamins,112.55000000000001,67.55,45.000000000000014
+1095,2023-12-19,Allergy Relief,5,146.66,Cash,East,Allergy,733.3,443.18,290.11999999999995
+1096,2023-04-28,Nasal Spray,2,32.11,Insurance,South,Cold & Flu,64.22,48.27,15.949999999999996
+1097,2023-10-21,Allergy Relief,4,69.56,Cash,South,Allergy,278.24,191.39,86.85000000000002
+1098,2023-06-08,Baby Aspirin,1,75.78,Cash,North,Pain Relief,75.78,64.23,11.549999999999997
+1099,2023-10-30,Cholesterol Med,3,122.89,Cash,North,Prescription,368.67,227.86,140.81
+1100,2023-08-16,Cholesterol Med,5,19.39,Cash,East,Prescription,96.95,62.36,34.59
+1101,2023-12-31,Cholesterol Med,3,67.15,Insurance,East,Prescription,201.45000000000002,170.28,31.170000000000016
+1102,2023-08-04,Nasal Spray,4,96.13,Insurance,South,Cold & Flu,384.52,307.43,77.08999999999997
+1103,2023-07-03,Sleep Aid Tablets,5,36.2,Insurance,South,Sleep Aid,181.0,125.06,55.94
+1104,2023-01-15,Vitamin D3 1000IU,3,95.98,Insurance,North,Vitamins,287.94,206.27,81.66999999999999
+1105,2023-06-06,Antacid Tablets,4,138.93,Cash,North,Digestive Health,555.72,446.22,109.5
+1106,2023-05-16,Nasal Spray,1,149.64,Cash,West,Cold & Flu,149.64,103.89,45.749999999999986
+1107,2023-09-18,Vitamin D3 1000IU,4,9.71,Cash,North,Vitamins,38.84,23.76,15.080000000000002
+1108,2023-06-06,Cough Syrup,5,39.16,Cash,South,Cold & Flu,195.79999999999998,156.35,39.44999999999999
+1109,2023-02-16,Baby Aspirin,2,49.99,Insurance,East,Pain Relief,99.98,71.12,28.86
+1110,2023-11-20,Antacid Tablets,1,62.87,Cash,West,Digestive Health,62.87,37.47,25.4
+1111,2023-11-28,Cholesterol Med,3,40.13,Insurance,North,Prescription,120.39000000000001,84.47,35.920000000000016
+1112,2023-06-22,Antihistamine,5,34.51,Cash,North,Allergy,172.54999999999998,116.29,56.25999999999998
+1113,2023-05-10,Baby Aspirin,2,143.41,Cash,South,Pain Relief,286.82,233.2,53.620000000000005
+1114,2023-04-05,Allergy Relief,4,138.19,Cash,West,Allergy,552.76,324.92,227.83999999999997
+1115,2023-04-25,Cholesterol Med,2,11.81,Cash,North,Prescription,23.62,19.19,4.43
+1116,2023-08-31,Insulin Pen,5,54.13,Insurance,East,Prescription,270.65000000000003,190.45,80.20000000000005
+1117,2023-10-19,Amoxicillin 500mg,5,63.75,Insurance,South,Prescription,318.75,213.98,104.77000000000001
+1118,2023-10-09,Insulin Pen,2,39.66,Insurance,West,Prescription,79.32,47.48,31.839999999999996
+1119,2023-10-26,Cholesterol Med,4,96.19,Insurance,North,Prescription,384.76,292.51,92.25
+1120,2023-10-10,Baby Aspirin,2,97.86,Cash,North,Pain Relief,195.72,162.06,33.66
+1121,2023-03-10,Antacid Tablets,5,128.32,Cash,West,Digestive Health,641.5999999999999,425.13,216.4699999999999
+1122,2023-05-28,Antihistamine,5,112.43,Insurance,South,Allergy,562.1500000000001,349.92,212.23000000000008
+1123,2023-01-11,Allergy Relief,3,83.67,Insurance,West,Allergy,251.01,179.84,71.16999999999999
+1124,2023-09-11,Sleep Aid Tablets,3,99.77,Cash,West,Sleep Aid,299.31,236.11,63.19999999999999
+1125,2023-11-26,Antihistamine,1,44.73,Cash,South,Allergy,44.73,24.65,20.08
+1126,2023-12-26,Nasal Spray,5,90.99,Insurance,North,Cold & Flu,454.95,336.4,118.55000000000001
+1127,2023-02-07,Pain Relief Gel,3,75.94,Insurance,East,Pain Relief,227.82,166.07,61.75
+1128,2023-05-14,Allergy Relief,2,24.33,Insurance,South,Allergy,48.66,31.41,17.249999999999996
+1129,2023-07-19,Cholesterol Med,4,40.17,Cash,East,Prescription,160.68,110.13,50.55000000000001
+1130,2023-01-23,Nasal Spray,2,47.3,Insurance,North,Cold & Flu,94.6,59.04,35.559999999999995
+1131,2023-10-30,Pain Relief Gel,4,139.02,Insurance,West,Pain Relief,556.08,437.62,118.46000000000004
+1132,2023-12-12,Vitamin D3 1000IU,3,38.41,Insurance,East,Vitamins,115.22999999999999,85.31,29.919999999999987
+1133,2023-10-29,Antacid Tablets,1,46.94,Insurance,North,Digestive Health,46.94,33.32,13.619999999999997
+1134,2023-12-29,Blood Pressure Med,2,58.56,Insurance,North,Prescription,117.12,78.21,38.91000000000001
+1135,2023-08-06,Vitamin D3 1000IU,2,101.24,Cash,West,Vitamins,202.48,129.06,73.41999999999999
+1136,2023-05-21,Acetaminophen 500mg,2,22.14,Insurance,West,Pain Relief,44.28,35.28,9.0
+1137,2023-04-14,Antihistamine,4,143.32,Cash,North,Allergy,573.28,392.94,180.33999999999997
+1138,2023-07-29,Blood Pressure Med,3,130.51,Insurance,North,Prescription,391.53,274.24,117.28999999999996
+1139,2023-04-21,Nasal Spray,2,88.7,Insurance,East,Cold & Flu,177.4,125.29,52.11
+1140,2023-04-14,Cough Syrup,2,102.74,Insurance,North,Cold & Flu,205.48,140.65,64.82999999999998
+1141,2023-11-12,Vitamin D3 1000IU,1,7.42,Cash,North,Vitamins,7.42,4.65,2.7699999999999996
+1142,2023-06-20,Acetaminophen 500mg,1,54.15,Cash,East,Pain Relief,54.15,31.74,22.41
+1143,2023-12-22,Ibuprofen 200mg,3,120.37,Cash,South,Pain Relief,361.11,209.29,151.82000000000002
+1144,2023-11-20,Blood Pressure Med,3,16.24,Insurance,East,Prescription,48.72,37.87,10.850000000000001
+1145,2023-05-13,Insulin Pen,5,45.94,Insurance,East,Prescription,229.7,141.74,87.95999999999998
+1146,2023-10-20,Allergy Relief,1,89.87,Cash,West,Allergy,89.87,50.93,38.940000000000005
+1147,2023-11-24,Sleep Aid Tablets,5,42.18,Cash,East,Sleep Aid,210.9,166.45,44.45000000000002
+1148,2023-05-07,Sleep Aid Tablets,4,140.43,Insurance,North,Sleep Aid,561.72,334.91,226.81
+1149,2023-04-16,Acetaminophen 500mg,5,24.0,Cash,North,Pain Relief,120.0,88.51,31.489999999999995
+1150,2023-04-02,Antacid Tablets,2,120.62,Insurance,North,Digestive Health,241.24,157.19,84.05000000000001
+1151,2023-10-14,Blood Pressure Med,5,78.65,Cash,South,Prescription,393.25,231.21,162.04
+1152,2023-02-20,Vitamin D3 1000IU,3,113.8,Cash,North,Vitamins,341.4,230.22,111.17999999999998
+1153,2023-01-29,Antacid Tablets,4,50.05,Cash,South,Digestive Health,200.2,111.0,89.19999999999999
+1154,2023-10-23,Sleep Aid Tablets,2,79.6,Insurance,North,Sleep Aid,159.2,127.73,31.469999999999985
+1155,2023-10-24,Insulin Pen,5,129.24,Insurance,East,Prescription,646.2,454.96,191.24000000000007
+1156,2023-08-02,Cough Syrup,4,72.7,Cash,West,Cold & Flu,290.8,172.08,118.72
+1157,2023-09-24,Antihistamine,4,57.16,Insurance,North,Allergy,228.64,142.01,86.63
+1158,2023-09-14,Antihistamine,2,82.74,Insurance,South,Allergy,165.48,113.25,52.22999999999999
+1159,2023-10-29,Cholesterol Med,5,109.02,Insurance,South,Prescription,545.1,330.69,214.41000000000003
+1160,2023-04-11,Antacid Tablets,4,69.32,Insurance,West,Digestive Health,277.28,174.85,102.42999999999998
+1161,2023-12-12,Baby Aspirin,4,141.14,Cash,North,Pain Relief,564.56,401.02,163.53999999999996
+1162,2023-04-20,Nasal Spray,1,47.77,Insurance,East,Cold & Flu,47.77,38.21,9.560000000000002
+1163,2023-07-01,Cough Syrup,4,73.94,Insurance,North,Cold & Flu,295.76,198.32,97.44
+1164,2023-11-09,Antihistamine,1,114.75,Cash,North,Allergy,114.75,87.79,26.959999999999994
+1165,2023-01-01,Cough Syrup,5,104.92,Insurance,West,Cold & Flu,524.6,426.5,98.10000000000002
+1166,2023-11-15,Acetaminophen 500mg,5,130.23,Insurance,North,Pain Relief,651.15,400.39,250.76
+1167,2023-02-24,Cough Syrup,5,149.54,Insurance,East,Cold & Flu,747.6999999999999,592.3,155.39999999999998
+1168,2023-05-29,Amoxicillin 500mg,3,66.89,Cash,South,Prescription,200.67000000000002,155.96,44.71000000000001
+1169,2023-11-05,Insulin Pen,5,21.12,Cash,West,Prescription,105.60000000000001,69.39,36.21000000000001
+1170,2023-05-17,Antihistamine,4,9.41,Insurance,East,Allergy,37.64,31.88,5.760000000000002
+1171,2023-07-21,Cough Syrup,2,110.4,Insurance,South,Cold & Flu,220.8,138.83,81.97
+1172,2023-11-09,Antacid Tablets,1,131.73,Cash,West,Digestive Health,131.73,82.52,49.209999999999994
+1173,2023-04-27,Ibuprofen 200mg,3,37.0,Cash,West,Pain Relief,111.0,86.77,24.230000000000004
+1174,2023-06-03,Amoxicillin 500mg,5,27.97,Cash,South,Prescription,139.85,95.15,44.69999999999999
+1175,2023-10-18,Amoxicillin 500mg,5,14.02,Insurance,South,Prescription,70.1,45.51,24.589999999999996
+1176,2023-03-04,Nasal Spray,2,124.29,Insurance,East,Cold & Flu,248.58,150.04,98.54000000000002
+1177,2023-09-01,Cough Syrup,2,50.15,Cash,North,Cold & Flu,100.3,78.19,22.11
+1178,2023-01-25,Cholesterol Med,3,63.25,Insurance,North,Prescription,189.75,149.12,40.629999999999995
+1179,2023-03-31,Nasal Spray,1,77.9,Insurance,North,Cold & Flu,77.9,56.09,21.810000000000002
+1180,2023-03-16,Pain Relief Gel,5,126.72,Insurance,North,Pain Relief,633.6,530.45,103.14999999999998
+1181,2023-10-21,Nasal Spray,3,99.37,Insurance,North,Cold & Flu,298.11,192.41,105.70000000000002
+1182,2023-07-29,Ibuprofen 200mg,4,94.18,Insurance,East,Pain Relief,376.72,232.02,144.70000000000002
+1183,2023-12-13,Acetaminophen 500mg,4,30.47,Insurance,West,Pain Relief,121.88,91.8,30.08
+1184,2023-01-17,Cough Syrup,3,79.41,Insurance,East,Cold & Flu,238.23,185.23,53.0
+1185,2023-05-08,Vitamin D3 1000IU,5,108.73,Cash,East,Vitamins,543.65,335.69,207.95999999999998
+1186,2023-12-30,Sleep Aid Tablets,3,146.12,Cash,East,Sleep Aid,438.36,251.17,187.19000000000003
+1187,2023-09-08,Antihistamine,5,34.2,Cash,West,Allergy,171.0,135.63,35.370000000000005
+1188,2023-06-28,Nasal Spray,2,6.38,Cash,East,Cold & Flu,12.76,10.76,2.0
+1189,2023-07-01,Insulin Pen,3,15.92,Cash,East,Prescription,47.76,35.5,12.259999999999998
+1190,2023-06-01,Allergy Relief,5,59.5,Cash,West,Allergy,297.5,188.42,109.08000000000001
+1191,2023-01-25,Insulin Pen,3,123.98,Cash,East,Prescription,371.94,315.78,56.160000000000025
+1192,2023-06-29,Ibuprofen 200mg,3,6.04,Cash,North,Pain Relief,18.12,14.82,3.3000000000000007
+1193,2023-07-17,Ibuprofen 200mg,5,71.23,Cash,South,Pain Relief,356.15000000000003,250.73,105.42000000000004
+1194,2023-12-10,Antacid Tablets,5,52.74,Insurance,East,Digestive Health,263.7,210.33,53.369999999999976
+1195,2023-06-10,Pain Relief Gel,1,12.61,Insurance,South,Pain Relief,12.61,10.02,2.59
+1196,2023-06-26,Pain Relief Gel,3,70.28,Cash,East,Pain Relief,210.84,175.09,35.75
+1197,2023-10-12,Acetaminophen 500mg,4,41.94,Insurance,East,Pain Relief,167.76,134.59,33.16999999999999
+1198,2023-03-04,Cholesterol Med,3,56.02,Insurance,North,Prescription,168.06,124.89,43.17
+1199,2023-05-30,Antihistamine,3,107.31,Cash,West,Allergy,321.93,235.91,86.02000000000001
+1200,2023-06-03,Blood Pressure Med,5,80.62,Cash,South,Prescription,403.1,278.22,124.88
+1201,2023-06-05,Nasal Spray,3,23.07,Cash,West,Cold & Flu,69.21000000000001,51.07,18.140000000000008
+1202,2023-02-18,Insulin Pen,3,144.41,Insurance,North,Prescription,433.23,341.63,91.60000000000002
+1203,2023-12-03,Allergy Relief,4,97.21,Insurance,North,Allergy,388.84,326.9,61.94
+1204,2023-03-25,Ibuprofen 200mg,5,116.05,Cash,South,Pain Relief,580.25,400.48,179.76999999999998
+1205,2023-12-27,Ibuprofen 200mg,3,16.49,Insurance,West,Pain Relief,49.47,35.72,13.75
+1206,2023-06-26,Acetaminophen 500mg,2,11.82,Insurance,North,Pain Relief,23.64,16.16,7.48
+1207,2023-05-28,Allergy Relief,1,7.82,Insurance,East,Allergy,7.82,5.87,1.9500000000000002
+1208,2023-04-28,Baby Aspirin,4,32.38,Cash,East,Pain Relief,129.52,95.71,33.81000000000002
+1209,2023-12-08,Allergy Relief,3,65.09,Insurance,East,Allergy,195.27,108.44,86.83000000000001
+1210,2023-03-04,Acetaminophen 500mg,2,140.69,Insurance,West,Pain Relief,281.38,200.44,80.94
+1211,2023-07-08,Ibuprofen 200mg,3,71.27,Insurance,East,Pain Relief,213.81,123.27,90.54
+1212,2023-12-26,Antihistamine,3,47.09,Insurance,East,Allergy,141.27,78.82,62.45000000000002
+1213,2023-02-18,Cough Syrup,5,86.48,Insurance,North,Cold & Flu,432.40000000000003,340.45,91.95000000000005
+1214,2023-11-23,Cough Syrup,5,21.23,Insurance,North,Cold & Flu,106.15,66.62,39.53
+1215,2023-09-14,Acetaminophen 500mg,5,93.38,Insurance,East,Pain Relief,466.9,304.51,162.39
+1216,2023-08-12,Allergy Relief,2,87.42,Cash,East,Allergy,174.84,99.52,75.32000000000001
+1217,2023-05-21,Nasal Spray,3,119.84,Cash,North,Cold & Flu,359.52,217.1,142.42
+1218,2023-08-03,Acetaminophen 500mg,1,148.07,Insurance,South,Pain Relief,148.07,115.45,32.61999999999999
+1219,2023-07-30,Antihistamine,4,41.38,Cash,West,Allergy,165.52,115.54,49.980000000000004
+1220,2023-11-14,Acetaminophen 500mg,5,78.9,Insurance,West,Pain Relief,394.5,321.2,73.30000000000001
+1221,2023-02-01,Amoxicillin 500mg,5,136.79,Insurance,North,Prescription,683.9499999999999,457.68,226.26999999999992
+1222,2023-06-07,Pain Relief Gel,3,118.85,Insurance,West,Pain Relief,356.54999999999995,224.84,131.70999999999995
+1223,2023-10-12,Insulin Pen,3,75.67,Cash,North,Prescription,227.01,148.53,78.47999999999999
+1224,2023-11-01,Allergy Relief,2,142.08,Insurance,North,Allergy,284.16,217.05,67.11000000000001
+1225,2023-10-13,Cholesterol Med,2,13.3,Insurance,North,Prescription,26.6,19.06,7.540000000000003
+1226,2023-05-24,Antacid Tablets,5,139.99,Cash,North,Digestive Health,699.95,574.84,125.11000000000001
+1227,2023-01-19,Sleep Aid Tablets,3,12.32,Cash,South,Sleep Aid,36.96,27.0,9.96
+1228,2023-01-18,Antacid Tablets,1,84.36,Insurance,East,Digestive Health,84.36,58.88,25.479999999999997
+1229,2023-09-14,Allergy Relief,4,134.11,Cash,East,Allergy,536.44,421.49,114.95000000000005
+1230,2023-03-19,Cholesterol Med,3,43.09,Cash,South,Prescription,129.27,107.84,21.430000000000007
+1231,2023-06-24,Blood Pressure Med,3,73.48,Insurance,West,Prescription,220.44,144.77,75.66999999999999
+1232,2023-07-13,Antihistamine,2,52.03,Insurance,West,Allergy,104.06,65.03,39.03
+1233,2023-04-23,Amoxicillin 500mg,4,143.06,Insurance,East,Prescription,572.24,420.52,151.72000000000003
+1234,2023-04-24,Amoxicillin 500mg,5,124.43,Cash,West,Prescription,622.1500000000001,435.29,186.86000000000007
+1235,2023-08-10,Sleep Aid Tablets,3,107.81,Cash,East,Sleep Aid,323.43,273.87,49.56
+1236,2023-06-15,Ibuprofen 200mg,5,90.21,Cash,East,Pain Relief,451.04999999999995,310.64,140.40999999999997
+1237,2023-11-15,Insulin Pen,3,123.99,Insurance,South,Prescription,371.96999999999997,212.88,159.08999999999997
+1238,2023-05-12,Cough Syrup,5,61.88,Cash,West,Cold & Flu,309.40000000000003,260.89,48.51000000000005
+1239,2023-09-21,Vitamin D3 1000IU,4,69.9,Cash,South,Vitamins,279.6,224.54,55.06000000000003
+1240,2023-02-24,Antihistamine,2,110.85,Insurance,East,Allergy,221.7,133.79,87.91
+1241,2023-12-25,Sleep Aid Tablets,4,56.87,Insurance,East,Sleep Aid,227.48,186.85,40.629999999999995
+1242,2023-05-11,Vitamin D3 1000IU,1,14.27,Insurance,East,Vitamins,14.27,9.31,4.959999999999999
+1243,2023-10-15,Baby Aspirin,2,15.78,Cash,North,Pain Relief,31.56,20.93,10.629999999999999
+1244,2023-09-23,Vitamin D3 1000IU,4,21.73,Insurance,North,Vitamins,86.92,71.44,15.480000000000004
+1245,2023-06-11,Allergy Relief,1,131.1,Cash,North,Allergy,131.1,92.95,38.14999999999999
+1246,2023-03-28,Sleep Aid Tablets,3,73.47,Cash,South,Sleep Aid,220.41,130.33,90.07999999999998
+1247,2023-02-24,Antacid Tablets,3,108.37,Insurance,East,Digestive Health,325.11,214.81,110.30000000000001
+1248,2023-10-15,Antacid Tablets,5,61.97,Insurance,West,Digestive Health,309.85,237.54,72.31000000000003
+1249,2023-06-27,Cough Syrup,2,42.51,Insurance,South,Cold & Flu,85.02,51.2,33.81999999999999
+1250,2023-12-15,Sleep Aid Tablets,3,55.34,Insurance,South,Sleep Aid,166.02,120.71,45.31000000000002
+1251,2023-01-08,Allergy Relief,2,120.16,Insurance,South,Allergy,240.32,182.3,58.01999999999998
+1252,2023-11-17,Vitamin D3 1000IU,3,95.66,Cash,West,Vitamins,286.98,187.44,99.54000000000002
+1253,2023-11-09,Cholesterol Med,5,140.96,Cash,East,Prescription,704.8000000000001,534.35,170.45000000000005
+1254,2023-09-04,Baby Aspirin,4,103.56,Cash,North,Pain Relief,414.24,337.71,76.53000000000003
+1255,2023-11-19,Blood Pressure Med,5,87.68,Insurance,East,Prescription,438.40000000000003,303.21,135.19000000000005
+1256,2023-09-12,Pain Relief Gel,1,93.48,Cash,East,Pain Relief,93.48,62.15,31.330000000000005
+1257,2023-11-24,Nasal Spray,3,141.64,Insurance,South,Cold & Flu,424.91999999999996,265.72,159.19999999999993
+1258,2023-02-23,Antacid Tablets,1,119.29,Insurance,South,Digestive Health,119.29,87.23,32.06
+1259,2023-09-06,Antihistamine,1,8.49,Cash,South,Allergy,8.49,6.91,1.58
+1260,2023-08-27,Cholesterol Med,2,82.45,Cash,North,Prescription,164.9,106.76,58.14
+1261,2023-08-17,Antihistamine,3,104.81,Insurance,North,Allergy,314.43,210.31,104.12
+1262,2023-03-08,Ibuprofen 200mg,1,113.56,Cash,North,Pain Relief,113.56,76.31,37.25
+1263,2023-02-20,Sleep Aid Tablets,4,35.91,Insurance,East,Sleep Aid,143.64,103.17,40.469999999999985
+1264,2023-04-07,Acetaminophen 500mg,1,130.74,Cash,South,Pain Relief,130.74,80.87,49.870000000000005
+1265,2023-04-02,Nasal Spray,4,143.6,Cash,West,Cold & Flu,574.4,457.6,116.79999999999995
+1266,2023-09-21,Antacid Tablets,2,39.32,Cash,East,Digestive Health,78.64,50.23,28.410000000000004
+1267,2023-10-18,Baby Aspirin,1,132.98,Cash,North,Pain Relief,132.98,101.28,31.69999999999999
+1268,2023-04-06,Amoxicillin 500mg,5,19.06,Cash,West,Prescription,95.3,67.09,28.209999999999994
+1269,2023-03-29,Antacid Tablets,2,13.08,Insurance,West,Digestive Health,26.16,18.99,7.170000000000002
+1270,2023-03-19,Cholesterol Med,4,23.74,Cash,South,Prescription,94.96,57.34,37.61999999999999
+1271,2023-10-15,Ibuprofen 200mg,2,13.37,Cash,West,Pain Relief,26.74,20.6,6.139999999999997
+1272,2023-04-30,Antihistamine,1,127.53,Cash,North,Allergy,127.53,77.36,50.17
+1273,2023-10-29,Vitamin D3 1000IU,3,13.56,Insurance,South,Vitamins,40.68,23.76,16.919999999999998
+1274,2023-06-14,Amoxicillin 500mg,3,44.39,Insurance,West,Prescription,133.17000000000002,95.08,38.09000000000002
+1275,2023-07-01,Allergy Relief,4,20.04,Insurance,South,Allergy,80.16,61.15,19.009999999999998
+1276,2023-08-11,Insulin Pen,4,47.84,Insurance,West,Prescription,191.36,108.12,83.24000000000001
+1277,2023-11-07,Vitamin D3 1000IU,3,18.13,Insurance,East,Vitamins,54.39,31.05,23.34
+1278,2023-01-07,Insulin Pen,4,101.86,Cash,East,Prescription,407.44,322.21,85.23000000000002
+1279,2023-11-26,Nasal Spray,2,24.33,Cash,North,Cold & Flu,48.66,38.57,10.089999999999996
+1280,2023-09-20,Blood Pressure Med,5,128.52,Cash,East,Prescription,642.6,400.72,241.88
+1281,2023-06-10,Acetaminophen 500mg,5,123.49,Insurance,East,Pain Relief,617.4499999999999,453.56,163.88999999999993
+1282,2023-05-31,Blood Pressure Med,2,6.98,Insurance,East,Prescription,13.96,9.53,4.4300000000000015
+1283,2023-03-26,Amoxicillin 500mg,5,134.88,Cash,West,Prescription,674.4,498.93,175.46999999999997
+1284,2023-05-27,Cough Syrup,1,9.2,Insurance,West,Cold & Flu,9.2,7.44,1.759999999999999
+1285,2023-04-22,Amoxicillin 500mg,2,39.75,Insurance,South,Prescription,79.5,45.63,33.87
+1286,2023-02-05,Blood Pressure Med,4,9.7,Insurance,West,Prescription,38.8,30.4,8.399999999999999
+1287,2023-10-12,Antacid Tablets,2,53.7,Cash,East,Digestive Health,107.4,74.96,32.44000000000001
+1288,2023-07-07,Cholesterol Med,3,79.51,Cash,West,Prescription,238.53000000000003,171.56,66.97000000000003
+1289,2023-03-23,Antihistamine,4,120.51,Insurance,North,Allergy,482.04,359.69,122.35000000000002
+1290,2023-01-02,Antacid Tablets,3,54.01,Insurance,South,Digestive Health,162.03,133.96,28.069999999999993
+1291,2023-10-30,Antacid Tablets,4,107.3,Insurance,South,Digestive Health,429.2,243.36,185.83999999999997
+1292,2023-07-16,Cholesterol Med,5,32.19,Insurance,West,Prescription,160.95,89.95,70.99999999999999
+1293,2023-01-11,Cholesterol Med,2,113.84,Cash,East,Prescription,227.68,137.4,90.28
+1294,2023-08-22,Nasal Spray,1,39.22,Insurance,South,Cold & Flu,39.22,33.18,6.039999999999999
+1295,2023-07-14,Vitamin D3 1000IU,4,25.81,Cash,North,Vitamins,103.24,78.93,24.309999999999988
+1296,2023-04-29,Cough Syrup,4,31.88,Cash,North,Cold & Flu,127.52,93.65,33.86999999999999
+1297,2023-01-20,Cough Syrup,3,31.4,Cash,South,Cold & Flu,94.19999999999999,53.14,41.05999999999999
+1298,2023-09-18,Antacid Tablets,5,79.37,Insurance,East,Digestive Health,396.85,322.93,73.92000000000002
+1299,2023-10-20,Insulin Pen,3,127.5,Cash,East,Prescription,382.5,303.64,78.86000000000001
+1300,2023-09-13,Nasal Spray,3,16.54,Cash,West,Cold & Flu,49.62,37.19,12.43
+1301,2023-08-10,Sleep Aid Tablets,5,107.51,Insurance,West,Sleep Aid,537.5500000000001,350.34,187.2100000000001
+1302,2023-08-14,Sleep Aid Tablets,1,99.88,Insurance,South,Sleep Aid,99.88,57.05,42.83
+1303,2023-02-22,Baby Aspirin,3,131.52,Insurance,West,Pain Relief,394.56000000000006,285.67,108.89000000000004
+1304,2023-12-21,Antacid Tablets,3,40.4,Cash,West,Digestive Health,121.19999999999999,92.83,28.36999999999999
+1305,2023-12-08,Acetaminophen 500mg,4,70.27,Insurance,West,Pain Relief,281.08,162.54,118.53999999999999
+1306,2023-12-30,Antihistamine,5,139.24,Cash,North,Allergy,696.2,515.28,180.92000000000007
+1307,2023-10-07,Cholesterol Med,2,100.7,Cash,West,Prescription,201.4,128.07,73.33000000000001
+1308,2023-03-22,Vitamin D3 1000IU,1,61.37,Insurance,South,Vitamins,61.37,47.82,13.549999999999997
+1309,2023-07-21,Allergy Relief,1,24.05,Cash,East,Allergy,24.05,17.12,6.93
+1310,2023-06-07,Cholesterol Med,5,43.06,Cash,West,Prescription,215.3,126.75,88.55000000000001
+1311,2023-04-30,Acetaminophen 500mg,4,89.28,Cash,East,Pain Relief,357.12,252.83,104.28999999999999
+1312,2023-02-28,Insulin Pen,4,109.13,Cash,West,Prescription,436.52,291.91,144.60999999999996
+1313,2023-08-03,Amoxicillin 500mg,5,23.04,Insurance,South,Prescription,115.19999999999999,69.59,45.609999999999985
+1314,2023-05-08,Pain Relief Gel,4,91.94,Cash,North,Pain Relief,367.76,295.11,72.64999999999998
+1315,2023-08-12,Amoxicillin 500mg,1,84.8,Insurance,South,Prescription,84.8,46.92,37.879999999999995
+1316,2023-07-28,Blood Pressure Med,1,79.52,Cash,North,Prescription,79.52,51.18,28.339999999999996
+1317,2023-04-25,Acetaminophen 500mg,2,105.07,Cash,West,Pain Relief,210.14,116.37,93.76999999999998
+1318,2023-07-28,Blood Pressure Med,5,126.43,Insurance,West,Prescription,632.1500000000001,365.89,266.2600000000001
+1319,2023-01-14,Antacid Tablets,3,51.83,Cash,North,Digestive Health,155.49,99.38,56.110000000000014
+1320,2023-01-09,Allergy Relief,3,133.91,Cash,South,Allergy,401.73,227.49,174.24
+1321,2023-02-09,Ibuprofen 200mg,2,28.29,Cash,South,Pain Relief,56.58,41.25,15.329999999999998
+1322,2023-08-25,Cholesterol Med,2,30.09,Cash,North,Prescription,60.18,34.67,25.509999999999998
+1323,2023-10-08,Ibuprofen 200mg,4,43.68,Cash,West,Pain Relief,174.72,132.88,41.84
+1324,2023-12-25,Insulin Pen,2,22.33,Cash,North,Prescription,44.66,25.27,19.389999999999997
+1325,2023-07-20,Antacid Tablets,2,38.4,Insurance,West,Digestive Health,76.8,43.61,33.19
+1326,2023-09-03,Cough Syrup,3,20.43,Insurance,North,Cold & Flu,61.29,39.32,21.97
+1327,2023-10-05,Cholesterol Med,4,124.15,Insurance,West,Prescription,496.6,406.7,89.90000000000003
+1328,2023-08-23,Blood Pressure Med,2,25.15,Cash,North,Prescription,50.3,37.34,12.959999999999994
+1329,2023-01-04,Cough Syrup,2,113.36,Cash,East,Cold & Flu,226.72,177.08,49.639999999999986
+1330,2023-06-03,Vitamin D3 1000IU,4,11.95,Cash,West,Vitamins,47.8,28.32,19.479999999999997
+1331,2023-01-29,Baby Aspirin,5,142.54,Insurance,South,Pain Relief,712.6999999999999,570.33,142.3699999999999
+1332,2023-04-19,Allergy Relief,4,108.12,Cash,North,Allergy,432.48,238.92,193.56000000000003
+1333,2023-04-08,Baby Aspirin,3,5.99,Insurance,South,Pain Relief,17.97,11.03,6.9399999999999995
+1334,2023-08-03,Allergy Relief,5,115.76,Cash,North,Allergy,578.8000000000001,425.32,153.48000000000008
+1335,2023-10-20,Amoxicillin 500mg,1,79.54,Cash,South,Prescription,79.54,52.7,26.840000000000003
+1336,2023-03-16,Nasal Spray,4,118.01,Cash,South,Cold & Flu,472.04,399.0,73.04000000000002
+1337,2023-11-22,Cholesterol Med,3,80.76,Insurance,North,Prescription,242.28000000000003,135.46,106.82000000000002
+1338,2023-05-26,Blood Pressure Med,5,97.95,Cash,North,Prescription,489.75,416.08,73.67000000000002
+1339,2023-05-08,Baby Aspirin,4,119.02,Insurance,South,Pain Relief,476.08,350.91,125.16999999999996
+1340,2023-12-07,Insulin Pen,2,63.74,Cash,South,Prescription,127.48,91.48,36.0
+1341,2023-02-11,Ibuprofen 200mg,4,5.39,Cash,South,Pain Relief,21.56,12.24,9.319999999999999
+1342,2023-12-22,Sleep Aid Tablets,1,128.24,Insurance,West,Sleep Aid,128.24,81.05,47.19000000000001
+1343,2023-02-10,Pain Relief Gel,4,60.23,Cash,West,Pain Relief,240.92,199.34,41.579999999999984
+1344,2023-02-03,Insulin Pen,5,76.93,Cash,East,Prescription,384.65000000000003,252.44,132.21000000000004
+1345,2023-01-17,Cough Syrup,5,6.13,Cash,West,Cold & Flu,30.65,22.94,7.709999999999997
+1346,2023-06-14,Cough Syrup,4,76.35,Cash,West,Cold & Flu,305.4,259.54,45.85999999999996
+1347,2023-06-02,Baby Aspirin,5,148.04,Insurance,North,Pain Relief,740.1999999999999,465.53,274.66999999999996
+1348,2023-03-17,Pain Relief Gel,2,45.35,Insurance,East,Pain Relief,90.7,65.56,25.14
+1349,2023-03-28,Acetaminophen 500mg,4,62.34,Cash,East,Pain Relief,249.36,189.25,60.110000000000014
+1350,2023-04-27,Vitamin D3 1000IU,2,104.64,Cash,West,Vitamins,209.28,125.44,83.84
+1351,2023-12-28,Cholesterol Med,2,123.15,Insurance,North,Prescription,246.3,146.45,99.85000000000002
+1352,2023-12-08,Allergy Relief,3,65.52,Cash,North,Allergy,196.56,135.02,61.53999999999999
+1353,2023-01-27,Antihistamine,4,49.9,Insurance,East,Allergy,199.6,132.88,66.72
+1354,2023-11-09,Sleep Aid Tablets,5,140.98,Cash,North,Sleep Aid,704.9,538.73,166.16999999999996
+1355,2023-10-14,Blood Pressure Med,2,103.19,Insurance,South,Prescription,206.38,117.81,88.57
+1356,2023-05-14,Insulin Pen,3,22.26,Insurance,West,Prescription,66.78,56.21,10.57
+1357,2023-08-07,Blood Pressure Med,4,14.99,Insurance,South,Prescription,59.96,33.23,26.730000000000004
+1358,2023-06-17,Cough Syrup,4,75.11,Insurance,East,Cold & Flu,300.44,219.44,81.0
+1359,2023-04-08,Nasal Spray,1,36.91,Cash,East,Cold & Flu,36.91,26.53,10.379999999999995
+1360,2023-09-25,Amoxicillin 500mg,1,41.83,Cash,North,Prescription,41.83,24.7,17.13
+1361,2023-08-25,Ibuprofen 200mg,2,132.27,Insurance,North,Pain Relief,264.54,157.47,107.07000000000002
+1362,2023-11-05,Vitamin D3 1000IU,1,17.99,Insurance,East,Vitamins,17.99,14.17,3.8199999999999985
+1363,2023-06-22,Nasal Spray,2,108.73,Insurance,East,Cold & Flu,217.46,177.51,39.95000000000002
+1364,2023-07-09,Vitamin D3 1000IU,5,44.32,Insurance,South,Vitamins,221.6,140.69,80.91
+1365,2023-05-02,Acetaminophen 500mg,2,115.25,Cash,South,Pain Relief,230.5,157.06,73.44
+1366,2023-02-15,Antihistamine,1,109.75,Insurance,North,Allergy,109.75,72.05,37.7
+1367,2023-03-05,Baby Aspirin,5,6.07,Insurance,South,Pain Relief,30.35,17.35,13.0
+1368,2023-05-10,Baby Aspirin,1,78.82,Insurance,North,Pain Relief,78.82,59.27,19.54999999999999
+1369,2023-11-06,Cough Syrup,2,25.2,Insurance,North,Cold & Flu,50.4,40.2,10.199999999999996
+1370,2023-12-29,Amoxicillin 500mg,3,130.6,Insurance,West,Prescription,391.79999999999995,251.33,140.46999999999994
+1371,2023-07-12,Pain Relief Gel,4,131.38,Insurance,North,Pain Relief,525.52,445.14,80.38
+1372,2023-11-03,Cholesterol Med,1,65.66,Insurance,South,Prescription,65.66,37.61,28.049999999999997
+1373,2023-06-30,Pain Relief Gel,2,69.44,Cash,East,Pain Relief,138.88,103.96,34.92
+1374,2023-10-19,Nasal Spray,5,48.98,Insurance,East,Cold & Flu,244.89999999999998,167.63,77.26999999999998
+1375,2023-10-09,Vitamin D3 1000IU,1,108.91,Insurance,South,Vitamins,108.91,74.49,34.42
+1376,2023-01-29,Allergy Relief,1,57.01,Insurance,East,Allergy,57.01,39.18,17.83
+1377,2023-05-29,Acetaminophen 500mg,4,43.83,Cash,North,Pain Relief,175.32,110.03,65.28999999999999
+1378,2023-09-24,Allergy Relief,2,67.67,Cash,East,Allergy,135.34,103.49,31.85000000000001
+1379,2023-10-23,Amoxicillin 500mg,3,18.27,Cash,South,Prescription,54.81,42.01,12.800000000000004
+1380,2023-01-11,Cholesterol Med,5,113.26,Insurance,East,Prescription,566.3000000000001,359.44,206.86000000000007
+1381,2023-06-13,Cholesterol Med,2,6.83,Insurance,North,Prescription,13.66,10.94,2.7200000000000006
+1382,2023-04-23,Nasal Spray,5,98.45,Insurance,North,Cold & Flu,492.25,317.53,174.72000000000003
+1383,2023-07-06,Blood Pressure Med,1,31.52,Cash,South,Prescription,31.52,24.19,7.329999999999998
+1384,2023-10-22,Acetaminophen 500mg,4,38.7,Insurance,South,Pain Relief,154.8,90.76,64.04
+1385,2023-08-20,Sleep Aid Tablets,4,97.17,Cash,South,Sleep Aid,388.68,233.45,155.23000000000002
+1386,2023-08-15,Cholesterol Med,3,148.98,Cash,West,Prescription,446.93999999999994,288.16,158.77999999999992
+1387,2023-11-06,Cholesterol Med,4,117.77,Cash,West,Prescription,471.08,343.02,128.06
+1388,2023-04-08,Nasal Spray,1,37.75,Cash,North,Cold & Flu,37.75,28.07,9.68
+1389,2023-02-24,Cough Syrup,3,30.52,Cash,West,Cold & Flu,91.56,61.25,30.310000000000002
+1390,2023-04-21,Antacid Tablets,2,130.6,Insurance,West,Digestive Health,261.2,149.76,111.44
+1391,2023-06-01,Acetaminophen 500mg,4,69.41,Insurance,East,Pain Relief,277.64,183.82,93.82
+1392,2023-09-03,Allergy Relief,3,24.87,Cash,West,Allergy,74.61,56.45,18.159999999999997
+1393,2023-03-10,Amoxicillin 500mg,1,130.02,Insurance,East,Prescription,130.02,97.68,32.34
+1394,2023-11-08,Cholesterol Med,5,123.33,Insurance,South,Prescription,616.65,368.79,247.85999999999996
+1395,2023-10-16,Cholesterol Med,5,147.67,Cash,East,Prescription,738.3499999999999,407.82,330.5299999999999
+1396,2023-09-07,Baby Aspirin,1,136.91,Cash,East,Pain Relief,136.91,106.23,30.679999999999993
+1397,2023-02-05,Antihistamine,1,128.51,Insurance,South,Allergy,128.51,74.78,53.72999999999999
+1398,2023-08-27,Cough Syrup,5,12.62,Insurance,South,Cold & Flu,63.099999999999994,36.26,26.839999999999996
+1399,2023-05-28,Cholesterol Med,3,20.14,Insurance,North,Prescription,60.42,33.28,27.14
+1400,2023-08-15,Antacid Tablets,5,87.5,Insurance,North,Digestive Health,437.5,297.4,140.10000000000002
+1401,2023-09-01,Antihistamine,1,82.06,Cash,North,Allergy,82.06,57.52,24.54
+1402,2023-12-03,Baby Aspirin,4,71.4,Insurance,North,Pain Relief,285.6,211.72,73.88000000000002
+1403,2023-12-31,Ibuprofen 200mg,2,62.53,Cash,East,Pain Relief,125.06,79.89,45.17
+1404,2023-07-20,Cough Syrup,4,67.53,Cash,East,Cold & Flu,270.12,206.14,63.98000000000002
+1405,2023-06-03,Amoxicillin 500mg,4,87.55,Insurance,North,Prescription,350.2,210.4,139.79999999999998
+1406,2023-03-14,Vitamin D3 1000IU,1,5.3,Insurance,West,Vitamins,5.3,4.24,1.0599999999999996
+1407,2023-07-20,Acetaminophen 500mg,5,42.8,Insurance,North,Pain Relief,214.0,154.41,59.59
+1408,2023-10-23,Nasal Spray,3,80.15,Cash,West,Cold & Flu,240.45000000000002,174.37,66.08000000000001
+1409,2023-01-17,Amoxicillin 500mg,4,109.72,Cash,South,Prescription,438.88,269.0,169.88
+1410,2023-05-09,Sleep Aid Tablets,5,30.25,Cash,East,Sleep Aid,151.25,86.55,64.7
+1411,2023-08-05,Acetaminophen 500mg,3,84.3,Cash,East,Pain Relief,252.89999999999998,174.35,78.54999999999998
+1412,2023-03-02,Antihistamine,4,108.6,Insurance,West,Allergy,434.4,319.15,115.25
+1413,2023-04-14,Blood Pressure Med,3,69.47,Cash,North,Prescription,208.41,120.57,87.84
+1414,2023-02-11,Nasal Spray,5,8.93,Cash,East,Cold & Flu,44.65,37.29,7.359999999999999
+1415,2023-01-25,Insulin Pen,2,70.14,Insurance,West,Prescription,140.28,118.41,21.870000000000005
+1416,2023-02-08,Allergy Relief,5,47.98,Cash,South,Allergy,239.89999999999998,171.2,68.69999999999999
+1417,2023-10-18,Ibuprofen 200mg,1,139.8,Cash,South,Pain Relief,139.8,116.74,23.060000000000016
+1418,2023-05-11,Cough Syrup,3,23.07,Insurance,East,Cold & Flu,69.21000000000001,41.79,27.42000000000001
+1419,2023-08-17,Cholesterol Med,2,99.61,Cash,North,Prescription,199.22,111.09,88.13
+1420,2023-04-18,Blood Pressure Med,3,12.64,Cash,West,Prescription,37.92,21.3,16.62
+1421,2023-06-21,Baby Aspirin,3,69.69,Cash,East,Pain Relief,209.07,151.84,57.22999999999999
+1422,2023-04-12,Sleep Aid Tablets,4,85.33,Cash,South,Sleep Aid,341.32,194.04,147.28
+1423,2023-12-20,Blood Pressure Med,1,48.2,Insurance,North,Prescription,48.2,40.37,7.830000000000005
+1424,2023-01-12,Amoxicillin 500mg,3,70.99,Cash,West,Prescription,212.96999999999997,126.2,86.76999999999997
+1425,2023-10-02,Ibuprofen 200mg,5,28.72,Insurance,East,Pain Relief,143.6,92.11,51.489999999999995
+1426,2023-04-11,Vitamin D3 1000IU,5,49.1,Cash,West,Vitamins,245.5,195.6,49.900000000000006
+1427,2023-02-13,Pain Relief Gel,4,95.06,Insurance,North,Pain Relief,380.24,234.08,146.16
+1428,2023-11-01,Acetaminophen 500mg,1,48.76,Insurance,North,Pain Relief,48.76,30.37,18.389999999999997
+1429,2023-01-17,Acetaminophen 500mg,1,135.46,Insurance,South,Pain Relief,135.46,100.61,34.85000000000001
+1430,2023-11-26,Amoxicillin 500mg,5,96.12,Cash,North,Prescription,480.6,304.14,176.46000000000004
+1431,2023-02-26,Antacid Tablets,2,68.6,Cash,East,Digestive Health,137.2,84.41,52.78999999999999
+1432,2023-11-07,Antacid Tablets,4,10.62,Cash,West,Digestive Health,42.48,26.6,15.879999999999995
+1433,2023-10-30,Cholesterol Med,4,77.43,Insurance,North,Prescription,309.72,215.94,93.78000000000003
+1434,2023-01-12,Sleep Aid Tablets,5,115.89,Cash,North,Sleep Aid,579.45,486.64,92.81000000000006
+1435,2023-11-14,Insulin Pen,5,43.51,Cash,East,Prescription,217.54999999999998,173.97,43.579999999999984
+1436,2023-03-21,Allergy Relief,2,121.98,Cash,West,Allergy,243.96,155.01,88.95000000000002
+1437,2023-08-04,Nasal Spray,2,41.51,Cash,West,Cold & Flu,83.02,54.71,28.309999999999995
+1438,2023-12-05,Vitamin D3 1000IU,1,124.44,Insurance,South,Vitamins,124.44,85.78,38.66
+1439,2023-09-21,Cholesterol Med,4,17.36,Insurance,South,Prescription,69.44,58.59,10.849999999999994
+1440,2023-05-29,Ibuprofen 200mg,4,130.6,Cash,West,Pain Relief,522.4,314.34,208.06
+1441,2023-03-22,Antacid Tablets,5,77.38,Cash,East,Digestive Health,386.9,254.29,132.60999999999999
+1442,2023-08-03,Insulin Pen,1,48.0,Cash,East,Prescription,48.0,36.9,11.100000000000001
+1443,2023-07-17,Insulin Pen,4,43.44,Insurance,South,Prescription,173.76,145.82,27.939999999999998
+1444,2023-07-19,Sleep Aid Tablets,1,67.64,Cash,North,Sleep Aid,67.64,40.36,27.28
+1445,2023-01-25,Amoxicillin 500mg,1,149.86,Insurance,East,Prescription,149.86,92.65,57.21000000000001
+1446,2023-03-30,Vitamin D3 1000IU,5,36.95,Insurance,North,Vitamins,184.75,114.12,70.63
+1447,2023-09-25,Antihistamine,1,19.97,Cash,East,Allergy,19.97,11.11,8.86
+1448,2023-05-23,Nasal Spray,2,89.83,Cash,West,Cold & Flu,179.66,131.37,48.28999999999999
+1449,2023-02-28,Sleep Aid Tablets,2,75.84,Cash,South,Sleep Aid,151.68,113.94,37.74000000000001
+1450,2023-12-31,Allergy Relief,3,81.01,Insurance,North,Allergy,243.03000000000003,177.6,65.43000000000004
+1451,2023-01-26,Sleep Aid Tablets,5,101.71,Insurance,North,Sleep Aid,508.54999999999995,290.58,217.96999999999997
+1452,2023-02-16,Sleep Aid Tablets,3,43.74,Cash,West,Sleep Aid,131.22,74.9,56.31999999999999
+1453,2023-10-15,Cough Syrup,2,137.05,Insurance,East,Cold & Flu,274.1,168.06,106.04000000000002
+1454,2023-09-23,Amoxicillin 500mg,3,68.17,Cash,North,Prescription,204.51,130.29,74.22
+1455,2023-01-16,Nasal Spray,5,23.72,Cash,East,Cold & Flu,118.6,93.22,25.379999999999995
+1456,2023-07-18,Cough Syrup,5,112.63,Insurance,West,Cold & Flu,563.15,336.66,226.48999999999995
+1457,2023-10-09,Cough Syrup,1,98.25,Insurance,South,Cold & Flu,98.25,55.34,42.91
+1458,2023-03-27,Baby Aspirin,4,50.78,Insurance,North,Pain Relief,203.12,135.72,67.4
+1459,2023-09-07,Vitamin D3 1000IU,1,95.12,Insurance,East,Vitamins,95.12,64.2,30.92
+1460,2023-09-27,Baby Aspirin,5,36.88,Cash,North,Pain Relief,184.4,126.36,58.040000000000006
+1461,2023-12-01,Vitamin D3 1000IU,2,69.5,Cash,East,Vitamins,139.0,110.93,28.069999999999993
+1462,2023-04-27,Cholesterol Med,2,135.41,Cash,East,Prescription,270.82,156.91,113.91
+1463,2023-01-07,Ibuprofen 200mg,1,24.36,Insurance,East,Pain Relief,24.36,18.54,5.82
+1464,2023-05-17,Insulin Pen,5,61.07,Cash,West,Prescription,305.35,198.9,106.45000000000002
+1465,2023-06-25,Nasal Spray,2,124.07,Insurance,South,Cold & Flu,248.14,159.55,88.58999999999997
+1466,2023-11-24,Amoxicillin 500mg,5,145.58,Insurance,North,Prescription,727.9000000000001,603.98,123.92000000000007
+1467,2023-11-11,Cholesterol Med,2,70.82,Insurance,South,Prescription,141.64,88.46,53.17999999999999
+1468,2023-08-03,Pain Relief Gel,5,78.51,Cash,East,Pain Relief,392.55,291.57,100.98000000000002
+1469,2023-03-23,Sleep Aid Tablets,3,87.96,Insurance,East,Sleep Aid,263.88,166.91,96.97
+1470,2023-08-11,Acetaminophen 500mg,5,140.19,Insurance,South,Pain Relief,700.95,492.17,208.78000000000003
+1471,2023-04-13,Amoxicillin 500mg,5,129.44,Insurance,South,Prescription,647.2,508.63,138.57000000000005
+1472,2023-09-30,Ibuprofen 200mg,1,29.74,Insurance,North,Pain Relief,29.74,24.22,5.52
+1473,2023-01-14,Allergy Relief,3,68.33,Insurance,East,Allergy,204.99,164.32,40.670000000000016
+1474,2023-06-08,Blood Pressure Med,4,72.28,Insurance,South,Prescription,289.12,209.51,79.61000000000001
+1475,2023-06-01,Blood Pressure Med,1,119.42,Insurance,West,Prescription,119.42,74.6,44.82000000000001
+1476,2023-04-18,Insulin Pen,4,92.42,Insurance,East,Prescription,369.68,276.66,93.01999999999998
+1477,2023-07-07,Blood Pressure Med,2,99.86,Insurance,East,Prescription,199.72,152.38,47.34
+1478,2023-10-28,Blood Pressure Med,4,149.74,Insurance,North,Prescription,598.96,331.35,267.61
+1479,2023-04-08,Acetaminophen 500mg,5,15.87,Insurance,West,Pain Relief,79.35,54.1,25.249999999999993
+1480,2023-05-11,Antacid Tablets,4,37.34,Insurance,North,Digestive Health,149.36,119.93,29.430000000000007
+1481,2023-10-20,Baby Aspirin,1,64.14,Cash,West,Pain Relief,64.14,44.7,19.439999999999998
+1482,2023-06-20,Allergy Relief,1,55.43,Cash,North,Allergy,55.43,35.66,19.770000000000003
+1483,2023-07-02,Baby Aspirin,4,8.14,Insurance,West,Pain Relief,32.56,26.42,6.140000000000001
+1484,2023-12-30,Vitamin D3 1000IU,1,18.31,Insurance,West,Vitamins,18.31,10.93,7.379999999999999
+1485,2023-02-08,Cough Syrup,1,103.74,Insurance,West,Cold & Flu,103.74,63.48,40.26
+1486,2023-01-15,Antacid Tablets,4,132.5,Cash,South,Digestive Health,530.0,400.79,129.20999999999998
+1487,2023-01-04,Baby Aspirin,3,79.56,Cash,East,Pain Relief,238.68,156.51,82.17000000000002
+1488,2023-12-15,Amoxicillin 500mg,3,83.18,Cash,West,Prescription,249.54000000000002,190.62,58.920000000000016
+1489,2023-07-29,Amoxicillin 500mg,2,41.99,Insurance,South,Prescription,83.98,50.16,33.82000000000001
+1490,2023-06-10,Baby Aspirin,1,116.34,Insurance,South,Pain Relief,116.34,72.79,43.55
+1491,2023-01-16,Sleep Aid Tablets,4,114.01,Insurance,North,Sleep Aid,456.04,272.25,183.79000000000002
+1492,2023-04-18,Baby Aspirin,1,90.31,Insurance,East,Pain Relief,90.31,75.49,14.820000000000007
+1493,2023-11-07,Blood Pressure Med,5,35.84,Cash,East,Prescription,179.20000000000002,120.35,58.85000000000002
+1494,2023-08-15,Vitamin D3 1000IU,1,19.07,Insurance,North,Vitamins,19.07,12.42,6.65
+1495,2023-06-19,Ibuprofen 200mg,1,14.31,Cash,East,Pain Relief,14.31,7.93,6.380000000000001
+1496,2023-02-03,Nasal Spray,3,90.94,Cash,North,Cold & Flu,272.82,162.61,110.20999999999998
+1497,2023-09-08,Antacid Tablets,4,124.63,Insurance,South,Digestive Health,498.52,337.17,161.34999999999997
+1498,2023-09-04,Antacid Tablets,1,129.46,Cash,South,Digestive Health,129.46,73.86,55.60000000000001
+1499,2023-09-26,Baby Aspirin,3,72.23,Cash,West,Pain Relief,216.69,152.38,64.31
+1500,2023-05-21,Antihistamine,2,118.72,Cash,North,Allergy,237.44,163.0,74.44
+1501,2023-10-01,Allergy Relief,3,142.3,Cash,South,Allergy,426.90000000000003,333.05,93.85000000000002
+1502,2023-04-06,Insulin Pen,3,44.9,Insurance,South,Prescription,134.7,100.75,33.94999999999999
+1503,2023-08-15,Allergy Relief,3,62.7,Insurance,North,Allergy,188.10000000000002,128.62,59.48000000000002
+1504,2023-02-08,Nasal Spray,1,140.06,Cash,South,Cold & Flu,140.06,86.47,53.59
+1505,2023-10-29,Amoxicillin 500mg,1,54.04,Insurance,East,Prescription,54.04,41.51,12.530000000000001
+1506,2023-01-29,Baby Aspirin,2,137.51,Cash,South,Pain Relief,275.02,209.66,65.35999999999999
+1507,2023-11-14,Amoxicillin 500mg,5,147.25,Insurance,North,Prescription,736.25,438.8,297.45
+1508,2023-09-02,Amoxicillin 500mg,5,100.96,Insurance,East,Prescription,504.79999999999995,416.17,88.62999999999994
+1509,2023-08-24,Antihistamine,5,123.45,Insurance,East,Allergy,617.25,351.41,265.84
+1510,2023-07-04,Amoxicillin 500mg,2,113.68,Insurance,South,Prescription,227.36,128.8,98.56
+1511,2023-09-29,Nasal Spray,5,106.43,Insurance,West,Cold & Flu,532.1500000000001,322.59,209.56000000000012
+1512,2023-08-24,Cholesterol Med,5,49.51,Cash,East,Prescription,247.54999999999998,203.69,43.859999999999985
+1513,2023-08-27,Vitamin D3 1000IU,3,13.28,Insurance,North,Vitamins,39.839999999999996,28.13,11.709999999999997
+1514,2023-09-23,Pain Relief Gel,1,54.74,Cash,West,Pain Relief,54.74,43.05,11.690000000000005
+1515,2023-12-25,Insulin Pen,1,101.71,Cash,West,Prescription,101.71,62.89,38.81999999999999
+1516,2023-12-06,Baby Aspirin,3,19.87,Insurance,East,Pain Relief,59.61,41.55,18.060000000000002
+1517,2023-03-06,Sleep Aid Tablets,3,6.73,Cash,South,Sleep Aid,20.19,13.27,6.920000000000002
+1518,2023-06-26,Nasal Spray,3,25.26,Insurance,West,Cold & Flu,75.78,60.5,15.280000000000001
+1519,2023-01-03,Blood Pressure Med,1,108.78,Cash,South,Prescription,108.78,60.57,48.21
+1520,2023-05-22,Cholesterol Med,5,146.06,Cash,East,Prescription,730.3,455.09,275.21
+1521,2023-06-07,Insulin Pen,3,147.54,Insurance,North,Prescription,442.62,263.7,178.92000000000002
+1522,2023-11-20,Nasal Spray,2,76.63,Insurance,West,Cold & Flu,153.26,123.8,29.459999999999994
+1523,2023-05-26,Cholesterol Med,3,131.06,Insurance,North,Prescription,393.18,271.4,121.78000000000003
+1524,2023-10-20,Amoxicillin 500mg,4,111.84,Insurance,South,Prescription,447.36,300.3,147.06
+1525,2023-06-02,Sleep Aid Tablets,3,77.65,Cash,South,Sleep Aid,232.95000000000002,159.53,73.42000000000002
+1526,2023-07-12,Vitamin D3 1000IU,1,88.05,Insurance,North,Vitamins,88.05,74.1,13.950000000000003
+1527,2023-03-14,Baby Aspirin,3,24.9,Cash,East,Pain Relief,74.69999999999999,60.14,14.559999999999988
+1528,2023-11-01,Antacid Tablets,4,140.96,Cash,East,Digestive Health,563.84,429.6,134.24
+1529,2023-12-10,Allergy Relief,2,56.03,Cash,West,Allergy,112.06,71.4,40.66
+1530,2023-05-20,Cough Syrup,5,69.69,Cash,West,Cold & Flu,348.45,208.91,139.54
+1531,2023-07-06,Pain Relief Gel,3,102.39,Cash,East,Pain Relief,307.17,253.85,53.32000000000002
+1532,2023-10-20,Vitamin D3 1000IU,4,53.42,Cash,East,Vitamins,213.68,144.64,69.04000000000002
+1533,2023-03-02,Antacid Tablets,4,41.87,Insurance,North,Digestive Health,167.48,106.12,61.359999999999985
+1534,2023-07-17,Ibuprofen 200mg,2,96.5,Cash,South,Pain Relief,193.0,133.42,59.58000000000001
+1535,2023-10-22,Baby Aspirin,1,8.62,Cash,South,Pain Relief,8.62,7.11,1.509999999999999
+1536,2023-11-15,Nasal Spray,3,109.51,Cash,West,Cold & Flu,328.53000000000003,218.84,109.69000000000003
+1537,2023-10-29,Ibuprofen 200mg,4,79.53,Insurance,East,Pain Relief,318.12,228.66,89.46000000000001
+1538,2023-12-10,Antacid Tablets,2,92.83,Insurance,North,Digestive Health,185.66,146.84,38.81999999999999
+1539,2023-01-11,Vitamin D3 1000IU,5,96.62,Cash,West,Vitamins,483.1,327.61,155.49
+1540,2023-03-03,Nasal Spray,4,81.42,Insurance,North,Cold & Flu,325.68,201.94,123.74000000000001
+1541,2023-11-29,Baby Aspirin,2,89.47,Cash,East,Pain Relief,178.94,151.81,27.129999999999995
+1542,2023-08-14,Blood Pressure Med,1,104.15,Insurance,East,Prescription,104.15,87.17,16.980000000000004
+1543,2023-06-02,Cough Syrup,1,114.2,Cash,East,Cold & Flu,114.2,91.71,22.49000000000001
+1544,2023-07-18,Amoxicillin 500mg,4,110.48,Insurance,South,Prescription,441.92,334.32,107.60000000000002
+1545,2023-02-21,Nasal Spray,4,131.09,Insurance,East,Cold & Flu,524.36,334.78,189.58000000000004
+1546,2023-09-17,Blood Pressure Med,3,32.47,Insurance,West,Prescription,97.41,80.27,17.14
+1547,2023-02-28,Baby Aspirin,2,63.17,Cash,South,Pain Relief,126.34,79.93,46.41
+1548,2023-03-13,Baby Aspirin,4,142.43,Cash,North,Pain Relief,569.72,450.22,119.5
+1549,2023-05-28,Nasal Spray,3,62.51,Cash,West,Cold & Flu,187.53,154.8,32.72999999999999
+1550,2023-12-15,Vitamin D3 1000IU,3,23.11,Insurance,West,Vitamins,69.33,50.67,18.659999999999997
+1551,2023-03-04,Blood Pressure Med,4,81.19,Insurance,North,Prescription,324.76,256.86,67.89999999999998
+1552,2023-11-06,Vitamin D3 1000IU,1,20.88,Cash,South,Vitamins,20.88,16.44,4.439999999999998
+1553,2023-08-31,Cholesterol Med,2,34.41,Insurance,West,Prescription,68.82,41.84,26.97999999999999
+1554,2023-11-26,Antacid Tablets,2,149.76,Cash,West,Digestive Health,299.52,224.75,74.76999999999998
+1555,2023-04-17,Acetaminophen 500mg,1,83.5,Cash,West,Pain Relief,83.5,48.27,35.23
+1556,2023-08-14,Nasal Spray,4,46.19,Cash,South,Cold & Flu,184.76,129.77,54.98999999999998
+1557,2023-11-09,Pain Relief Gel,2,149.24,Cash,South,Pain Relief,298.48,178.69,119.79000000000002
+1558,2023-08-06,Baby Aspirin,4,145.15,Insurance,South,Pain Relief,580.6,391.85,188.75
+1559,2023-08-29,Allergy Relief,4,68.91,Insurance,West,Allergy,275.64,220.48,55.16
+1560,2023-09-16,Nasal Spray,3,42.76,Insurance,East,Cold & Flu,128.28,108.54,19.739999999999995
+1561,2023-09-19,Antacid Tablets,1,126.57,Cash,North,Digestive Health,126.57,81.69,44.879999999999995
+1562,2023-01-05,Sleep Aid Tablets,4,108.77,Insurance,East,Sleep Aid,435.08,308.73,126.34999999999997
+1563,2023-09-18,Sleep Aid Tablets,5,104.61,Cash,South,Sleep Aid,523.05,367.91,155.13999999999993
+1564,2023-02-23,Insulin Pen,1,134.5,Cash,West,Prescription,134.5,112.49,22.010000000000005
+1565,2023-02-16,Pain Relief Gel,2,104.97,Cash,West,Pain Relief,209.94,145.61,64.32999999999998
+1566,2023-08-03,Baby Aspirin,3,46.15,Cash,East,Pain Relief,138.45,105.18,33.26999999999998
+1567,2023-06-26,Ibuprofen 200mg,2,105.61,Cash,East,Pain Relief,211.22,174.58,36.639999999999986
+1568,2023-01-09,Baby Aspirin,2,49.34,Cash,North,Pain Relief,98.68,65.33,33.35000000000001
+1569,2023-04-09,Cholesterol Med,1,115.09,Insurance,West,Prescription,115.09,94.45,20.64
+1570,2023-01-20,Amoxicillin 500mg,2,94.86,Insurance,East,Prescription,189.72,156.56,33.16
+1571,2023-08-29,Blood Pressure Med,4,16.22,Insurance,North,Prescription,64.88,53.8,11.079999999999998
+1572,2023-03-02,Baby Aspirin,2,79.36,Insurance,South,Pain Relief,158.72,100.17,58.55
+1573,2023-06-27,Acetaminophen 500mg,3,54.78,Cash,East,Pain Relief,164.34,110.13,54.21000000000001
+1574,2023-12-04,Cough Syrup,3,52.64,Cash,South,Cold & Flu,157.92000000000002,128.09,29.830000000000013
+1575,2023-03-03,Sleep Aid Tablets,5,92.33,Insurance,North,Sleep Aid,461.65,303.65,158.0
+1576,2023-05-25,Cough Syrup,3,51.74,Insurance,South,Cold & Flu,155.22,113.32,41.900000000000006
+1577,2023-08-04,Cough Syrup,2,117.65,Insurance,West,Cold & Flu,235.3,137.75,97.55000000000001
+1578,2023-01-03,Vitamin D3 1000IU,3,15.26,Insurance,West,Vitamins,45.78,25.95,19.830000000000002
+1579,2023-06-09,Cough Syrup,1,100.76,Insurance,South,Cold & Flu,100.76,67.87,32.89
+1580,2023-08-15,Amoxicillin 500mg,3,122.33,Insurance,West,Prescription,366.99,265.58,101.41000000000003
+1581,2023-09-26,Cholesterol Med,4,102.56,Insurance,North,Prescription,410.24,273.96,136.28000000000003
+1582,2023-04-30,Ibuprofen 200mg,1,77.1,Insurance,West,Pain Relief,77.1,55.77,21.32999999999999
+1583,2023-03-30,Cough Syrup,5,142.79,Cash,South,Cold & Flu,713.9499999999999,503.0,210.94999999999993
+1584,2023-11-25,Pain Relief Gel,4,48.49,Cash,South,Pain Relief,193.96,146.58,47.379999999999995
+1585,2023-03-09,Nasal Spray,2,7.78,Cash,South,Cold & Flu,15.56,11.59,3.9700000000000006
+1586,2023-12-23,Pain Relief Gel,2,67.64,Cash,East,Pain Relief,135.28,91.62,43.66
+1587,2023-04-08,Nasal Spray,2,9.79,Insurance,South,Cold & Flu,19.58,13.27,6.309999999999999
+1588,2023-09-24,Vitamin D3 1000IU,4,143.32,Cash,North,Vitamins,573.28,339.52,233.76
+1589,2023-04-15,Amoxicillin 500mg,4,35.44,Insurance,West,Prescription,141.76,99.8,41.959999999999994
+1590,2023-11-19,Ibuprofen 200mg,4,119.39,Cash,West,Pain Relief,477.56,346.78,130.78000000000003
+1591,2023-05-03,Acetaminophen 500mg,1,117.31,Insurance,East,Pain Relief,117.31,81.29,36.019999999999996
+1592,2023-01-29,Antacid Tablets,1,36.57,Insurance,East,Digestive Health,36.57,23.69,12.879999999999999
+1593,2023-05-17,Ibuprofen 200mg,2,95.08,Cash,North,Pain Relief,190.16,145.76,44.400000000000006
+1594,2023-07-14,Antacid Tablets,3,11.97,Cash,South,Digestive Health,35.910000000000004,20.55,15.360000000000003
+1595,2023-08-14,Pain Relief Gel,2,75.12,Insurance,East,Pain Relief,150.24,123.85,26.390000000000015
+1596,2023-11-28,Insulin Pen,5,7.12,Insurance,West,Prescription,35.6,19.8,15.8
+1597,2023-06-19,Sleep Aid Tablets,1,138.57,Insurance,East,Sleep Aid,138.57,116.22,22.349999999999994
+1598,2023-01-09,Antacid Tablets,4,146.53,Cash,East,Digestive Health,586.12,403.66,182.45999999999998
+1599,2023-02-09,Cholesterol Med,1,37.23,Cash,South,Prescription,37.23,25.09,12.139999999999997
+1600,2023-01-25,Allergy Relief,4,35.18,Insurance,East,Allergy,140.72,88.22,52.5
+1601,2023-09-18,Cholesterol Med,5,114.29,Cash,North,Prescription,571.45,316.02,255.43000000000006
+1602,2023-08-14,Baby Aspirin,5,41.74,Insurance,West,Pain Relief,208.70000000000002,131.99,76.71000000000001
+1603,2023-05-04,Sleep Aid Tablets,1,134.79,Cash,South,Sleep Aid,134.79,78.56,56.22999999999999
+1604,2023-02-07,Sleep Aid Tablets,4,88.22,Cash,West,Sleep Aid,352.88,263.94,88.94
+1605,2023-11-24,Nasal Spray,5,55.86,Cash,North,Cold & Flu,279.3,180.35,98.95000000000002
+1606,2023-09-08,Amoxicillin 500mg,2,125.74,Cash,North,Prescription,251.48,196.19,55.28999999999999
+1607,2023-06-25,Antihistamine,2,76.54,Cash,East,Allergy,153.08,93.7,59.38000000000001
+1608,2023-03-31,Vitamin D3 1000IU,4,137.19,Insurance,East,Vitamins,548.76,450.02,98.74000000000001
+1609,2023-02-06,Pain Relief Gel,1,139.56,Insurance,East,Pain Relief,139.56,98.65,40.91
+1610,2023-11-12,Allergy Relief,5,28.99,Cash,West,Allergy,144.95,84.7,60.249999999999986
+1611,2023-06-25,Antacid Tablets,1,5.34,Insurance,North,Digestive Health,5.34,3.58,1.7599999999999998
+1612,2023-10-11,Cough Syrup,2,147.67,Insurance,South,Cold & Flu,295.34,180.76,114.57999999999998
+1613,2023-03-22,Amoxicillin 500mg,5,136.39,Cash,East,Prescription,681.9499999999999,415.93,266.0199999999999
+1614,2023-04-24,Allergy Relief,1,13.04,Insurance,West,Allergy,13.04,9.15,3.889999999999999
+1615,2023-02-09,Vitamin D3 1000IU,3,125.79,Cash,East,Vitamins,377.37,283.62,93.75
+1616,2023-10-28,Nasal Spray,4,71.38,Insurance,North,Cold & Flu,285.52,235.12,50.39999999999998
+1617,2023-08-12,Pain Relief Gel,4,42.55,Insurance,South,Pain Relief,170.2,119.25,50.94999999999999
+1618,2023-11-14,Amoxicillin 500mg,3,132.42,Insurance,North,Prescription,397.26,333.6,63.65999999999997
+1619,2023-12-15,Vitamin D3 1000IU,2,33.52,Insurance,West,Vitamins,67.04,55.81,11.230000000000004
+1620,2023-04-25,Insulin Pen,5,142.36,Insurance,East,Prescription,711.8000000000001,576.22,135.58000000000004
+1621,2023-07-05,Insulin Pen,4,34.82,Insurance,North,Prescription,139.28,97.5,41.78
+1622,2023-11-19,Cholesterol Med,3,93.98,Insurance,West,Prescription,281.94,166.98,114.96000000000001
+1623,2023-02-25,Cholesterol Med,3,37.35,Cash,East,Prescription,112.05000000000001,68.95,43.10000000000001
+1624,2023-02-09,Vitamin D3 1000IU,2,84.12,Cash,South,Vitamins,168.24,125.22,43.02000000000001
+1625,2023-12-20,Allergy Relief,2,104.18,Cash,North,Allergy,208.36,140.96,67.4
+1626,2023-02-09,Cholesterol Med,1,32.58,Cash,East,Prescription,32.58,19.35,13.229999999999997
+1627,2023-12-13,Pain Relief Gel,4,80.53,Insurance,East,Pain Relief,322.12,223.45,98.67000000000002
+1628,2023-08-25,Amoxicillin 500mg,1,73.01,Insurance,East,Prescription,73.01,40.54,32.470000000000006
+1629,2023-10-16,Allergy Relief,3,15.3,Insurance,East,Allergy,45.900000000000006,35.35,10.550000000000004
+1630,2023-09-19,Cholesterol Med,5,123.65,Cash,North,Prescription,618.25,353.68,264.57
+1631,2023-08-04,Acetaminophen 500mg,5,53.67,Cash,East,Pain Relief,268.35,198.24,70.11000000000001
+1632,2023-05-27,Antacid Tablets,2,88.31,Cash,West,Digestive Health,176.62,139.16,37.46000000000001
+1633,2023-12-02,Acetaminophen 500mg,5,79.64,Insurance,North,Pain Relief,398.2,234.86,163.33999999999997
+1634,2023-06-17,Blood Pressure Med,5,79.42,Cash,East,Prescription,397.1,280.19,116.91000000000003
+1635,2023-04-02,Insulin Pen,5,20.55,Insurance,North,Prescription,102.75,80.53,22.22
+1636,2023-12-19,Nasal Spray,3,66.4,Cash,West,Cold & Flu,199.20000000000002,125.14,74.06000000000002
+1637,2023-02-28,Ibuprofen 200mg,5,70.59,Insurance,West,Pain Relief,352.95000000000005,211.37,141.58000000000004
+1638,2023-02-28,Antacid Tablets,5,111.38,Cash,North,Digestive Health,556.9,362.57,194.32999999999998
+1639,2023-10-31,Insulin Pen,5,126.8,Insurance,East,Prescription,634.0,454.2,179.8
+1640,2023-06-18,Allergy Relief,1,84.02,Cash,East,Allergy,84.02,60.71,23.309999999999995
+1641,2023-09-26,Allergy Relief,3,17.58,Cash,West,Allergy,52.739999999999995,31.08,21.659999999999997
+1642,2023-12-29,Allergy Relief,2,39.34,Insurance,East,Allergy,78.68,54.07,24.610000000000007
+1643,2023-02-14,Nasal Spray,1,28.92,Insurance,West,Cold & Flu,28.92,18.23,10.690000000000001
+1644,2023-12-11,Acetaminophen 500mg,4,23.07,Cash,East,Pain Relief,92.28,74.06,18.22
+1645,2023-06-30,Ibuprofen 200mg,3,58.06,Insurance,West,Pain Relief,174.18,112.18,62.0
+1646,2023-06-19,Pain Relief Gel,3,38.26,Cash,South,Pain Relief,114.78,92.01,22.769999999999996
+1647,2023-12-22,Cholesterol Med,4,36.65,Insurance,East,Prescription,146.6,99.48,47.11999999999999
+1648,2023-07-10,Allergy Relief,4,12.93,Cash,East,Allergy,51.72,39.72,12.0
+1649,2023-06-04,Antihistamine,4,7.56,Insurance,East,Allergy,30.24,21.26,8.979999999999997
+1650,2023-07-07,Blood Pressure Med,2,19.9,Cash,North,Prescription,39.8,29.32,10.479999999999997
+1651,2023-01-07,Antacid Tablets,5,29.97,Cash,East,Digestive Health,149.85,100.19,49.66
+1652,2023-05-13,Amoxicillin 500mg,3,67.49,Cash,North,Prescription,202.46999999999997,158.02,44.44999999999996
+1653,2023-08-23,Cholesterol Med,5,79.03,Insurance,North,Prescription,395.15,267.74,127.40999999999997
+1654,2023-02-14,Antihistamine,5,25.39,Cash,West,Allergy,126.95,87.24,39.71000000000001
+1655,2023-11-10,Ibuprofen 200mg,4,66.59,Insurance,North,Pain Relief,266.36,187.86,78.5
+1656,2023-09-06,Nasal Spray,2,54.55,Insurance,North,Cold & Flu,109.1,87.23,21.86999999999999
+1657,2023-01-31,Pain Relief Gel,1,31.6,Insurance,South,Pain Relief,31.6,23.63,7.970000000000002
+1658,2023-01-23,Pain Relief Gel,2,5.99,Cash,East,Pain Relief,11.98,7.84,4.140000000000001
+1659,2023-06-09,Ibuprofen 200mg,5,72.72,Insurance,North,Pain Relief,363.6,273.1,90.5
+1660,2023-12-29,Amoxicillin 500mg,2,104.42,Insurance,East,Prescription,208.84,155.11,53.72999999999999
+1661,2023-06-07,Antacid Tablets,4,37.81,Insurance,North,Digestive Health,151.24,125.42,25.820000000000007
+1662,2023-02-08,Baby Aspirin,1,24.11,Cash,West,Pain Relief,24.11,19.35,4.759999999999998
+1663,2023-03-23,Amoxicillin 500mg,4,133.62,Insurance,South,Prescription,534.48,397.78,136.70000000000005
+1664,2023-12-22,Pain Relief Gel,1,44.88,Insurance,North,Pain Relief,44.88,29.28,15.600000000000001
+1665,2023-09-15,Vitamin D3 1000IU,5,37.42,Insurance,East,Vitamins,187.10000000000002,146.66,40.440000000000026
+1666,2023-07-25,Antacid Tablets,1,129.28,Insurance,West,Digestive Health,129.28,93.41,35.870000000000005
+1667,2023-03-18,Ibuprofen 200mg,1,123.48,Cash,East,Pain Relief,123.48,104.41,19.070000000000007
+1668,2023-01-12,Pain Relief Gel,1,70.01,Cash,West,Pain Relief,70.01,43.7,26.310000000000002
+1669,2023-10-22,Pain Relief Gel,2,75.94,Insurance,South,Pain Relief,151.88,87.16,64.72
+1670,2023-08-12,Allergy Relief,2,36.57,Insurance,West,Allergy,73.14,41.76,31.380000000000003
+1671,2023-01-13,Ibuprofen 200mg,5,16.35,Insurance,East,Pain Relief,81.75,60.66,21.090000000000003
+1672,2023-02-15,Baby Aspirin,1,88.15,Insurance,East,Pain Relief,88.15,73.32,14.830000000000013
+1673,2023-06-04,Ibuprofen 200mg,3,19.26,Cash,North,Pain Relief,57.78,31.81,25.970000000000002
+1674,2023-04-23,Baby Aspirin,5,70.14,Cash,West,Pain Relief,350.7,269.24,81.45999999999998
+1675,2023-08-21,Antacid Tablets,1,141.37,Cash,East,Digestive Health,141.37,105.62,35.75
+1676,2023-01-17,Blood Pressure Med,1,143.16,Cash,North,Prescription,143.16,110.19,32.97
+1677,2023-12-26,Vitamin D3 1000IU,2,39.7,Insurance,South,Vitamins,79.4,52.14,27.260000000000005
+1678,2023-08-11,Cholesterol Med,5,95.5,Insurance,East,Prescription,477.5,380.16,97.33999999999997
+1679,2023-12-20,Ibuprofen 200mg,1,73.74,Cash,North,Pain Relief,73.74,41.55,32.19
+1680,2023-07-07,Antihistamine,1,131.97,Cash,East,Allergy,131.97,102.49,29.480000000000004
+1681,2023-12-10,Insulin Pen,5,44.36,Insurance,West,Prescription,221.8,139.76,82.04000000000002
+1682,2023-12-31,Cough Syrup,3,5.54,Insurance,North,Cold & Flu,16.62,11.52,5.100000000000001
+1683,2023-06-12,Cough Syrup,5,28.57,Insurance,West,Cold & Flu,142.85,113.82,29.03
+1684,2023-11-22,Ibuprofen 200mg,5,55.68,Insurance,South,Pain Relief,278.4,175.78,102.61999999999998
+1685,2023-03-15,Baby Aspirin,3,50.78,Insurance,West,Pain Relief,152.34,92.25,60.09
+1686,2023-08-21,Antihistamine,5,119.75,Cash,North,Allergy,598.75,451.69,147.06
+1687,2023-08-12,Blood Pressure Med,1,103.68,Cash,East,Prescription,103.68,73.61,30.070000000000007
+1688,2023-11-15,Allergy Relief,5,48.44,Insurance,North,Allergy,242.2,170.59,71.60999999999999
+1689,2023-03-01,Baby Aspirin,3,71.37,Insurance,West,Pain Relief,214.11,134.25,79.86000000000001
+1690,2023-12-01,Nasal Spray,4,18.86,Cash,West,Cold & Flu,75.44,42.28,33.16
+1691,2023-08-10,Nasal Spray,5,135.23,Insurance,East,Cold & Flu,676.15,455.1,221.04999999999995
+1692,2023-02-06,Antacid Tablets,2,140.64,Cash,South,Digestive Health,281.28,163.7,117.57999999999998
+1693,2023-10-05,Cough Syrup,1,147.07,Cash,North,Cold & Flu,147.07,120.86,26.209999999999994
+1694,2023-07-15,Ibuprofen 200mg,1,130.94,Cash,East,Pain Relief,130.94,73.64,57.3
+1695,2023-12-18,Nasal Spray,2,30.22,Cash,East,Cold & Flu,60.44,41.07,19.369999999999997
+1696,2023-08-30,Ibuprofen 200mg,2,11.7,Insurance,East,Pain Relief,23.4,13.24,10.159999999999998
+1697,2023-11-20,Antacid Tablets,5,89.04,Insurance,North,Digestive Health,445.20000000000005,257.62,187.58000000000004
+1698,2023-08-07,Cough Syrup,2,137.33,Cash,North,Cold & Flu,274.66,205.35,69.31000000000003
+1699,2023-07-11,Amoxicillin 500mg,4,30.72,Insurance,North,Prescription,122.88,91.44,31.439999999999998
+1700,2023-01-17,Blood Pressure Med,3,6.02,Insurance,South,Prescription,18.06,10.11,7.949999999999999
+1701,2023-01-12,Insulin Pen,2,121.8,Insurance,East,Prescription,243.6,134.06,109.53999999999999
+1702,2023-07-12,Insulin Pen,2,16.14,Insurance,West,Prescription,32.28,18.52,13.760000000000002
+1703,2023-01-22,Nasal Spray,4,64.99,Cash,West,Cold & Flu,259.96,202.48,57.47999999999999
+1704,2023-04-30,Insulin Pen,1,103.44,Insurance,East,Prescription,103.44,75.03,28.409999999999997
+1705,2023-07-29,Pain Relief Gel,1,39.34,Cash,West,Pain Relief,39.34,22.09,17.250000000000004
+1706,2023-11-02,Blood Pressure Med,5,17.17,Cash,South,Prescription,85.85000000000001,59.79,26.06000000000001
+1707,2023-09-27,Baby Aspirin,4,116.65,Insurance,South,Pain Relief,466.6,356.3,110.30000000000001
+1708,2023-07-11,Amoxicillin 500mg,3,96.38,Cash,North,Prescription,289.14,234.4,54.73999999999998
+1709,2023-06-24,Blood Pressure Med,3,148.33,Insurance,North,Prescription,444.99,369.44,75.55000000000001
+1710,2023-10-12,Pain Relief Gel,4,54.92,Insurance,North,Pain Relief,219.68,142.4,77.28
+1711,2023-07-23,Sleep Aid Tablets,3,13.96,Cash,North,Sleep Aid,41.88,24.74,17.140000000000004
+1712,2023-06-13,Baby Aspirin,1,111.48,Insurance,North,Pain Relief,111.48,69.24,42.24000000000001
+1713,2023-09-08,Pain Relief Gel,3,80.65,Cash,West,Pain Relief,241.95000000000002,189.41,52.54000000000002
+1714,2023-08-15,Ibuprofen 200mg,3,35.91,Cash,West,Pain Relief,107.72999999999999,90.65,17.079999999999984
+1715,2023-01-07,Antacid Tablets,4,118.35,Insurance,North,Digestive Health,473.4,326.61,146.78999999999996
+1716,2023-01-29,Cholesterol Med,4,34.54,Insurance,South,Prescription,138.16,88.64,49.519999999999996
+1717,2023-02-02,Amoxicillin 500mg,3,42.8,Insurance,West,Prescription,128.39999999999998,87.15,41.24999999999997
+1718,2023-05-14,Cholesterol Med,2,18.42,Cash,South,Prescription,36.84,23.63,13.210000000000004
+1719,2023-03-20,Antacid Tablets,4,62.92,Insurance,South,Digestive Health,251.68,157.79,93.89000000000001
+1720,2023-02-27,Antacid Tablets,5,65.74,Cash,East,Digestive Health,328.7,239.33,89.36999999999998
+1721,2023-01-26,Pain Relief Gel,5,79.61,Cash,East,Pain Relief,398.05,220.81,177.24
+1722,2023-08-14,Cough Syrup,1,107.8,Insurance,North,Cold & Flu,107.8,67.68,40.11999999999999
+1723,2023-10-12,Pain Relief Gel,3,136.38,Insurance,South,Pain Relief,409.14,306.21,102.93
+1724,2023-01-04,Cholesterol Med,2,24.97,Insurance,West,Prescription,49.94,27.95,21.99
+1725,2023-04-09,Pain Relief Gel,1,12.88,Cash,East,Pain Relief,12.88,7.41,5.470000000000001
+1726,2023-02-08,Ibuprofen 200mg,3,7.69,Insurance,East,Pain Relief,23.07,14.72,8.35
+1727,2023-09-28,Pain Relief Gel,4,25.83,Cash,South,Pain Relief,103.32,84.03,19.289999999999992
+1728,2023-10-12,Antihistamine,5,100.4,Insurance,East,Allergy,502.0,391.29,110.70999999999998
+1729,2023-06-06,Insulin Pen,2,110.48,Insurance,East,Prescription,220.96,123.0,97.96000000000001
+1730,2023-03-16,Cholesterol Med,5,119.04,Cash,West,Prescription,595.2,416.95,178.25000000000006
+1731,2023-10-15,Antihistamine,4,40.34,Cash,South,Allergy,161.36,102.05,59.31000000000002
+1732,2023-05-10,Cough Syrup,3,49.35,Insurance,East,Cold & Flu,148.05,110.24,37.81000000000002
+1733,2023-06-24,Antacid Tablets,4,75.05,Insurance,South,Digestive Health,300.2,230.09,70.10999999999999
+1734,2023-03-25,Nasal Spray,4,14.16,Insurance,East,Cold & Flu,56.64,45.81,10.829999999999998
+1735,2023-01-22,Blood Pressure Med,5,93.62,Insurance,West,Prescription,468.1,324.22,143.88
+1736,2023-01-27,Baby Aspirin,2,147.64,Insurance,South,Pain Relief,295.28,250.5,44.77999999999997
+1737,2023-07-14,Insulin Pen,4,57.32,Cash,East,Prescription,229.28,193.51,35.77000000000001
+1738,2023-12-03,Baby Aspirin,5,114.16,Cash,West,Pain Relief,570.8,465.0,105.79999999999995
+1739,2023-08-24,Pain Relief Gel,2,77.5,Cash,East,Pain Relief,155.0,111.98,43.019999999999996
+1740,2023-04-02,Sleep Aid Tablets,3,23.53,Cash,South,Sleep Aid,70.59,47.25,23.340000000000003
+1741,2023-01-21,Insulin Pen,3,89.42,Insurance,East,Prescription,268.26,176.87,91.38999999999999
+1742,2023-10-30,Ibuprofen 200mg,1,48.48,Cash,South,Pain Relief,48.48,26.84,21.639999999999997
+1743,2023-12-23,Sleep Aid Tablets,5,9.99,Cash,South,Sleep Aid,49.95,31.21,18.740000000000002
+1744,2023-03-25,Vitamin D3 1000IU,2,97.06,Cash,East,Vitamins,194.12,148.63,45.49000000000001
+1745,2023-09-19,Acetaminophen 500mg,4,129.55,Insurance,West,Pain Relief,518.2,378.85,139.35000000000002
+1746,2023-05-27,Acetaminophen 500mg,3,54.99,Cash,North,Pain Relief,164.97,136.09,28.879999999999995
+1747,2023-09-14,Acetaminophen 500mg,2,61.59,Insurance,West,Pain Relief,123.18,69.6,53.58000000000001
+1748,2023-02-27,Vitamin D3 1000IU,5,134.2,Cash,West,Vitamins,671.0,400.31,270.69
+1749,2023-01-15,Baby Aspirin,1,122.97,Insurance,East,Pain Relief,122.97,96.75,26.22
+1750,2023-06-11,Ibuprofen 200mg,3,108.67,Cash,West,Pain Relief,326.01,214.37,111.63999999999999
+1751,2023-06-12,Sleep Aid Tablets,2,41.08,Insurance,West,Sleep Aid,82.16,48.1,34.059999999999995
+1752,2023-11-16,Vitamin D3 1000IU,2,136.98,Cash,North,Vitamins,273.96,232.57,41.389999999999986
+1753,2023-10-08,Acetaminophen 500mg,2,27.39,Insurance,West,Pain Relief,54.78,43.07,11.71
+1754,2023-10-07,Cough Syrup,5,95.88,Insurance,North,Cold & Flu,479.4,322.46,156.94
+1755,2023-01-12,Amoxicillin 500mg,5,9.18,Cash,East,Prescription,45.9,36.58,9.32
+1756,2023-10-01,Sleep Aid Tablets,5,98.34,Insurance,North,Sleep Aid,491.70000000000005,370.83,120.87000000000006
+1757,2023-09-28,Cholesterol Med,4,45.19,Insurance,South,Prescription,180.76,142.26,38.5
+1758,2023-07-27,Antacid Tablets,2,70.2,Cash,South,Digestive Health,140.4,111.56,28.840000000000003
+1759,2023-01-27,Vitamin D3 1000IU,3,55.06,Cash,North,Vitamins,165.18,95.05,70.13000000000001
+1760,2023-03-13,Ibuprofen 200mg,5,30.05,Insurance,South,Pain Relief,150.25,110.72,39.53
+1761,2023-03-01,Ibuprofen 200mg,5,95.19,Cash,East,Pain Relief,475.95,262.74,213.20999999999998
+1762,2023-05-25,Cholesterol Med,2,132.89,Cash,South,Prescription,265.78,149.64,116.13999999999999
+1763,2023-04-03,Antihistamine,5,144.07,Cash,North,Allergy,720.3499999999999,591.55,128.79999999999995
+1764,2023-11-05,Amoxicillin 500mg,4,32.89,Insurance,East,Prescription,131.56,93.18,38.379999999999995
+1765,2023-01-08,Sleep Aid Tablets,4,109.02,Insurance,South,Sleep Aid,436.08,336.12,99.95999999999998
+1766,2023-03-20,Nasal Spray,5,101.33,Insurance,East,Cold & Flu,506.65,406.11,100.53999999999996
+1767,2023-01-27,Insulin Pen,2,54.79,Insurance,North,Prescription,109.58,91.49,18.090000000000003
+1768,2023-06-23,Acetaminophen 500mg,2,7.77,Insurance,South,Pain Relief,15.54,12.6,2.9399999999999995
+1769,2023-02-19,Sleep Aid Tablets,2,105.02,Insurance,East,Sleep Aid,210.04,145.98,64.06
+1770,2023-07-18,Pain Relief Gel,1,142.1,Insurance,East,Pain Relief,142.1,92.48,49.61999999999999
+1771,2023-12-15,Nasal Spray,5,96.66,Cash,South,Cold & Flu,483.29999999999995,288.21,195.08999999999997
+1772,2023-06-30,Antihistamine,2,68.12,Insurance,East,Allergy,136.24,91.29,44.95
+1773,2023-01-24,Acetaminophen 500mg,4,81.15,Insurance,East,Pain Relief,324.6,214.22,110.38000000000002
+1774,2023-11-12,Amoxicillin 500mg,3,33.95,Cash,North,Prescription,101.85000000000001,73.12,28.730000000000004
+1775,2023-02-15,Blood Pressure Med,3,113.83,Cash,North,Prescription,341.49,256.0,85.49000000000001
+1776,2023-01-15,Pain Relief Gel,2,113.23,Cash,North,Pain Relief,226.46,191.02,35.44
+1777,2023-06-02,Antihistamine,3,26.1,Insurance,North,Allergy,78.30000000000001,60.17,18.13000000000001
+1778,2023-08-10,Baby Aspirin,3,132.31,Cash,North,Pain Relief,396.93,294.97,101.95999999999998
+1779,2023-07-25,Acetaminophen 500mg,1,44.03,Insurance,North,Pain Relief,44.03,28.64,15.39
+1780,2023-09-30,Amoxicillin 500mg,4,147.43,Insurance,South,Prescription,589.72,330.45,259.27000000000004
+1781,2023-08-24,Allergy Relief,4,60.52,Insurance,North,Allergy,242.08,154.07,88.01000000000002
+1782,2023-12-06,Nasal Spray,1,30.79,Cash,East,Cold & Flu,30.79,24.03,6.759999999999998
+1783,2023-08-16,Nasal Spray,1,56.0,Cash,South,Cold & Flu,56.0,34.25,21.75
+1784,2023-01-09,Insulin Pen,3,68.83,Insurance,East,Prescription,206.49,157.69,48.80000000000001
+1785,2023-06-15,Cholesterol Med,5,15.05,Insurance,North,Prescription,75.25,54.48,20.770000000000003
+1786,2023-11-15,Amoxicillin 500mg,3,88.84,Insurance,North,Prescription,266.52,160.33,106.18999999999997
+1787,2023-08-02,Vitamin D3 1000IU,1,91.66,Cash,East,Vitamins,91.66,57.61,34.05
+1788,2023-04-27,Allergy Relief,4,112.14,Insurance,East,Allergy,448.56,313.49,135.07
+1789,2023-12-10,Blood Pressure Med,3,9.23,Cash,East,Prescription,27.69,18.7,8.990000000000002
+1790,2023-03-13,Cough Syrup,5,83.48,Insurance,West,Cold & Flu,417.40000000000003,327.06,90.34000000000003
+1791,2023-03-05,Acetaminophen 500mg,3,12.67,Cash,West,Pain Relief,38.01,29.28,8.729999999999997
+1792,2023-07-24,Pain Relief Gel,2,106.67,Insurance,West,Pain Relief,213.34,154.11,59.22999999999999
+1793,2023-07-28,Allergy Relief,3,13.08,Cash,West,Allergy,39.24,31.26,7.98
+1794,2023-03-13,Amoxicillin 500mg,1,137.2,Cash,South,Prescription,137.2,98.62,38.579999999999984
+1795,2023-10-04,Baby Aspirin,4,106.8,Cash,North,Pain Relief,427.2,358.56,68.63999999999999
+1796,2023-10-01,Antacid Tablets,4,78.57,Cash,East,Digestive Health,314.28,193.33,120.94999999999996
+1797,2023-11-16,Acetaminophen 500mg,1,69.02,Cash,North,Pain Relief,69.02,52.75,16.269999999999996
+1798,2023-12-04,Ibuprofen 200mg,2,23.95,Cash,East,Pain Relief,47.9,31.66,16.24
+1799,2023-04-05,Nasal Spray,1,47.19,Insurance,North,Cold & Flu,47.19,29.9,17.29
+1800,2023-06-15,Baby Aspirin,3,131.0,Insurance,South,Pain Relief,393.0,237.42,155.58
+1801,2023-02-01,Cholesterol Med,1,136.15,Insurance,West,Prescription,136.15,97.45,38.7
+1802,2023-01-11,Amoxicillin 500mg,1,5.11,Insurance,North,Prescription,5.11,3.14,1.9700000000000002
+1803,2023-10-28,Blood Pressure Med,2,91.15,Cash,East,Prescription,182.3,111.22,71.08000000000001
+1804,2023-08-05,Ibuprofen 200mg,3,109.3,Insurance,North,Pain Relief,327.9,277.78,50.120000000000005
+1805,2023-10-16,Insulin Pen,5,94.72,Cash,South,Prescription,473.6,374.39,99.21000000000004
+1806,2023-04-12,Pain Relief Gel,5,16.84,Cash,South,Pain Relief,84.2,65.21,18.99000000000001
+1807,2023-09-24,Sleep Aid Tablets,4,36.57,Cash,North,Sleep Aid,146.28,115.3,30.980000000000004
+1808,2023-08-02,Antihistamine,1,41.3,Insurance,West,Allergy,41.3,34.72,6.579999999999998
+1809,2023-06-28,Cough Syrup,4,125.6,Cash,East,Cold & Flu,502.4,362.72,139.67999999999995
+1810,2023-03-29,Cough Syrup,2,72.16,Insurance,South,Cold & Flu,144.32,88.91,55.41
+1811,2023-02-10,Baby Aspirin,5,75.59,Insurance,South,Pain Relief,377.95000000000005,305.63,72.32000000000005
+1812,2023-03-17,Ibuprofen 200mg,1,140.56,Insurance,North,Pain Relief,140.56,108.63,31.930000000000007
+1813,2023-02-15,Sleep Aid Tablets,2,97.38,Insurance,South,Sleep Aid,194.76,131.33,63.42999999999998
+1814,2023-06-09,Sleep Aid Tablets,2,135.31,Insurance,South,Sleep Aid,270.62,187.29,83.33000000000001
+1815,2023-03-21,Nasal Spray,1,71.19,Cash,East,Cold & Flu,71.19,47.94,23.25
+1816,2023-11-06,Insulin Pen,2,26.67,Cash,West,Prescription,53.34,44.22,9.120000000000005
+1817,2023-03-27,Antacid Tablets,1,139.84,Insurance,East,Digestive Health,139.84,91.32,48.52000000000001
+1818,2023-04-02,Nasal Spray,1,71.51,Cash,West,Cold & Flu,71.51,60.0,11.510000000000005
+1819,2023-05-28,Allergy Relief,3,31.34,Insurance,East,Allergy,94.02,77.39,16.629999999999995
+1820,2023-06-10,Cholesterol Med,4,48.85,Cash,North,Prescription,195.4,144.43,50.97
+1821,2023-07-21,Cough Syrup,2,12.37,Cash,South,Cold & Flu,24.74,17.91,6.829999999999998
+1822,2023-08-30,Allergy Relief,2,72.9,Cash,West,Allergy,145.8,96.38,49.420000000000016
+1823,2023-12-19,Blood Pressure Med,3,128.7,Cash,North,Prescription,386.09999999999997,214.48,171.61999999999998
+1824,2023-01-02,Acetaminophen 500mg,3,140.37,Cash,South,Pain Relief,421.11,247.73,173.38000000000002
+1825,2023-08-13,Vitamin D3 1000IU,3,140.23,Cash,South,Vitamins,420.68999999999994,326.57,94.11999999999995
+1826,2023-10-16,Amoxicillin 500mg,5,23.16,Cash,South,Prescription,115.8,80.07,35.730000000000004
+1827,2023-08-21,Pain Relief Gel,5,60.4,Cash,East,Pain Relief,302.0,179.68,122.32
+1828,2023-03-18,Insulin Pen,5,9.09,Cash,North,Prescription,45.45,28.6,16.85
+1829,2023-04-26,Nasal Spray,1,129.0,Cash,North,Cold & Flu,129.0,107.63,21.370000000000005
+1830,2023-06-03,Cough Syrup,2,57.02,Cash,South,Cold & Flu,114.04,75.28,38.760000000000005
+1831,2023-04-13,Allergy Relief,4,96.51,Cash,West,Allergy,386.04,317.44,68.60000000000002
+1832,2023-07-13,Antihistamine,1,108.66,Cash,North,Allergy,108.66,69.69,38.97
+1833,2023-06-15,Baby Aspirin,2,67.33,Insurance,East,Pain Relief,134.66,96.01,38.64999999999999
+1834,2023-12-25,Cholesterol Med,2,49.43,Cash,West,Prescription,98.86,54.98,43.88
+1835,2023-03-31,Cholesterol Med,3,144.52,Cash,West,Prescription,433.56000000000006,306.34,127.22000000000008
+1836,2023-06-23,Acetaminophen 500mg,3,144.85,Cash,West,Pain Relief,434.54999999999995,322.04,112.50999999999993
+1837,2023-05-02,Amoxicillin 500mg,1,46.97,Cash,West,Prescription,46.97,29.14,17.83
+1838,2023-05-23,Amoxicillin 500mg,3,74.55,Cash,North,Prescription,223.64999999999998,161.85,61.79999999999998
+1839,2023-04-16,Cholesterol Med,2,146.06,Cash,South,Prescription,292.12,217.38,74.74000000000001
+1840,2023-11-01,Cholesterol Med,3,5.71,Insurance,West,Prescription,17.13,12.95,4.18
+1841,2023-12-26,Sleep Aid Tablets,5,64.84,Insurance,East,Sleep Aid,324.20000000000005,253.82,70.38000000000005
+1842,2023-11-13,Nasal Spray,3,19.57,Insurance,East,Cold & Flu,58.71,37.77,20.939999999999998
+1843,2023-05-03,Sleep Aid Tablets,2,78.83,Cash,South,Sleep Aid,157.66,113.57,44.09
+1844,2023-01-09,Insulin Pen,1,8.58,Cash,North,Prescription,8.58,7.25,1.33
+1845,2023-09-19,Antacid Tablets,4,64.0,Cash,South,Digestive Health,256.0,209.78,46.22
+1846,2023-03-14,Blood Pressure Med,3,37.0,Insurance,West,Prescription,111.0,92.77,18.230000000000004
+1847,2023-12-25,Antihistamine,2,82.33,Cash,North,Allergy,164.66,109.64,55.019999999999996
+1848,2023-08-11,Blood Pressure Med,4,149.42,Cash,North,Prescription,597.68,469.82,127.85999999999996
+1849,2023-02-10,Nasal Spray,4,121.08,Insurance,West,Cold & Flu,484.32,356.44,127.88
+1850,2023-07-23,Allergy Relief,5,127.62,Insurance,East,Allergy,638.1,366.79,271.31
+1851,2023-09-21,Vitamin D3 1000IU,4,97.11,Cash,West,Vitamins,388.44,309.66,78.77999999999997
+1852,2023-11-24,Cholesterol Med,2,11.03,Cash,South,Prescription,22.06,16.61,5.449999999999999
+1853,2023-06-27,Ibuprofen 200mg,2,34.99,Cash,West,Pain Relief,69.98,42.67,27.310000000000002
+1854,2023-12-14,Antacid Tablets,3,139.13,Cash,East,Digestive Health,417.39,239.55,177.83999999999997
+1855,2023-11-14,Insulin Pen,3,58.09,Insurance,West,Prescription,174.27,139.61,34.66
+1856,2023-03-25,Acetaminophen 500mg,3,20.03,Cash,South,Pain Relief,60.09,34.47,25.620000000000005
+1857,2023-11-14,Antacid Tablets,4,106.85,Cash,South,Digestive Health,427.4,246.78,180.61999999999998
+1858,2023-04-21,Cholesterol Med,4,48.42,Insurance,East,Prescription,193.68,131.36,62.31999999999999
+1859,2023-09-08,Cough Syrup,5,43.98,Cash,South,Cold & Flu,219.89999999999998,129.84,90.05999999999997
+1860,2023-01-07,Insulin Pen,3,149.71,Cash,South,Prescription,449.13,370.13,79.0
+1861,2023-03-25,Vitamin D3 1000IU,1,129.43,Insurance,West,Vitamins,129.43,89.45,39.980000000000004
+1862,2023-07-27,Cough Syrup,5,64.15,Insurance,North,Cold & Flu,320.75,231.18,89.57
+1863,2023-11-10,Antacid Tablets,1,147.14,Cash,South,Digestive Health,147.14,121.9,25.23999999999998
+1864,2023-01-22,Ibuprofen 200mg,4,99.27,Insurance,South,Pain Relief,397.08,281.56,115.51999999999998
+1865,2023-01-03,Ibuprofen 200mg,5,112.59,Insurance,East,Pain Relief,562.95,369.34,193.61000000000007
+1866,2023-05-07,Sleep Aid Tablets,5,9.57,Cash,East,Sleep Aid,47.85,37.76,10.090000000000003
+1867,2023-10-24,Vitamin D3 1000IU,2,22.63,Insurance,West,Vitamins,45.26,30.91,14.349999999999998
+1868,2023-07-07,Amoxicillin 500mg,4,96.8,Cash,West,Prescription,387.2,249.95,137.25
+1869,2023-12-28,Pain Relief Gel,4,135.36,Cash,South,Pain Relief,541.44,415.27,126.17000000000007
+1870,2023-01-14,Antihistamine,5,95.44,Cash,North,Allergy,477.2,377.22,99.97999999999996
+1871,2023-01-12,Cholesterol Med,4,24.43,Cash,North,Prescription,97.72,76.96,20.760000000000005
+1872,2023-03-28,Acetaminophen 500mg,5,21.79,Insurance,West,Pain Relief,108.94999999999999,91.88,17.069999999999993
+1873,2023-01-12,Cholesterol Med,2,127.41,Cash,East,Prescription,254.82,200.29,54.53
+1874,2023-01-25,Amoxicillin 500mg,5,25.2,Cash,South,Prescription,126.0,98.4,27.599999999999994
+1875,2023-10-28,Blood Pressure Med,4,80.43,Cash,South,Prescription,321.72,259.71,62.01000000000005
+1876,2023-08-31,Sleep Aid Tablets,4,10.38,Cash,North,Sleep Aid,41.52,22.84,18.680000000000003
+1877,2023-05-02,Sleep Aid Tablets,5,16.7,Insurance,West,Sleep Aid,83.5,55.0,28.5
+1878,2023-05-27,Blood Pressure Med,5,102.49,Insurance,North,Prescription,512.4499999999999,395.24,117.20999999999992
+1879,2023-02-24,Baby Aspirin,5,104.93,Insurance,North,Pain Relief,524.6500000000001,382.95,141.7000000000001
+1880,2023-08-26,Blood Pressure Med,3,54.51,Cash,West,Prescription,163.53,98.65,64.88
+1881,2023-12-22,Ibuprofen 200mg,4,36.26,Insurance,East,Pain Relief,145.04,92.99,52.05
+1882,2023-06-22,Ibuprofen 200mg,4,122.99,Insurance,South,Pain Relief,491.96,320.28,171.68
+1883,2023-08-09,Allergy Relief,3,36.48,Cash,East,Allergy,109.44,78.83,30.61
+1884,2023-04-29,Cough Syrup,5,83.59,Insurance,West,Cold & Flu,417.95000000000005,334.14,83.81000000000006
+1885,2023-11-05,Antacid Tablets,2,145.39,Cash,West,Digestive Health,290.78,241.27,49.50999999999996
+1886,2023-07-02,Acetaminophen 500mg,5,26.44,Insurance,South,Pain Relief,132.20000000000002,102.46,29.740000000000023
+1887,2023-10-15,Vitamin D3 1000IU,5,141.43,Insurance,East,Vitamins,707.1500000000001,567.76,139.3900000000001
+1888,2023-11-03,Antacid Tablets,3,31.52,Insurance,South,Digestive Health,94.56,65.34,29.22
+1889,2023-10-27,Cholesterol Med,4,87.28,Insurance,North,Prescription,349.12,232.84,116.28
+1890,2023-03-23,Allergy Relief,5,59.67,Cash,North,Allergy,298.35,199.24,99.11000000000001
+1891,2023-07-30,Ibuprofen 200mg,4,144.91,Cash,North,Pain Relief,579.64,425.93,153.70999999999998
+1892,2023-05-30,Sleep Aid Tablets,1,44.66,Insurance,East,Sleep Aid,44.66,26.23,18.429999999999996
+1893,2023-02-06,Vitamin D3 1000IU,4,62.95,Cash,North,Vitamins,251.8,182.26,69.54000000000002
+1894,2023-12-18,Ibuprofen 200mg,2,147.51,Insurance,South,Pain Relief,295.02,221.13,73.88999999999999
+1895,2023-11-08,Pain Relief Gel,2,82.79,Insurance,East,Pain Relief,165.58,112.87,52.71000000000001
+1896,2023-12-27,Acetaminophen 500mg,5,77.88,Insurance,South,Pain Relief,389.4,325.52,63.879999999999995
+1897,2023-02-28,Cough Syrup,4,42.38,Insurance,West,Cold & Flu,169.52,124.17,45.35000000000001
+1898,2023-05-11,Baby Aspirin,5,106.7,Insurance,East,Pain Relief,533.5,328.64,204.86
+1899,2023-07-21,Antacid Tablets,3,7.08,Insurance,South,Digestive Health,21.240000000000002,14.74,6.500000000000002
+1900,2023-08-31,Antacid Tablets,2,12.18,Cash,South,Digestive Health,24.36,18.33,6.030000000000001
+1901,2023-02-04,Blood Pressure Med,5,91.91,Cash,East,Prescription,459.54999999999995,297.37,162.17999999999995
+1902,2023-04-03,Amoxicillin 500mg,3,54.54,Insurance,West,Prescription,163.62,93.9,69.72
+1903,2023-07-26,Blood Pressure Med,5,143.23,Cash,East,Prescription,716.15,519.23,196.91999999999996
+1904,2023-12-19,Pain Relief Gel,4,135.96,Insurance,North,Pain Relief,543.84,453.76,90.08000000000004
+1905,2023-11-28,Vitamin D3 1000IU,4,108.49,Cash,North,Vitamins,433.96,301.83,132.13
+1906,2023-11-01,Antihistamine,4,123.63,Cash,West,Allergy,494.52,406.41,88.10999999999996
+1907,2023-12-16,Blood Pressure Med,4,101.76,Cash,South,Prescription,407.04,325.84,81.20000000000005
+1908,2023-08-01,Baby Aspirin,1,23.21,Insurance,South,Pain Relief,23.21,13.79,9.420000000000002
+1909,2023-06-08,Allergy Relief,3,116.0,Cash,South,Allergy,348.0,265.33,82.67000000000002
+1910,2023-01-24,Blood Pressure Med,3,35.48,Insurance,East,Prescription,106.44,72.45,33.989999999999995
+1911,2023-10-20,Blood Pressure Med,4,51.9,Insurance,East,Prescription,207.6,129.77,77.82999999999998
+1912,2023-01-04,Antihistamine,1,123.79,Insurance,West,Allergy,123.79,93.6,30.190000000000012
+1913,2023-08-08,Amoxicillin 500mg,4,82.8,Cash,North,Prescription,331.2,255.95,75.25
+1914,2023-12-30,Acetaminophen 500mg,1,129.69,Cash,South,Pain Relief,129.69,78.33,51.36
+1915,2023-01-20,Allergy Relief,4,35.89,Cash,North,Allergy,143.56,118.34,25.22
+1916,2023-06-01,Blood Pressure Med,2,93.13,Insurance,East,Prescription,186.26,144.42,41.84
+1917,2023-02-19,Pain Relief Gel,2,17.15,Insurance,East,Pain Relief,34.3,28.47,5.829999999999998
+1918,2023-06-26,Sleep Aid Tablets,5,98.24,Cash,East,Sleep Aid,491.2,316.88,174.32
+1919,2023-04-06,Cough Syrup,4,115.57,Insurance,North,Cold & Flu,462.28,384.52,77.75999999999999
+1920,2023-04-15,Baby Aspirin,3,89.81,Cash,West,Pain Relief,269.43,177.97,91.46000000000001
+1921,2023-09-07,Antihistamine,5,43.6,Cash,West,Allergy,218.0,123.43,94.57
+1922,2023-04-27,Cough Syrup,2,9.54,Cash,East,Cold & Flu,19.08,14.86,4.219999999999999
+1923,2023-12-20,Antihistamine,4,22.32,Cash,South,Allergy,89.28,67.95,21.33
+1924,2023-08-16,Pain Relief Gel,5,95.23,Insurance,North,Pain Relief,476.15000000000003,347.29,128.86
+1925,2023-03-07,Cough Syrup,4,140.49,Cash,East,Cold & Flu,561.96,391.67,170.29000000000002
+1926,2023-12-01,Antihistamine,2,34.95,Cash,North,Allergy,69.9,39.12,30.78000000000001
+1927,2023-09-19,Cholesterol Med,5,111.58,Cash,North,Prescription,557.9,411.38,146.51999999999998
+1928,2023-10-22,Cough Syrup,2,130.64,Cash,West,Cold & Flu,261.28,176.38,84.89999999999998
+1929,2023-08-31,Amoxicillin 500mg,1,80.53,Cash,East,Prescription,80.53,57.83,22.700000000000003
+1930,2023-07-05,Insulin Pen,2,102.04,Cash,West,Prescription,204.08,138.53,65.55000000000001
+1931,2023-09-03,Allergy Relief,4,123.18,Cash,East,Allergy,492.72,413.79,78.93
+1932,2023-05-05,Vitamin D3 1000IU,3,42.8,Insurance,North,Vitamins,128.39999999999998,93.89,34.50999999999998
+1933,2023-09-25,Acetaminophen 500mg,2,48.05,Insurance,West,Pain Relief,96.1,74.46,21.64
+1934,2023-05-11,Cholesterol Med,3,5.09,Insurance,North,Prescription,15.27,12.69,2.58
+1935,2023-08-25,Nasal Spray,1,144.65,Insurance,East,Cold & Flu,144.65,105.23,39.42
+1936,2023-01-18,Ibuprofen 200mg,5,138.04,Cash,South,Pain Relief,690.1999999999999,382.11,308.0899999999999
+1937,2023-02-09,Pain Relief Gel,5,115.86,Insurance,West,Pain Relief,579.3,324.57,254.72999999999996
+1938,2023-01-21,Pain Relief Gel,3,16.47,Insurance,West,Pain Relief,49.41,37.59,11.819999999999993
+1939,2023-08-13,Blood Pressure Med,5,69.89,Insurance,North,Prescription,349.45,221.46,127.98999999999998
+1940,2023-12-21,Sleep Aid Tablets,2,19.77,Cash,North,Sleep Aid,39.54,28.62,10.919999999999998
+1941,2023-10-09,Baby Aspirin,3,7.31,Insurance,South,Pain Relief,21.93,13.39,8.54
+1942,2023-01-08,Vitamin D3 1000IU,4,94.35,Insurance,West,Vitamins,377.4,238.17,139.23
+1943,2023-04-10,Ibuprofen 200mg,2,144.32,Cash,East,Pain Relief,288.64,202.45,86.19
+1944,2023-08-28,Pain Relief Gel,2,135.92,Insurance,East,Pain Relief,271.84,229.07,42.76999999999998
+1945,2023-03-28,Allergy Relief,2,106.03,Cash,West,Allergy,212.06,155.84,56.22
+1946,2023-10-25,Vitamin D3 1000IU,4,19.01,Insurance,West,Vitamins,76.04,63.18,12.860000000000007
+1947,2023-01-14,Cough Syrup,1,44.75,Cash,West,Cold & Flu,44.75,37.49,7.259999999999998
+1948,2023-11-30,Cough Syrup,5,51.41,Insurance,South,Cold & Flu,257.04999999999995,157.43,99.61999999999995
+1949,2023-01-02,Nasal Spray,3,115.66,Insurance,East,Cold & Flu,346.98,223.23,123.75000000000003
+1950,2023-10-20,Ibuprofen 200mg,1,121.33,Insurance,East,Pain Relief,121.33,94.76,26.569999999999993
+1951,2023-11-21,Pain Relief Gel,3,60.84,Cash,North,Pain Relief,182.52,147.85,34.670000000000016
+1952,2023-02-10,Acetaminophen 500mg,5,65.59,Insurance,North,Pain Relief,327.95000000000005,231.46,96.49000000000004
+1953,2023-11-14,Pain Relief Gel,4,11.45,Cash,West,Pain Relief,45.8,38.84,6.959999999999994
+1954,2023-11-12,Allergy Relief,2,46.92,Cash,North,Allergy,93.84,51.94,41.900000000000006
+1955,2023-04-21,Cough Syrup,2,70.44,Cash,South,Cold & Flu,140.88,90.15,50.72999999999999
+1956,2023-01-14,Blood Pressure Med,4,21.96,Cash,East,Prescription,87.84,64.73,23.11
+1957,2023-08-19,Insulin Pen,1,70.72,Insurance,East,Prescription,70.72,48.85,21.869999999999997
+1958,2023-03-25,Amoxicillin 500mg,1,128.71,Insurance,North,Prescription,128.71,75.29,53.42
+1959,2023-05-10,Amoxicillin 500mg,3,89.29,Insurance,West,Prescription,267.87,176.88,90.99000000000001
+1960,2023-08-19,Antihistamine,4,16.44,Cash,North,Allergy,65.76,36.67,29.090000000000003
+1961,2023-11-22,Acetaminophen 500mg,1,32.79,Insurance,West,Pain Relief,32.79,24.36,8.43
+1962,2023-05-25,Pain Relief Gel,4,73.81,Cash,South,Pain Relief,295.24,241.45,53.79000000000002
+1963,2023-12-11,Amoxicillin 500mg,5,57.42,Cash,East,Prescription,287.1,234.12,52.98000000000002
+1964,2023-01-28,Antihistamine,2,57.02,Cash,South,Allergy,114.04,86.65,27.39
+1965,2023-03-07,Ibuprofen 200mg,2,81.74,Insurance,East,Pain Relief,163.48,112.76,50.719999999999985
+1966,2023-06-12,Cough Syrup,2,89.74,Insurance,South,Cold & Flu,179.48,126.28,53.19999999999999
+1967,2023-08-17,Baby Aspirin,4,120.54,Cash,North,Pain Relief,482.16,284.99,197.17000000000002
+1968,2023-09-18,Sleep Aid Tablets,4,54.44,Insurance,South,Sleep Aid,217.76,142.05,75.70999999999998
+1969,2023-06-13,Cholesterol Med,3,121.79,Insurance,South,Prescription,365.37,221.53,143.84
+1970,2023-10-28,Cough Syrup,2,54.1,Cash,North,Cold & Flu,108.2,86.17,22.03
+1971,2023-10-30,Cholesterol Med,3,13.04,Cash,East,Prescription,39.12,32.25,6.869999999999997
+1972,2023-10-14,Blood Pressure Med,2,85.36,Insurance,East,Prescription,170.72,121.4,49.31999999999999
+1973,2023-01-10,Insulin Pen,3,90.25,Cash,North,Prescription,270.75,208.03,62.72
+1974,2023-07-14,Vitamin D3 1000IU,3,140.51,Cash,South,Vitamins,421.53,247.2,174.32999999999998
+1975,2023-04-28,Amoxicillin 500mg,5,110.28,Insurance,South,Prescription,551.4,403.93,147.46999999999997
+1976,2023-09-27,Ibuprofen 200mg,3,138.08,Insurance,South,Pain Relief,414.24,315.17,99.07
+1977,2023-03-21,Cholesterol Med,4,136.71,Cash,West,Prescription,546.84,375.04,171.8
+1978,2023-04-03,Sleep Aid Tablets,3,92.66,Insurance,East,Sleep Aid,277.98,173.18,104.80000000000001
+1979,2023-09-23,Antacid Tablets,2,81.53,Cash,South,Digestive Health,163.06,132.6,30.460000000000008
+1980,2023-11-28,Pain Relief Gel,3,85.83,Cash,East,Pain Relief,257.49,199.01,58.48000000000002
+1981,2023-12-16,Amoxicillin 500mg,1,146.86,Insurance,South,Prescription,146.86,120.42,26.440000000000012
+1982,2023-12-27,Pain Relief Gel,2,117.11,Cash,North,Pain Relief,234.22,186.33,47.889999999999986
+1983,2023-09-14,Sleep Aid Tablets,1,20.41,Cash,North,Sleep Aid,20.41,17.29,3.120000000000001
+1984,2023-05-13,Acetaminophen 500mg,2,117.87,Cash,East,Pain Relief,235.74,143.25,92.49000000000001
+1985,2023-10-03,Blood Pressure Med,4,29.73,Insurance,East,Prescription,118.92,68.5,50.42
+1986,2023-09-21,Vitamin D3 1000IU,4,69.87,Insurance,North,Vitamins,279.48,181.97,97.51000000000002
+1987,2023-06-20,Amoxicillin 500mg,4,35.52,Insurance,West,Prescription,142.08,83.64,58.44000000000001
+1988,2023-01-01,Pain Relief Gel,1,104.99,Cash,North,Pain Relief,104.99,74.22,30.769999999999996
+1989,2023-11-09,Ibuprofen 200mg,5,132.21,Cash,South,Pain Relief,661.0500000000001,489.12,171.93000000000006
+1990,2023-03-05,Amoxicillin 500mg,2,47.1,Insurance,West,Prescription,94.2,68.15,26.049999999999997
+1991,2023-10-11,Cholesterol Med,4,16.89,Insurance,North,Prescription,67.56,42.41,25.150000000000006
+1992,2023-05-01,Acetaminophen 500mg,2,48.28,Insurance,West,Pain Relief,96.56,79.43,17.129999999999995
+1993,2023-04-17,Antacid Tablets,1,102.49,Cash,West,Digestive Health,102.49,57.02,45.46999999999999
+1994,2023-06-24,Allergy Relief,5,52.67,Insurance,West,Allergy,263.35,172.34,91.01000000000002
+1995,2023-07-23,Nasal Spray,1,45.33,Cash,East,Cold & Flu,45.33,34.71,10.619999999999997
+1996,2023-06-14,Antacid Tablets,2,31.74,Insurance,North,Digestive Health,63.48,49.52,13.959999999999994
+1997,2023-11-01,Antihistamine,5,77.14,Cash,East,Allergy,385.7,260.28,125.42000000000002
+1998,2023-04-30,Amoxicillin 500mg,5,45.01,Cash,East,Prescription,225.04999999999998,124.92,100.12999999999998
+1999,2023-02-13,Cough Syrup,1,111.0,Insurance,South,Cold & Flu,111.0,81.63,29.370000000000005
+2000,2023-11-08,Insulin Pen,4,16.11,Cash,South,Prescription,64.44,36.66,27.78
