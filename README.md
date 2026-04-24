@@ -9,17 +9,22 @@ The dataset includes 2,000 pharmacy sales transactions across multiple regions i
 ## Project Structure
 
 retail-performance-analysis/
-│
-├── data/
-│   └── pharmacy_sales_usa.csv
-│
-├── notebooks/
-│   └── Retail_Performance_Complete_Notebook.ipynb
-│
-├── README.md
-├── ISSUES.md
-├── MILESTONES.md
-└── ROADMAP.md
+
+data/
+
+* pharmacy_sales_usa.csv
+
+notebooks/
+
+* Retail_Performance_Complete_Notebook.ipynb
+
+* README.md
+
+* ISSUES.md
+
+* MILESTONES.md
+
+* ROADMAP.md
 
 ## Data Cleaning & Preparation
 
