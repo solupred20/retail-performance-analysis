@@ -1,8 +1,13 @@
-Retail Performance Analysis — Final Project
+# Retail Performance Analysis — Final Project
 
-This project analyzes retail pharmacy sales data to uncover key business insights, identify performance patterns, and produce visualizations and KPIs that support data-driven decisions.
-The dataset used contains 2,000 pharmacy sales transactions across multiple U.S. regions.
-📂 Project Structure
+## Overview
+
+This project analyzes retail pharmacy sales data to uncover key business insights, identify performance patterns, and generate KPIs and visualizations that support data-driven decision-making.
+
+The dataset includes 2,000 pharmacy sales transactions across multiple regions in the United States.
+
+## Project Structure
+
 retail-performance-analysis/
 │
 ├── data/
@@ -15,75 +20,59 @@ retail-performance-analysis/
 ├── ISSUES.md
 ├── MILESTONES.md
 └── ROADMAP.md
-🧹 1. Data Cleaning & Preparation
 
-Removed duplicates
+## Data Cleaning & Preparation
 
-Checked missing values
+* Removed duplicate records
+* Checked and handled missing values
+* Parsed and formatted date columns
+* Standardized data types across all fields
+* Created new features:
 
-Parsed dates
+  * Profit Margin
+  * Sales per Unit
+  * Discount Flag
 
-Standardized column types
+## KPI Metrics
 
-Engineered features such as:
+* Total Revenue
+* Total Profit
+* Average Profit Margin
+* Number of Orders
+* Number of Unique Products
 
-Profit Margin
+## Visualizations
 
-Sales per Unit
+* Monthly sales trend
+* Monthly profit trend
+* Sales by category
+* Discount vs profit scatter plot
+* Top 10 products by revenue
 
-Discount Flag
-📊 2. KPI Metrics Calculated
+All visualizations are generated within the notebook and exported automatically.
 
-Total Revenue
+## Final Deliverables
 
-Total Profit
+The final notebook includes:
 
-Average Profit Margin
+* End-to-end analysis pipeline
+* Cleaned and processed dataset
+* KPI calculations
+* Visual insights
+* Exported summaries
 
-Number of Orders
+## Tools and Technologies
 
-Number of Unique Products
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Jupyter Notebook
 
-📈 3. Visualizations Produced
-
-Monthly sales trend
-
-Monthly profit trend
-
-Sales by category
-
-Discount vs profit scatter
-
-Top 10 products by revenue
-
-All plots are generated inside the notebook and exported automatically.
-
-📝 4. Final Deliverables
-
-The final notebook contains:
-
-Full analysis pipeline
-
-Cleaned dataset
-
-KPIs
-
-Visual insights
-
-Summary exports
-
-🚀 Tools Used
-
-Python
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Jupyter Notebook
-
-✔ Status
+## Status
 
 Project completed and ready for submission.
+
+## Author
+
+Mohamed Moustafa
